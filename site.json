@@ -1740,7 +1740,17 @@
         "created": 1727994876,
         "updated": 1727994876,
         "images": [],
-        "videos": []
+        "videos": [],
+        "files": [
+          {
+            "path": "[object Object]voice-recording-877717.mp3",
+            "fullUrl": "//home/andyyulianto77/tik12/files/voice-recording-877717.mp3",
+            "url": "files/voice-recording-877717.mp3",
+            "type": "audio/mpeg",
+            "name": "voice-recording-877717.mp3",
+            "size": 21672
+          }
+        ]
       }
     }
   ]

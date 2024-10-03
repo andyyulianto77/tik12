@@ -1484,6 +1484,14 @@
             "type": "image/jpeg",
             "name": "server-pexels.JPG",
             "size": 162437
+          },
+          {
+            "path": "[object Object]clients-server.png",
+            "fullUrl": "//home/andyyulianto77/tik12/files/clients-server.png",
+            "url": "files/clients-server.png",
+            "type": "image/png",
+            "name": "clients-server.png",
+            "size": 85926
           }
         ],
         "icon": "lrn:page"

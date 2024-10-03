@@ -1608,14 +1608,14 @@
       "description": "Isi dari database adalah kumpulan tabel-tabel\n\nBy the end of this lesson, you should be able to...\nMari kita membuat tabel tentang localhost.\nTabel tersebut akan disebut wombat, dan akan memiliki bid",
       "metadata": {
         "created": 1727968217,
-        "updated": 1727969043,
+        "updated": 1727969428,
         "images": {},
         "videos": {},
         "published": true,
         "pageType": "content",
         "hideInMenu": false,
         "locked": false,
-        "readtime": 1,
+        "readtime": 2,
         "icon": "lrn:page"
       }
     },

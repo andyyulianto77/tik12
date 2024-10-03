@@ -1701,13 +1701,18 @@
       "slug": "silabus/page",
       "order": 0,
       "parent": "item-6fbeaf95-aca5-490c-b82a-c0155f73535a",
-      "title": "Page",
-      "description": "",
+      "title": "Bersiap-siap Pro",
+      "description": "Buku yang mirip buku teks ini dibagi menjadi beberapa bagian. Bagian ini disebut \"Bersiap.\" Ada beberapa pelajaran di dalamnya. Anda dapat melihat daftarnya di bagian bawah halaman. Setiap pelajaran ",
       "metadata": {
         "created": 1727971221,
-        "updated": 1727971221,
-        "images": [],
-        "videos": []
+        "updated": 1727994366,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "pageType": "activity",
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]

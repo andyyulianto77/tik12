@@ -1734,11 +1734,11 @@
       "slug": "bersiap-siap-pro/page",
       "order": 1,
       "parent": "item-f61f8091-ceb3-4d8b-b1c4-d573ed0980a7",
-      "title": "Tentang Saya",
+      "title": "Page",
       "description": "Saya Andy Yulianto, instruktur kursus Anda.\n\nSilakan panggil saya dengan nama depan saya, jika Anda merasa nyaman dengan itu. Cara pengucapannya seperti ini.\n\n\nSaya lahir di Kediri, Indonesia, pada t",
       "metadata": {
         "created": 1727994876,
-        "updated": 1727995802,
+        "updated": 1727996234,
         "images": {},
         "videos": {},
         "files": [
@@ -1778,9 +1778,7 @@
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 2,
-        "pageType": "knowledge",
-        "icon": "courseicons:knowledge"
+        "readtime": 2
       }
     }
   ]

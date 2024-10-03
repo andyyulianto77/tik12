@@ -1475,7 +1475,17 @@
         "pageType": "content",
         "hideInMenu": false,
         "locked": false,
-        "readtime": 1
+        "readtime": 1,
+        "files": [
+          {
+            "path": "[object Object]server-pexels.JPG",
+            "fullUrl": "//home/andyyulianto77/tik12/files/server-pexels.JPG",
+            "url": "files/server-pexels.JPG",
+            "type": "image/jpeg",
+            "name": "server-pexels.JPG",
+            "size": 162437
+          }
+        ]
       }
     },
     {

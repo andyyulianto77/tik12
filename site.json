@@ -1693,6 +1693,22 @@
         "pageType": "lesson",
         "icon": "hax:lesson"
       }
+    },
+    {
+      "id": "item-f61f8091-ceb3-4d8b-b1c4-d573ed0980a7",
+      "indent": 0,
+      "location": "pages/item-f61f8091-ceb3-4d8b-b1c4-d573ed0980a7/index.html",
+      "slug": "silabus/page",
+      "order": 0,
+      "parent": "item-6fbeaf95-aca5-490c-b82a-c0155f73535a",
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1727971221,
+        "updated": 1727971221,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }

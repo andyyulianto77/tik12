@@ -1672,16 +1672,16 @@
     },
     {
       "id": "item-6fbeaf95-aca5-490c-b82a-c0155f73535a",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-6fbeaf95-aca5-490c-b82a-c0155f73535a/index.html",
       "slug": "bersiap-siap-pro/silabus",
       "order": 0,
       "parent": "item-f61f8091-ceb3-4d8b-b1c4-d573ed0980a7",
-      "title": "Silabus",
+      "title": "Apa yang Akan Anda Pelajari",
       "description": "Selamat datang, sebuah silabus adalah kontrak antara kita..\nlink Silabus Kurmer (Google Docs)\n\n    I bring you\n      \n    the death\nPada akhir Fase F, peserta didik mampu menerapkan proses berpi",
       "metadata": {
         "created": 1721269384,
-        "updated": 1727994426,
+        "updated": 1727994814,
         "images": {},
         "videos": {},
         "published": true,
@@ -1698,7 +1698,7 @@
           }
         ],
         "hideInMenu": false,
-        "readtime": 1,
+        "readtime": 2,
         "image": "https://images-assets.nasa.gov/image/iss007e09229/iss007e09229~thumb.jpg",
         "pageType": "lesson",
         "icon": "hax:lesson"

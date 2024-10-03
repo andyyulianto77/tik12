@@ -1476,13 +1476,18 @@
       "slug": "analisis-data/basis-data/page",
       "order": 0,
       "parent": "item-16c54262-de9a-439e-bc7c-994594c2822c",
-      "title": "Page",
-      "description": "",
+      "title": "Basis Data",
+      "description": "Basis Data (Database)\nBasis data adalah kumpulan informasi atau data yang terorganisir, tersimpan secara sistematis, dan dapat diakses secara elektronik. Bayangkan seperti sebuah perpustakaan raksasa",
       "metadata": {
         "created": 1727965796,
-        "updated": 1727965796,
-        "images": [],
-        "videos": []
+        "updated": 1727965956,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "pageType": "connection",
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 2
       }
     },
     {

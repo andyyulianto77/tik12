@@ -1550,13 +1550,18 @@
       "slug": "page",
       "order": 5,
       "parent": null,
-      "title": "Page",
-      "description": "",
+      "title": "Teknik dan Metode Analisis Data",
+      "description": "Teknik pengolahan data mengacu pada cara bagaimana data diproses dan dikelola. Banyak sekali teknik pengolahan data antara lain:\n1. Batch Processing\nDefinisi: Pengolahan data dilakukan secara berkala",
       "metadata": {
         "created": 1727963452,
-        "updated": 1727963452,
-        "images": [],
-        "videos": []
+        "updated": 1727963967,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "pageType": "content",
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 2
       }
     }
   ]

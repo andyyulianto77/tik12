@@ -1726,6 +1726,22 @@
         "status": "",
         "icon": "hax:ticket"
       }
+    },
+    {
+      "id": "item-55a07d13-86b0-424d-b888-e39dd3d9a95b",
+      "indent": 0,
+      "location": "pages/item-55a07d13-86b0-424d-b888-e39dd3d9a95b/index.html",
+      "slug": "bersiap-siap-pro/page",
+      "order": 1,
+      "parent": "item-f61f8091-ceb3-4d8b-b1c4-d573ed0980a7",
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1727994876,
+        "updated": 1727994876,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }

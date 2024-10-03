@@ -1470,6 +1470,22 @@
       }
     },
     {
+      "id": "item-0fd32513-6656-4e25-b954-fe7fd15232b6",
+      "indent": 0,
+      "location": "pages/item-0fd32513-6656-4e25-b954-fe7fd15232b6/index.html",
+      "slug": "analisis-data/basis-data/page",
+      "order": 0,
+      "parent": "item-16c54262-de9a-439e-bc7c-994594c2822c",
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1727965796,
+        "updated": 1727965796,
+        "images": [],
+        "videos": []
+      }
+    },
+    {
       "id": "item-2ccf03d8-e82c-4a33-aba5-3ae39d5e1421",
       "indent": 0,
       "location": "pages/item-2ccf03d8-e82c-4a33-aba5-3ae39d5e1421/index.html",

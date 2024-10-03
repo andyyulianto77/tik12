@@ -1,1 +1,87 @@
+
+<p>Kita sudah bisa manambahkan data. Sehingga data menjadi banyak.</p>
 <p></p>
+<learning-component subtitle="Unit 1" type=""><p>By the end of this lesson, you should be able to...</p></learning-component>
+<p data-design-treatment="horz-50p">Pernyataan SELECT SQL memungkinkan Anda melakukan kueri pada basis data. Pernyataan ini dapat melakukan banyak hal untuk Anda, seperti memfilter data, mengurutkan data dengan berbagai cara, menghitung data, dan hal lainnya.</p>
+<h3 data-original-level="H3" id="header-fea2bbfa-21e5-356f-0130-7ba6f3341877">Memulai</h3>
+<p>Mulailah dengan yang ini.</p>
+<ul><li>PILIH * DARI wombat;</li></ul>
+<p>Kasusnya tidak penting. Ini akan berfungsi dengan baik:</p>
+<ul><li>pilih * dari wombat;</li></ul>
+<p>Beberapa orang suka menggunakan HURUF KAPITAL pada kata-kata yang merupakan bagian dari SQL, tetapi hal ini tidak memengaruhi cara program berjalan. Terserah Anda.</p>
+<p>Klik tab SQL di salah satu phpMyAdmin Anda, dan coba kueri tersebut.</p>
+<h6 data-original-level="H6" id="header-72da1d1c-1b1f-c4d4-c675-86d5fb136c1e" data-design-treatment="horz-50p"><p role="textbox"></p></h6>
+<p>Perhatikan, Anda mendapatkan kembali baris dan kolom. SELECT selalu mengembalikan baris dan kolom, yaitu, sesuatu yang mirip tabel.</p>
+<p>Tanda * berarti "semua kolom". Karena kueri tidak membatasi baris, Anda akan mendapatkan semuanya.<br></p>
+<h6 data-original-level="H6" id="header-0e652c4e-52ef-d6c5-ee7e-7edc5763ea9c" data-design-treatment="horz-50p"><p role="textbox"></p></h6>
+<h3 data-original-level="H3" id="header-80f0d959-8706-5a56-5668-e8304ea4d451">Penyortiran</h3>
+<p>Coba yang ini:</p>
+<ul><li>PILIH * DARI wombat URUTKAN BERDASARKAN nama;</li></ul>
+<code-sample copy-clipboard-button type="html"><template preserve-content="preserve-content">const great = "example";
+            const great = "example";
+            const great = "example";</template></code-sample>
+<p>Anda dapat mengubah urutan sortir:</p>
+<ul><li>PILIH * DARI wombat URUTKAN BERDASARKAN nama DESC;</li></ul>
+<code-sample copy-clipboard-button type="html"><template preserve-content="preserve-content">const great = "example";
+            const great = "example";
+            const great = "example";</template></code-sample>
+<h6 data-original-level="H6" id="header-a469d847-9cfd-2f33-e1ea-f06dde3ab117" data-design-treatment="horz-50p"><p role="textbox"></p></h6>
+<p>Oke, <code style="box-sizing: border-box; font-family: SFMono-Regular, Menlo, Monaco, Consolas, &quot;Liberation Mono&quot;, &quot;Courier New&quot;, monospace; font-size: 14px; color: rgb(164, 19, 87); word-break: break-word; font-weight: bold;">weight</code>kolom tersebut memiliki nilai null untuk rekaman. Jika Anda mengurutkan berdasarkan bobot, apakah rekaman dengan nilai null akan berada di bagian atas daftar, bagian bawah, atau dihilangkan seluruhnya?</p>
+<p>Yuk, kita cari tahu. Coba ini.</p>
+<ul><li>PILIH * DARI wombat URUTKAN BERDASARKAN berat;</li></ul>
+<p>Sekarang kamu tahu.</p>
+<h6 data-original-level="H6" id="header-0f386fa0-632e-7373-c89e-9f47273a21c4" data-design-treatment="horz-50p"><p role="textbox"></p></h6>
+<h3 data-original-level="H3" id="header-e40aa20e-e6f8-0c32-e5f7-4a015ae1c2e1">Pilih kolom Anda</h3>
+<p>Kami menggunakan * untuk menampilkan semua kolom. Anda dapat memilih satu subset, seperti ini:</p>
+<ul><li>PILIH wombat_id, nama DARI wombat;</li></ul>
+<p>Cobalah.</p>
+<h6 data-original-level="H6" id="header-6760f127-1cf5-b63f-e0ae-ab86dbec0050" data-design-treatment="horz-50p"><p role="textbox"></p></h6>
+<h3 data-original-level="H3" id="header-52fdd083-dce4-9c03-3b98-e472db5815b4">Statistik</h3>
+<p>Anda juga bisa mendapatkan statistik. Coba ini:</p>
+<ul><li>PILIH HITUNGAN(*) DARI wombat;</li></ul>
+<p>Anda akan mendapatkan sesuatu seperti:</p>
+<p><img alt="Menghitung" src="https://webapps.skilling.us/sites/default/files/lessons/databases/select/count.png" title="Menghitung"="false"></p>
+<p>Sebelumnya, saya menulis: SELECT selalu mengembalikan baris dan kolom.</p>
+<p>Benar. Anda mendapatkan satu baris dan satu kolom, tetapi Anda tetap mendapatkan baris dan kolom.</p>
+<p>Saat Anda mengakses hasil SELECT di PHP, Anda akan menggunakan nama kolom. Sayangnya, nama kolom dari kueri COUNT atau SUM bisa jadi aneh. Sebaiknya beri tahu MySQL nama kolom apa yang ingin Anda gunakan. Seperti ini:</p>
+<ul><li>PILIH JUMLAH(*) SEBAGAI num_records DARI wombat;</li></ul>
+<p>AS memungkinkan Anda menetapkan nama kolom dalam output SELECT, agar lebih mudah diprediksi. Saya mendapatkan:</p>
+<p><img alt="Jumlah rekaman" src="https://webapps.skilling.us/sites/default/files/lessons/databases/select/num-recs.png" title="Jumlah rekaman"="false"></p>
+<p>Saya selalu menggunakan AS saat melakukan hitungan, total, dan semacamnya.</p>
+<p><button type="button" title="Tampilkan lebih banyak konten">Lagi...</button><button type="button" aria-haspopup="true" aria-expanded="false">Alihkan Menu Tarik Turun</button></p>
+<h6 data-original-level="H6" id="header-dc5b5e28-c291-f7a8-4bad-a4d1942c7331" data-design-treatment="horz-50p"><p role="textbox"></p></h6>
+<p>Yang satu lagi:</p>
+<ul><li>PILIH JUMLAH(berat) SEBAGAI berat_total DARI wombat;</li></ul>
+<p>Cobalah.</p>
+<h6 id="header-dc5b5e28-c291-f7a8-4bad-a4d1942c7331" data-original-level="H6" data-design-treatment="horz-50p"><p role="textbox"></p></h6>
+<h3 data-original-level="H3" id="header-68628437-ba81-fe79-0bed-3d8cbae34805">Filter dengan WHERE</h3>
+<p>Kekuatan SELECT yang sebenarnya ada pada klausa WHERE, yang memungkinkan Anda memilih baris yang memenuhi kondisi yang Anda berikan. Misalnya:</p>
+<ul><li>PILIH nama, berat DARI wombat DI MANA berat &gt; 30;</li></ul>
+<p>Satu lagi, tetapi sebelum Anda menjalankannya, cobalah untuk memprediksi: apakah ini akan mencakup wombat dengan bobot nol?</p>
+<ul><li>PILIH nama, berat DARI wombat DI MANA berat &lt; 30;</li></ul>
+<h6 data-original-level="H6" id="header-dc5b5e28-c291-f7a8-4bad-a4d1942c7331" data-design-treatment="horz-50p"><p role="textbox"></p></h6>
+<p>Itu tidak termasuk mereka.</p>
+<p>Benar. Null berarti datanya hilang, jadi nilainya tidak boleh kurang dari apa pun.</p>
+<p>Anda dapat menemukan rekamannya.</p>
+<ul><li>PILIH nama, berat DARI wombat DI MANA berat ADALAH NULL;</li></ul>
+<p>Cobalah.</p>
+<p>Perbandingan dapat menggunakan kurang dari (&#60;), kurang dari atau sama dengan (&#60;=), lebih besar dari (&#62;), lebih besar dari atau sama dengan (&#62;=), dan tidak sama dengan (!=).</p>
+<p>Anda dapat menggunakan AND, OR, dan NOT, sesuai harapan. Misalnya, jika Anda menginginkan wombat dengan berat sedang:</p>
+<ul><li>PILIH nama, berat DARI wombat DI MANA berat &gt;= 28 DAN berat &lt;= 32;</li></ul>
+<h6 id="header-3bdbcbc9-368b-5a54-7637-d10046769ed8" data-design-treatment="horz-50p"><p role="textbox"></p></h6>
+<h3 id="header-312143fe-bdd5-8913-9106-8b3c6507b0a1">DIMANA dengan yang lain</h3>
+<p>Anda dapat menggabungkan semua klausa ini bersama-sama. Khususnya, Anda dapat menggunakan WHERE dengan klausa lainnya. Misalnya:</p>
+<ul><li>PILIH nama, berat DARI wombat DI MANA berat &gt;= 28 DAN berat &lt;= 32 URUTKAN BERDASARKAN nama;</li></ul>
+<p></p>
+<p></p>
+<h3 id="header-678ab80f-9d5a-137d-c30e-847ada1e6af3">Latihan</h3>
+<p>Latihan</p>
+<p>Pertanyaan tentang Wombat</p>
+<p>Gunakan basis data wombat Anda, dengan catatan yang Anda unduh.</p>
+<p>Anda akan diberikan beberapa pertanyaan untuk dituliskan SELECT-nya. Buat halaman web dengan nomor kueri, pertanyaan, SQL, tangkapan layar hasil. Letakkan nama Anda di bagian atas. Anda dapat melihat <a href="https://webappexamples.skilling.us/database/exercises/wombat-queries/wombat-queries-partial-solution.html" target="_blank" rel="noopener noreferrer">contoh<p></p></a> tampilannya.</p>
+<ol><li>Apa saja id dan nama wombat yang beratnya kurang dari 25 kilogram?</li><li>Berapa berat wombat bernama Zora?</li><li>Berapa berat wombat yang diberi nama Zora, atau Hawthorne?</li><li>Berapa banyak wombat yang beratnya kurang dari 30 kilogram?</li><li>Apa id dan nama wombat dengan id kurang dari 5, atau berat lebih dari 40 kilogram?</li><li>Berapa banyak wombat yang data beratnya hilang?</li><li>Berapa banyak wombat yang datanya hilang untuk bobot dan komentar?</li><li>Berapa banyak wombat yang komentarnya hilang memiliki id kurang dari 10?</li></ol>
+<p>Kirimkan URL halaman Anda.</p>
+<p>Jika Anda masuk sebagai siswa, Anda dapat mengirimkan solusi untuk latihan ini.</p>
+<h3 id="header-6ef1118b-76f8-8ebf-8f04-df816bd22fb9">Berikutnya</h3>
+<p>Mari kita lakukan beberapa pemilihan dalam PHP.</p>
+<p><br></p>

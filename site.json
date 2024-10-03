@@ -1780,6 +1780,22 @@
         "locked": false,
         "readtime": 2
       }
+    },
+    {
+      "id": "item-f6a56c5c-9bb8-4c09-9e18-a4a4e8060ef8",
+      "indent": 0,
+      "location": "pages/item-f6a56c5c-9bb8-4c09-9e18-a4a4e8060ef8/index.html",
+      "slug": "page",
+      "order": 5,
+      "parent": null,
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1727996894,
+        "updated": 1727996894,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }

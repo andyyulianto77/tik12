@@ -1454,7 +1454,17 @@
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 1
+        "readtime": 1,
+        "files": [
+          {
+            "path": "[object Object]jenis-mobil.png",
+            "fullUrl": "//home/andyyulianto77/tik12/files/jenis-mobil.png",
+            "url": "files/jenis-mobil.png",
+            "type": "image/png",
+            "name": "jenis-mobil.png",
+            "size": 38285
+          }
+        ]
       }
     },
     {

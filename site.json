@@ -1511,7 +1511,7 @@
     },
     {
       "id": "item-0e5084de-8389-44ed-8eaf-fffc0f5608bd",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-0e5084de-8389-44ed-8eaf-fffc0f5608bd/index.html",
       "slug": "analisis-data/teknik-dan-metode-analisis-data",
       "order": 0,
@@ -1520,7 +1520,7 @@
       "description": "Teknik pengolahan data mengacu pada cara bagaimana data diproses dan dikelola. Banyak sekali teknik pengolahan data antara lain:\n1. Batch Processing\nDefinisi: Pengolahan data dilakukan secara berkala",
       "metadata": {
         "created": 1727963452,
-        "updated": 1727964556,
+        "updated": 1727964899,
         "images": {},
         "videos": {},
         "published": true,

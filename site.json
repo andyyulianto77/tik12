@@ -1765,6 +1765,14 @@
             "type": "image/png",
             "name": "foto-Andy-small.png",
             "size": 61667
+          },
+          {
+            "path": "[object Object]foto-Andy-small2.png",
+            "fullUrl": "//home/andyyulianto77/tik12/files/foto-Andy-small2.png",
+            "url": "files/foto-Andy-small2.png",
+            "type": "image/png",
+            "name": "foto-Andy-small2.png",
+            "size": 59949
           }
         ],
         "published": true,

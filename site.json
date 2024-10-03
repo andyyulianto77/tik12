@@ -1626,15 +1626,14 @@
       "slug": "analisis-data/page-3",
       "order": 6,
       "parent": "item-a0a7f01a-2b12-43e1-bb85-3f7bd8cff8a6",
-      "title": "Tambahkan data",
-      "description": "Data di tabel dikumpulkan secara sedikit atau banyak sekaligus. Berikut cara untuk menambahkan data pada tabel.\nMari tambahkan beberapa data ke DB Anda.\nJalankan phpMyAdmin di localhost. Pilih tabel ",
+      "title": "Page",
+      "description": "\n\nBy the end of this lesson, you should be able to...\nData di tabel dikumpulkan secara sedikit atau banyak sekaligus. Berikut cara untuk menambahkan data pada tabel.\nMari tambahkan beberapa data ke D",
       "metadata": {
         "created": 1727969614,
-        "updated": 1727969904,
+        "updated": 1727970082,
         "images": {},
         "videos": {},
         "published": true,
-        "pageType": "content",
         "hideInMenu": false,
         "locked": false,
         "readtime": 2

@@ -2,6 +2,7 @@
 <p></p>
 <p></p>
 <grid-plate item-margin="16" item-padding="16" layout="1-1"><p slot="col-1">Basis data merupakan inti dari aplikasi web bisnis. Aplikasi menyerahkan sebagian besar pekerjaan pencarian, penambahan, dan pembaruan data ke sistem manajemen basis data (DBMS). Hal ini membuat aplikasi lebih mudah ditulis.</p><media-image source="https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg" citation="Pexel.com" slot="col-2" accent-color="grey" size="wide" offset="narrow" caption="Kucing Yang Lucu" modal-title="Kucing Yang Lucu" _has-caption></media-image>
+
 </grid-plate>
 <p>Basis data (DB) adalah sekumpulan data tentang sesuatu, seperti anjing-anjing di lingkungan sekitar. Data tersebut hanya tersimpan dalam satu atau beberapa berkas. Sistem manajemen basis data (DBMS) adalah perangkat lunak yang mengetahui cara membaca data dalam DB, mengubah data, menghapusnya, dan sebagainya. DBMS membuat data tersebut aktif.</p>
 <p>Program Anda tidak akan mengakses file DB secara langsung. Sebaliknya, program Anda akan meminta DBMS untuk melakukan tugas. Itu membuat pekerjaan kita lebih mudah. &#8203;&#8203;Mudah itu bagus.</p>
@@ -12,30 +13,50 @@
 <h5 data-original-level="H5" id="header-33b1d3a0-18b9-9876-429b-15f06bd6b8e4" data-design-treatment="horz-50p"><br></h5>
 <p>Satu DBMS dapat mengelola banyak basis data sekaligus. Jadi server Anda hanya memiliki satu salinan MySQL yang berjalan, tetapi menangani banyak DB.</p>
 <p>Berikut DB di server Reclaim saya:</p>
-<p><img alt="DB (Badan Statistik Nasional)" src="https://webapps.skilling.us/sites/default/files/lessons/how-web-apps-work/databases/dbs.png" title="DB (Badan Statistik Nasional)"="false"></p>
+<p><img alt="DB (Badan Statistik Nasional)" src="https://webapps.skilling.us/sites/default/files/lessons/how-web-apps-work/databases/dbs.png" title="DB (Badan Statistik Nasional)" ="false"=""="false"></p>
 <p>Ada banyak. Semuanya dikelola oleh satu contoh MySQL.</p>
 <p>Tangkapan layar tersebut adalah sebuah alat yang disebut phpMyAdmin. Alat ini disertakan dengan akun Reclaim Anda, dan merupakan bagian dari XAMPP. Nantinya, Anda akan menggunakannya untuk mengelola DB Anda sendiri.</p>
 <h5 data-original-level="H5" id="header-33b1d3a0-18b9-9876-429b-15f06bd6b8e4" data-design-treatment="horz-50p"><br></h5>
-<h3 data-original-level="H3">Tabel</h3>
+<h3 data-original-level="H3" id="h3-80562908">Tabel</h3>
 <p>Semua DBMS yang disebutkan menyimpan data dalam bentuk tabel. Berikut adalah data doggo, tabel baris dan kolom:</p>
-<p><img alt="Meja Doggo" src="https://webapps.skilling.us/sites/default/files/lessons/how-web-apps-work/databases/doggo-table.png" title="Meja Doggo"></p>
+<p><img alt="Meja Doggo" src="https://webapps.skilling.us/sites/default/files/lessons/how-web-apps-work/databases/doggo-table.png" title="Meja Doggo"="false"></p>
 <p>(Oke, tidak persis seperti ini, tetapi mari kita berpura-pura untuk saat ini.)</p>
 <p>Saat orang pindah ke lingkungan tersebut, mendapat anjing baru, dll., seseorang akan memperbarui data dalam tabel.</p>
 <h5 data-original-level="H5" id="header-33b1d3a0-18b9-9876-429b-15f06bd6b8e4" data-design-treatment="horz-50p"><br></h5>
 <h3 data-original-level="H3" id="header-4620b473-bb10-e4b1-e415-24d5ca44864e">Program, DB, dan DBMS</h3>
 <p>Berikut gambar server dari terakhir kali:</p>
 <p>Sekarang Anda sudah tahu tentang DBMS, kita bisa menambahkan beberapa detail lagi.</p>
-<p><img alt="Pelayan" src="https://webapps.skilling.us/sites/default/files/lessons/how-web-apps-work/databases/server.png" title="Pelayan"="false"></p>
-<p><img alt="Program ke DBMS ke DB" src="https://webapps.skilling.us/sites/default/files/lessons/how-web-apps-work/databases/program-dbms.png" title="Program ke DBMS ke DB"="false"></p>
+<p><img alt="Pelayan" src="https://webapps.skilling.us/sites/default/files/lessons/how-web-apps-work/databases/server.png" title="Pelayan" ="false"=""="false"></p>
+<p><img alt="Program ke DBMS ke DB" src="https://webapps.skilling.us/sites/default/files/lessons/how-web-apps-work/databases/program-dbms.png" title="Program ke DBMS ke DB" ="false"=""="false"></p>
 <p>Program Anda tidak akan mengakses DB secara langsung. Sebaliknya, program akan meminta DBMS untuk melakukan pekerjaannya. Anda tidak perlu tahu <em>bagaimana</em> DBMS melakukan tugasnya. Ketahui saja cara memintanya melakukan sesuatu, dan dapatkan hasilnya.</p>
 <h5 data-original-level="H5" id="header-33b1d3a0-18b9-9876-429b-15f06bd6b8e4" data-design-treatment="horz-50p"><br></h5>
-<h3 id="header-2b19613e-74c3-bc77-eede-2cd50a13e3ad">Bahasa umum</h3>
+<h3 data-original-level="H3" id="header-2b19613e-74c3-bc77-eede-2cd50a13e3ad">Bahasa umum</h3>
 <p>Program dan DBMS Anda harus menggunakan bahasa yang sama. Yaitu SQL. SQL sejauh ini merupakan bahasa yang paling umum digunakan untuk melakukan kueri pada basis data.</p>
 <p>Program Anda membuat kueri SQL. Misalnya:</p>
-<ul><li>PILIH * DARI doggos DI MANA rumah tangga = 'Mathieson'</li></ul>
+<code-sample copy-clipboard-button type="html"><template preserve-content="preserve-content">const great = "example";
+            const great = "example";
+            const great = "example";</template></code-sample>
+<p>SELECT * FROM kucing WHERE pemilik = 'Andy'</p>
+<ul><li>PILIH * DARI doggos DI MANA rumah tangga = 'Andy'</li></ul>
 <p>(Tidak sepenuhnya benar, tetapi oke untuk saat ini.)</p>
 <p>SELECT berarti "cari data di tabel doggos." Tanda * berarti "berikan saya semua detail (semua kolom)." WHERE berarti "baris yang cocok dengan suatu kondisi." Jadi, keseluruhannya berarti "Berikan saya semua data tentang doggos di rumah tangga Mathieson."</p>
 <p>Program Anda mengirimkan perintah <code style="box-sizing: border-box; font-family: SFMono-Regular, Menlo, Monaco, Consolas, &quot;Liberation Mono&quot;, &quot;Courier New&quot;, monospace; font-size: 14px; color: rgb(164, 19, 87); word-break: break-word; font-weight: bold;">SELECT</code>ke DBMS, dan mendapatkan hasilnya. Jadi sejauh menyangkut operasi DB, program Anda adalah klien, dan DBMS adalah server.</p>
-<p><img alt="Kirim kueri, terima data" src="https://webapps.skilling.us/sites/default/files/lessons/how-web-apps-work/databases/send-query-receive-data.png" title="Kirim kueri, terima data"="false"></p>
+<p><img alt="Kirim kueri, terima data" src="https://webapps.skilling.us/sites/default/files/lessons/how-web-apps-work/databases/send-query-receive-data.png" title="Kirim kueri, terima data" ="false"=""="false"></p>
 <p>Ingat, program dan DBMS Anda berjalan di server Reclaim Anda. Ya, istilah "server" digunakan untuk banyak hal.</p>
+<h5 id="header-33b1d3a0-18b9-9876-429b-15f06bd6b8e4" data-original-level="H5" data-design-treatment="horz-50p"><br></h5>
+<h3 id="header-f98b9034-3983-c47d-9427-676a059296b5">Program Anda membuat SELECT</h3>
+<p>Program Anda membuat SELECT dari data pengguna. Berikut ini adalah tampilan PHP:</p>
+<code-sample copy-clipboard-button type="html"><template preserve-content="preserve-content">const great = "example";
+            const great = "example";
+            const great = "example";</template></code-sample>
+<ol><li>$householdId = (Dapatkan id rumah tangga yang dikirim oleh klien);</li><li>$dbConnection = (Buat koneksi ke DBMS);</li><li>$query = "PILIH * DARI doggos DI MANA rumah tangga='$householdId'";</li><li>$result = $dbConnection-&gt;execute($query);</li><li>(Buat HTML yang menunjukkan hasilnya.)</li><li>(Kirim HTML ke klien.)</li></ol>
+<p>Yaitu:</p>
+<ul><li>Ambil masukan pengguna (baris 1).</li><li>Hubungkan ke DBMS (baris 2).</li><li>Buat kueri dalam variabel string (baris 3).</li><li>Kirim kueri ke DBMS, dan dapatkan hasilnya (baris 4).</li><li>Buat HTML yang menampilkan hasil (baris 5).</li><li>Kirim HTML ke browser (baris 6).</li></ul>
+<p>Periksa baris 3. <code style="box-sizing: border-box; font-family: SFMono-Regular, Menlo, Monaco, Consolas, &quot;Liberation Mono&quot;, &quot;Courier New&quot;, monospace; font-size: 14px; color: rgb(164, 19, 87); word-break: break-word; font-weight: bold;">$query</code>apakah itu hanya variabel string biasa. Masukkan kueri ke dalamnya, dan biarkan DBMS menjalankannya.</p>
+<h5 id="header-33b1d3a0-18b9-9876-429b-15f06bd6b8e4" data-original-level="H5" data-design-treatment="horz-50p"><br></h5>
+<p></p>
+<h3 id="header-56eb44f0-d63b-d248-3396-28ba89bfbe6b">Ringkasan</h3>
+<ul><li>DB menyimpan data dalam tabel.</li><li>DBMS adalah perangkat lunak yang mengelola DB.</li><li>Program Anda berinteraksi dengan DBMS, bukan DB.</li><li>Program Anda membuat pernyataan SQL dan mengirimkannya ke DBMS.</li></ul>
+<p></p>
+<p></p>
 <p></p>

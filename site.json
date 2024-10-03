@@ -1561,18 +1561,17 @@
       "slug": "analisis-data/page",
       "order": 3,
       "parent": "item-a0a7f01a-2b12-43e1-bb85-3f7bd8cff8a6",
-      "title": "Perancangan Basis Data",
+      "title": "Page",
       "description": "\n\nBasis data merupakan inti dari aplikasi web bisnis. Aplikasi menyerahkan sebagian besar pekerjaan pencarian, penambahan, dan pembaruan data ke sistem manajemen basis data (DBMS). Hal ini membuat ap",
       "metadata": {
         "created": 1727966499,
-        "updated": 1727967109,
+        "updated": 1727967372,
         "images": {},
         "videos": {},
         "published": true,
-        "pageType": "content",
         "hideInMenu": false,
         "locked": false,
-        "readtime": 2
+        "readtime": 3
       }
     },
     {

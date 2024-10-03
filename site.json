@@ -1425,6 +1425,14 @@
             "type": "image/jpeg",
             "name": "satudata.JPG",
             "size": 128046
+          },
+          {
+            "path": "[object Object]1b18f9396b722f0c5a26ef0f48f9e30b-satudata.JPG",
+            "fullUrl": "//home/andyyulianto77/tik12/files/1b18f9396b722f0c5a26ef0f48f9e30b-satudata.JPG",
+            "url": "files/1b18f9396b722f0c5a26ef0f48f9e30b-satudata.JPG",
+            "type": "image/jpeg",
+            "name": "1b18f9396b722f0c5a26ef0f48f9e30b-satudata.JPG",
+            "size": 128046
           }
         ]
       }

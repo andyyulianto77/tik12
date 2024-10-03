@@ -1468,6 +1468,22 @@
       }
     },
     {
+      "id": "item-2dc11339-90b8-425c-8b18-f20488d6223d",
+      "indent": 0,
+      "location": "pages/item-2dc11339-90b8-425c-8b18-f20488d6223d/index.html",
+      "slug": "analisis-data/page/page",
+      "order": 0,
+      "parent": "item-16c54262-de9a-439e-bc7c-994594c2822c",
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1727961673,
+        "updated": 1727961673,
+        "images": [],
+        "videos": []
+      }
+    },
+    {
       "id": "item-2ccf03d8-e82c-4a33-aba5-3ae39d5e1421",
       "indent": 0,
       "location": "pages/item-2ccf03d8-e82c-4a33-aba5-3ae39d5e1421/index.html",

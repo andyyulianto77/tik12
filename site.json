@@ -1788,13 +1788,18 @@
       "slug": "bersiap-siap-pro/page-1",
       "order": 2,
       "parent": "item-f61f8091-ceb3-4d8b-b1c4-d573ed0980a7",
-      "title": "Page",
-      "description": "",
+      "title": "Perangkat lunak untuk mendapatkan Web",
+      "description": "\nAnda memerlukan perangkat lunak di PC untuk kursus ini. Jangan khawatir, kursus ini gratis. Selain hosting, semua yang digunakan dalam kursus ini gratis. Termasuk buku teks ini.Gratis itu bagus. Buk",
       "metadata": {
         "created": 1727996967,
-        "updated": 1727996967,
-        "images": [],
-        "videos": []
+        "updated": 1727997206,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "pageType": "activity",
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 2
       }
     },
     {

@@ -1416,7 +1416,17 @@
         "hideInMenu": false,
         "readtime": 1,
         "pageType": "module",
-        "icon": "hax:module"
+        "icon": "hax:module",
+        "files": [
+          {
+            "path": "[object Object]satudata.JPG",
+            "fullUrl": "//home/andyyulianto77/tik12/files/satudata.JPG",
+            "url": "files/satudata.JPG",
+            "type": "image/jpeg",
+            "name": "satudata.JPG",
+            "size": 128046
+          }
+        ]
       }
     },
     {

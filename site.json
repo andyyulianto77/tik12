@@ -1749,6 +1749,14 @@
             "type": "audio/mpeg",
             "name": "voice-recording-877717.mp3",
             "size": 21672
+          },
+          {
+            "path": "[object Object]foto-Andy.jpg",
+            "fullUrl": "//home/andyyulianto77/tik12/files/foto-Andy.jpg",
+            "url": "files/foto-Andy.jpg",
+            "type": "image/jpeg",
+            "name": "foto-Andy.jpg",
+            "size": 127736
           }
         ],
         "published": true,

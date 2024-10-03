@@ -1464,13 +1464,18 @@
       "slug": "analisis-data/page-1",
       "order": 1,
       "parent": "item-a0a7f01a-2b12-43e1-bb85-3f7bd8cff8a6",
-      "title": "Page",
-      "description": "",
+      "title": "Klien dan Server",
+      "description": "\nWeb bekerja berdasarkan model klien/server. Yaitu saat satu komputer melakukan sesuatu untuk komputer lain.\nIstilah klien dan server bisa membingungkan. Terkadang, orang berbicara tentang mesin fisi",
       "metadata": {
         "created": 1727950320,
-        "updated": 1727950320,
-        "images": [],
-        "videos": []
+        "updated": 1727950612,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "pageType": "content",
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     },
     {

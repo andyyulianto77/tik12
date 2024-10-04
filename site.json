@@ -1865,7 +1865,7 @@
       "description": "Tabel Perkalian\n  HTML: Buat struktur tabel dengan tag &#60;table&#62;, &#60;tr&#62;, dan &#60;td&#62;. JavaScript: Gunakan perulangan bersarang untuk mengisi setiap sel tabel dengan hasil perkalian. CSS: ",
       "metadata": {
         "created": 1728004737,
-        "updated": 1728005285,
+        "updated": 1728011195,
         "images": {},
         "videos": {},
         "published": true,

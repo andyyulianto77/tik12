@@ -1840,13 +1840,19 @@
       "slug": "page/page",
       "order": 0,
       "parent": "item-f6a56c5c-9bb8-4c09-9e18-a4a4e8060ef8",
-      "title": "Page",
-      "description": "",
+      "title": "PEMROGRAMAN WEB",
+      "description": "Siswa dapat menjelaskan perbedaan antara HTML, CSS, dan PHP.Siswa dapat menjelaskan fungsi masing-masing tag HTML yang umum digunakan.Siswa dapat menulis sintaks CSS yang benar untuk mengatur tampila",
       "metadata": {
         "created": 1728003172,
-        "updated": 1728003172,
-        "images": [],
-        "videos": []
+        "updated": 1728004097,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "pageType": "content",
+        "hideInMenu": false,
+        "tags": "materi",
+        "locked": false,
+        "readtime": 1
       }
     }
   ]

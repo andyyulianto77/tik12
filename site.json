@@ -2028,13 +2028,18 @@
       "slug": "page/page-7",
       "order": 7,
       "parent": "item-f6a56c5c-9bb8-4c09-9e18-a4a4e8060ef8",
-      "title": "Page",
-      "description": "",
+      "title": "GET dan POST",
+      "description": "Umumnya digunakan untuk mengirimkan data yang bersifat publik atau tidak sensitif, seperti parameter pencarian pada mesin pencari. Data yang dikirimkan dapat di-bookmark atau di-share melalui link.  ",
       "metadata": {
         "created": 1728009165,
-        "updated": 1728009165,
-        "images": [],
-        "videos": []
+        "updated": 1728009350,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "pageType": "content",
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]

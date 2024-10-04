@@ -1923,10 +1923,10 @@
       "order": 3,
       "parent": "item-f6a56c5c-9bb8-4c09-9e18-a4a4e8060ef8",
       "title": "Menampilkan Teks/Data",
-      "description": "Teks sangat menarik untuk dilihat lihat\n&lt;type-writer delay=\"100\" text=\"This is how it goes when we type everything out like so\" speed=\"100\"&gt; &lt;/type-writer&gt;\n \n \n \n \n\n\n\n\n\n\n",
+      "description": "Teks sangat menarik untuk dilihat lihat\n&#60;type-writer delay=",
       "metadata": {
         "created": 1728005778,
-        "updated": 1728006086,
+        "updated": 1728006424,
         "images": {},
         "videos": {},
         "published": true,
@@ -1934,7 +1934,8 @@
         "hideInMenu": false,
         "tags": "materi",
         "locked": false,
-        "readtime": 1
+        "readtime": 1,
+        "icon": "lrn:page"
       }
     }
   ]

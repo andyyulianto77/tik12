@@ -1901,13 +1901,18 @@
       "slug": "page/page-2",
       "order": 2,
       "parent": "item-f6a56c5c-9bb8-4c09-9e18-a4a4e8060ef8",
-      "title": "Page",
-      "description": "",
+      "title": "SINTAKSIS PHP",
+      "description": "php bukan di prank&#160;😁\n\n  \n  Tulis Q-2\n  \n  \n   \n\n\n\n  expand\n\n\n\n  \n  \n  \nDi era digital ini, pemrograman menjadi semakin penting untuk membangun aplikasi, website, dan sistem\nBy the end of this l",
       "metadata": {
         "created": 1728005428,
-        "updated": 1728005428,
-        "images": [],
-        "videos": []
+        "updated": 1728005728,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "pageType": "content",
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 4
       }
     }
   ]

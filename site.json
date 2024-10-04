@@ -1407,14 +1407,14 @@
       "description": "Pada akhir pelajaran, Siswa dapat ...Mendefinisikan data terbuka dan menjelaskan manfaatnya. Mengidentifikasi jenis-jenis data terbuka yang tersedia. Menemukan sumber data terbuka yang terpercaya dan",
       "metadata": {
         "created": 1722398223,
-        "updated": 1727994433,
+        "updated": 1728001662,
         "images": {},
         "videos": {},
         "published": true,
         "locked": false,
         "status": "",
         "hideInMenu": false,
-        "readtime": 2,
+        "readtime": 5,
         "pageType": "module",
         "icon": "hax:module",
         "files": [
@@ -1738,7 +1738,7 @@
       "description": "Saya Andy Yulianto, instruktur kursus Anda.\n\nSilakan panggil saya dengan nama depan saya, jika Anda merasa nyaman dengan itu. Cara pengucapannya seperti ini.\n\n\nSaya lahir di Kediri, Indonesia, pada t",
       "metadata": {
         "created": 1727994876,
-        "updated": 1727996502,
+        "updated": 1727999925,
         "images": {},
         "videos": {},
         "files": [
@@ -1773,6 +1773,14 @@
             "type": "image/png",
             "name": "foto-Andy-small2.png",
             "size": 59949
+          },
+          {
+            "path": "[object Object]voice-recording-42328.09999990463.mp3",
+            "fullUrl": "//home/andyyulianto77/tik12/files/voice-recording-42328.09999990463.mp3",
+            "url": "files/voice-recording-42328.09999990463.mp3",
+            "type": "audio/mpeg",
+            "name": "voice-recording-42328.09999990463.mp3",
+            "size": 16656
           }
         ],
         "published": true,
@@ -1809,13 +1817,20 @@
       "slug": "page",
       "order": 5,
       "parent": null,
-      "title": "Page",
-      "description": "",
+      "title": "BERPIKIR KOMPUTASIONAL DAN ALGORITMA PEMROGRAMAN",
+      "description": "\n",
       "metadata": {
         "created": 1727996894,
-        "updated": 1727996894,
-        "images": [],
-        "videos": []
+        "updated": 1728002515,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "pageType": "content",
+        "hideInMenu": false,
+        "tags": "materi",
+        "locked": false,
+        "readtime": 2,
+        "icon": "lrn:page"
       }
     }
   ]

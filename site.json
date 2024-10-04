@@ -1861,13 +1861,17 @@
       "slug": "page/page-1",
       "order": 1,
       "parent": "item-f6a56c5c-9bb8-4c09-9e18-a4a4e8060ef8",
-      "title": "Page",
-      "description": "",
+      "title": "PEMROGRAMAN PHP",
+      "description": "Tabel Perkalian\n  HTML: Buat struktur tabel dengan tag &lt;table&gt;, &lt;tr&gt;, dan &lt;td&gt;. JavaScript: Gunakan perulangan bersarang untuk mengisi setiap sel tabel dengan hasil perkalian. CSS: ",
       "metadata": {
         "created": 1728004737,
-        "updated": 1728004737,
-        "images": [],
-        "videos": []
+        "updated": 1728005036,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]

@@ -1986,13 +1986,18 @@
       "slug": "page/page-5",
       "order": 5,
       "parent": "item-f6a56c5c-9bb8-4c09-9e18-a4a4e8060ef8",
-      "title": "Page",
-      "description": "",
+      "title": "PERULANGAN",
+      "description": "\n\n  \n  Tulis Q-2\n  \n  \n   \n\n\n\n  expand\n\n\n\n  \n  \n  \nDi era digital ini, pemrograman menjadi semakin penting untuk membangun aplikasi, website, dan siste\n\nBy the end of this lesson, you should be able ",
       "metadata": {
         "created": 1728008846,
-        "updated": 1728008846,
-        "images": [],
-        "videos": []
+        "updated": 1728008987,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "pageType": "content",
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]

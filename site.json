@@ -1821,7 +1821,7 @@
       "description": "\n",
       "metadata": {
         "created": 1727996894,
-        "updated": 1728002515,
+        "updated": 1728003591,
         "images": {},
         "videos": {},
         "published": true,
@@ -1829,7 +1829,7 @@
         "hideInMenu": false,
         "tags": "materi",
         "locked": false,
-        "readtime": 2,
+        "readtime": 3,
         "icon": "lrn:page"
       }
     },

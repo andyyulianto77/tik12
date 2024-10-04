@@ -1840,17 +1840,18 @@
       "slug": "page/page",
       "order": 0,
       "parent": "item-f6a56c5c-9bb8-4c09-9e18-a4a4e8060ef8",
-      "title": "Page",
+      "title": "PEMROGRAMAN WEB",
       "description": "\n  \n  Tulis Q-1\n  \n  \n   \n\n\n\n\n  expand\n\n\n\n\n  \n  \n  \n\nBy the end of this lesson, you should be able to...Siswa dapat menjelaskan perbedaan antara HTML, CSS, dan PHP.Siswa dapat menjelaskan fungsi masi",
       "metadata": {
         "created": 1728003172,
-        "updated": 1728004566,
+        "updated": 1728004730,
         "images": {},
         "videos": {},
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 2
+        "readtime": 2,
+        "pageType": "content"
       }
     }
   ]

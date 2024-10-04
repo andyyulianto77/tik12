@@ -1853,6 +1853,22 @@
         "readtime": 2,
         "pageType": "content"
       }
+    },
+    {
+      "id": "item-984bdbe3-eae5-4a78-9ccb-abb39ed59fab",
+      "indent": 0,
+      "location": "pages/item-984bdbe3-eae5-4a78-9ccb-abb39ed59fab/index.html",
+      "slug": "page/page-1",
+      "order": 1,
+      "parent": "item-f6a56c5c-9bb8-4c09-9e18-a4a4e8060ef8",
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1728004737,
+        "updated": 1728004737,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }

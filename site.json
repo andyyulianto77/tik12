@@ -1999,6 +1999,22 @@
         "locked": false,
         "readtime": 1
       }
+    },
+    {
+      "id": "item-c3812450-8eac-4ee9-8d56-842b77050a2a",
+      "indent": 0,
+      "location": "pages/item-c3812450-8eac-4ee9-8d56-842b77050a2a/index.html",
+      "slug": "page/page-6",
+      "order": 6,
+      "parent": "item-f6a56c5c-9bb8-4c09-9e18-a4a4e8060ef8",
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1728009029,
+        "updated": 1728009029,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }

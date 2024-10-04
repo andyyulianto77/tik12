@@ -2123,6 +2123,22 @@
         "locked": false,
         "readtime": 1
       }
+    },
+    {
+      "id": "item-586983b6-bd54-4459-b812-bdcb70e686e3",
+      "indent": 0,
+      "location": "pages/item-586983b6-bd54-4459-b812-bdcb70e686e3/index.html",
+      "slug": "page/page-12",
+      "order": 12,
+      "parent": "item-f6a56c5c-9bb8-4c09-9e18-a4a4e8060ef8",
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1728010014,
+        "updated": 1728010014,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }

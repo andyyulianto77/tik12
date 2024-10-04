@@ -1926,7 +1926,7 @@
       "description": "Teks sangat menarik untuk dilihat lihat\n&#60;type-writer delay=",
       "metadata": {
         "created": 1728005778,
-        "updated": 1728006629,
+        "updated": 1728007720,
         "images": {},
         "videos": {},
         "published": true,
@@ -1934,7 +1934,7 @@
         "hideInMenu": false,
         "tags": "materi",
         "locked": false,
-        "readtime": 1,
+        "readtime": 5,
         "icon": "lrn:page"
       }
     }

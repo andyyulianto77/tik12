@@ -2041,6 +2041,22 @@
         "locked": false,
         "readtime": 1
       }
+    },
+    {
+      "id": "item-321262d4-5187-4ae3-a7d5-7504207ccfd1",
+      "indent": 0,
+      "location": "pages/item-321262d4-5187-4ae3-a7d5-7504207ccfd1/index.html",
+      "slug": "page/page-8",
+      "order": 8,
+      "parent": "item-f6a56c5c-9bb8-4c09-9e18-a4a4e8060ef8",
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1728009364,
+        "updated": 1728009364,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }

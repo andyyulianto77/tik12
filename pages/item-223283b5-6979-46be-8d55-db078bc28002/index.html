@@ -1,1 +1,51 @@
+
+<p>data sudah tersimpan di DB</p>
+<a11y-collapse icon="icons:expand-more" icon-expanded="av:fiber-manual-record" label="expand" heading="Tulis Q-2" tooltip="expand" accent-color="grey"><p part="heading-id"></p>
+  <p></p>
+  <p part="heading">Tulis Q-2</p>
+  <slot name="heading"></slot>
+  <p></p>
+  <simple-icon-button-lite part="icon" aria-controls="content" aria-expanded="false" value="" icon="icons:expand-more" type="button"><button part="button" aria-labelledby="" controls="" form="" label="expand" aria-label="expand" name="" type="button" value=""><simple-icon-lite part="icon" icon="icons:expand-more" dir="ltr"> </simple-icon-lite><slot></slot></button></simple-icon-button-lite>
+
+
+
+  <simple-tooltip for="expand" position="bottom" offset="14" margin-top="14"><p><slot>expand</slot></p></simple-tooltip>
+
+
+
+  <p></p>
+  <p aria-labelledby="heading" aria-live="polite" aria-hidden="true"></p>
+  <p></p></a11y-collapse>
+<p>Di</p>
+<p></p>
+<learning-component subtitle="Unit 1" type=""><p>By the end of this lesson, you should be able to...</p></learning-component>
+<a11y-collapse icon="icons:expand-more" icon-expanded="av:fiber-manual-record" label="expand" heading="Tulis Q-2" tooltip="expand" accent-color="grey"><p part="heading-id"></p>
+  <p></p>
+  <p part="heading">Tulis Q-2</p>
+  <slot name="heading"></slot>
+  <p></p>
+  <simple-icon-button-lite part="icon" aria-controls="content" aria-expanded="false" value="" icon="icons:expand-more" type="button"><button part="button" aria-labelledby="" controls="" form="" label="expand" aria-label="expand" name="" type="button" value=""><simple-icon-lite part="icon" icon="icons:expand-more" dir="ltr"> </simple-icon-lite><slot></slot></button></simple-icon-button-lite>
+
+
+
+  <simple-tooltip for="expand" position="bottom" offset="14" margin-top="14"><p><slot>expand</slot></p></simple-tooltip>
+
+
+
+  <p></p>
+  <p aria-labelledby="heading" aria-live="polite" aria-hidden="true"></p>
+  <p></p></a11y-collapse>
+<p>Di</p>
+<p></p>
+<p></p>
+<p><strong>Memahami Prosesnya</strong></p>
+<ol><li><strong>Koneksi ke Database:</strong> Seperti yang telah kita bahas sebelumnya, langkah pertama adalah membuat koneksi ke database yang ingin kita akses.</li> <li><strong>Membuat Query:</strong> Kita akan membuat query SQL (Structured Query Language) untuk mengambil data yang kita inginkan. Query ini akan dikirimkan ke database.</li> <li><strong>Mengeksekusi Query:</strong> Query yang telah dibuat akan dieksekusi menggunakan fungsi yang disediakan oleh ekstensi database yang kita gunakan (misalnya, <code>mysqli_query()</code> atau <code>PDO::query()</code>).</li> <li><strong>Mengambil Hasil Query:</strong> Hasil dari eksekusi query akan berupa objek yang berisi data yang diambil. Kita perlu mengambil data ini dan menampilkannya dalam format yang kita inginkan.</li></ol>
+<p><strong>Contoh Kode Menggunakan mysqli</strong></p>
+<p></p>
+<p>&#38;lt;?php // Koneksi ke database (asumsi koneksi sudah dibuat) // Query untuk mengambil semua data dari tabel 'produk' $sql = "SELECT * FROM produk"; $result = mysqli_query($conn, $sql); // Cek apakah query berhasil dijalankan if (mysqli_num_rows($result) &#38;gt; 0) {   // Output data dalam bentuk tabel HTML   echo "&#38;lt;table border='1'&#38;gt;   &#38;lt;tr&#38;gt;     &#38;lt;th&#38;gt;ID&#38;lt;/th&#38;gt;     &#38;lt;th&#38;gt;Nama Produk&#38;lt;/th&#38;gt;     &#38;lt;th&#38;gt;Harga&#38;lt;/th&#38;gt;   &#38;lt;/tr&#38;gt;";   // Fetch data satu per satu   while($row = mysqli_fetch_assoc($result)) {     echo "&#38;lt;tr&#38;gt;";     echo "&#38;lt;td&#38;gt;" . $row["id"] . "&#38;lt;/td&#38;gt;";     echo "&#38;lt;td&#38;gt;" . $row["nama_produk"] . "&#38;lt;/td&#38;gt;";     echo "&#38;lt;td&#38;gt;" . $row["harga"] . "&#38;lt;/td&#38;gt;";     echo "&#38;lt;/tr&#38;gt;";   }   echo "&#38;lt;/table&#38;gt;"; } else {   echo "Tidak ada data"; } ?&#38;gt;<!-- ?php // Koneksi ke database (asumsi koneksi sudah dibuat) // Query untuk mengambil semua data dari tabel 'produk' $sql = "SELECT * FROM produk"; $result = mysqli_query($conn, $sql); // Cek apakah query berhasil dijalankan if (mysqli_num_rows($result)  --></p>
+<code-sample copy-clipboard-button type="html"><template preserve-content="preserve-content">const great = "example";
+            const great = "example";
+            const great = "example";</template></code-sample>
+<p></p>
+<p></p>
 <p></p>

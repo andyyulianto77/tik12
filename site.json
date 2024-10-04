@@ -2171,13 +2171,18 @@
       "slug": "page/page-14",
       "order": 14,
       "parent": "item-f6a56c5c-9bb8-4c09-9e18-a4a4e8060ef8",
-      "title": "Page",
-      "description": "",
+      "title": "Laporan Data Presensi",
+      "description": "data presensi siswa\n\n  \n  Tulis Q-2\n  \n  \n   \n\n\n\n  expand\n\n\n\n  \n  \n  \nDi\n\nBy the end of this lesson, you should be able to...\n\n  \n  Tulis Q-2\n  \n  \n   \n\n\n\n  expand\n\n\n\n  \n  \n  \nDi\nMemahami Laporan Dat",
       "metadata": {
         "created": 1728010301,
-        "updated": 1728010301,
-        "images": [],
-        "videos": []
+        "updated": 1728010458,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "pageType": "lesson",
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 2
       }
     }
   ]

@@ -2020,6 +2020,22 @@
         "locked": false,
         "readtime": 1
       }
+    },
+    {
+      "id": "item-0b7ddef5-2482-45f7-9467-12d8a15b5c42",
+      "indent": 0,
+      "location": "pages/item-0b7ddef5-2482-45f7-9467-12d8a15b5c42/index.html",
+      "slug": "page/page-7",
+      "order": 7,
+      "parent": "item-f6a56c5c-9bb8-4c09-9e18-a4a4e8060ef8",
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1728009165,
+        "updated": 1728009165,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }

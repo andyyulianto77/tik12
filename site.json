@@ -103,40 +103,6 @@
   },
   "items": [
     {
-      "id": "item-fbc16ff7-1765-4bdc-82f0-627c990629c1",
-      "indent": 0,
-      "location": "pages/item-fbc16ff7-1765-4bdc-82f0-627c990629c1/index.html",
-      "slug": "literasi-digital",
-      "order": 1,
-      "parent": null,
-      "title": "Literasi Digital",
-      "description": "ssd\n",
-      "metadata": {
-        "created": 1721189568,
-        "updated": 1727994426,
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1,
-        "videos": {},
-        "images": {},
-        "status": "",
-        "files": [
-          {
-            "path": "[object Object]judo.jpg",
-            "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/judo.jpg",
-            "url": "files/judo.jpg",
-            "type": "image/jpeg",
-            "name": "judo.jpg",
-            "size": 45855
-          }
-        ],
-        "pageType": "module",
-        "tags": "internet,iot, digital,literasi",
-        "icon": "hax:module"
-      }
-    },
-    {
       "id": "item-217c8430-43fb-49a8-b953-1084cb31f0cb",
       "indent": 1,
       "location": "pages/item-217c8430-43fb-49a8-b953-1084cb31f0cb/index.html",
@@ -241,6 +207,27 @@
       }
     },
     {
+      "id": "item-4fa1de6b-c8f9-4024-a50d-f42a74b46654",
+      "indent": 2,
+      "location": "pages/item-4fa1de6b-c8f9-4024-a50d-f42a74b46654/index.html",
+      "slug": "literasi-digital/mesin-pencari/filter-pencarian",
+      "order": 3,
+      "parent": "item-217c8430-43fb-49a8-b953-1084cb31f0cb",
+      "title": " Filter Pencarian",
+      "description": "Cara Pencarian\n\nTanggal: Cari hasil yang diterbitkan dalam jangka waktu tertentu.\nSumber: Cari hasil dari situs web tertentu atau jenis situs web tertentu.\nBahasa: Cari hasil dalam bahasa tertentu.\nU",
+      "metadata": {
+        "created": 1721707297,
+        "updated": 1727994426,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
       "id": "item-e72aed3b-ac9f-4906-a2d1-c628a09c08ab",
       "indent": 2,
       "location": "pages/item-e72aed3b-ac9f-4906-a2d1-c628a09c08ab/index.html",
@@ -269,6 +256,27 @@
         "locked": false,
         "readtime": 1,
         "status": ""
+      }
+    },
+    {
+      "id": "item-1f991c10-9307-4f0c-80f7-2ac058f65b6a",
+      "indent": 2,
+      "location": "pages/item-1f991c10-9307-4f0c-80f7-2ac058f65b6a/index.html",
+      "slug": "literasi-digital/mesin-pencari/refleksi-materi-mesin-search",
+      "order": 5,
+      "parent": "item-217c8430-43fb-49a8-b953-1084cb31f0cb",
+      "title": "Refleksi Materi Mesin Search",
+      "description": "Lakukan aktivitas berikut secara individu. Munculkan pendapat kritis kalian terhadap suatu konten di sosmed yang pernah kalian lihat dan amati di sekitar kalian. Menurut kalian aspek apa saja yang ha",
+      "metadata": {
+        "created": 1722396329,
+        "updated": 1727994427,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1
       }
     },
     {
@@ -314,134 +322,6 @@
         ],
         "published": true,
         "hideInMenu": false,
-        "readtime": 1,
-        "status": ""
-      }
-    },
-    {
-      "id": "item-4fa1de6b-c8f9-4024-a50d-f42a74b46654",
-      "indent": 2,
-      "location": "pages/item-4fa1de6b-c8f9-4024-a50d-f42a74b46654/index.html",
-      "slug": "literasi-digital/mesin-pencari/filter-pencarian",
-      "order": 3,
-      "parent": "item-217c8430-43fb-49a8-b953-1084cb31f0cb",
-      "title": " Filter Pencarian",
-      "description": "Cara Pencarian\n\nTanggal: Cari hasil yang diterbitkan dalam jangka waktu tertentu.\nSumber: Cari hasil dari situs web tertentu atau jenis situs web tertentu.\nBahasa: Cari hasil dalam bahasa tertentu.\nU",
-      "metadata": {
-        "created": 1721707297,
-        "updated": 1727994426,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1,
-        "status": ""
-      }
-    },
-    {
-      "id": "item-1f991c10-9307-4f0c-80f7-2ac058f65b6a",
-      "indent": 2,
-      "location": "pages/item-1f991c10-9307-4f0c-80f7-2ac058f65b6a/index.html",
-      "slug": "literasi-digital/mesin-pencari/refleksi-materi-mesin-search",
-      "order": 5,
-      "parent": "item-217c8430-43fb-49a8-b953-1084cb31f0cb",
-      "title": "Refleksi Materi Mesin Search",
-      "description": "Lakukan aktivitas berikut secara individu. Munculkan pendapat kritis kalian terhadap suatu konten di sosmed yang pernah kalian lihat dan amati di sekitar kalian. Menurut kalian aspek apa saja yang ha",
-      "metadata": {
-        "created": 1722396329,
-        "updated": 1727994427,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "locked": false,
-        "status": "",
-        "hideInMenu": false,
-        "readtime": 1
-      }
-    },
-    {
-      "id": "item-d42083d1-68bf-4c1e-8444-04f4f824d0d7",
-      "indent": 1,
-      "location": "pages/item-d42083d1-68bf-4c1e-8444-04f4f824d0d7/index.html",
-      "slug": "literasi-digital/membaca-lateral",
-      "order": 1,
-      "parent": "item-fbc16ff7-1765-4bdc-82f0-627c990629c1",
-      "title": "Membaca Lateral",
-      "description": "\n\nmengevaluasi suatu sumber informasi melalui website lain yang terpercaya mengenai sumber tersebut\n\n",
-      "metadata": {
-        "created": 1722218413,
-        "updated": 1727994427,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1,
-        "status": "",
-        "pageType": "lesson",
-        "icon": "hax:lesson"
-      }
-    },
-    {
-      "id": "item-d3d65f8b-60d2-4311-bd3a-c0f0ef637b40",
-      "indent": 2,
-      "location": "pages/item-d3d65f8b-60d2-4311-bd3a-c0f0ef637b40/index.html",
-      "slug": "literasi-digital/membaca-lateral/infografis-digital",
-      "order": 1,
-      "parent": "item-d42083d1-68bf-4c1e-8444-04f4f824d0d7",
-      "title": "Infografis Digital",
-      "description": "\n\n",
-      "metadata": {
-        "created": 1721714373,
-        "updated": 1727994428,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1,
-        "status": ""
-      }
-    },
-    {
-      "id": "item-81b79ee1-0266-40b1-bae2-cff9efa8ce2c",
-      "indent": 2,
-      "location": "pages/item-81b79ee1-0266-40b1-bae2-cff9efa8ce2c/index.html",
-      "slug": "literasi-digital/membaca-lateral/pilar-literasi-digital",
-      "order": 2,
-      "parent": "item-d42083d1-68bf-4c1e-8444-04f4f824d0d7",
-      "title": "Pilar literasi digital",
-      "description": "4 pilar literasi digital yang kemudian digunakan untuk mendukung transformasi digital yang berlangsung di antaranya etika digital, budaya digital, keterampilan digital, dan keamanan digital.\netika di",
-      "metadata": {
-        "created": 1722216022,
-        "updated": 1727994428,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1,
-        "status": ""
-      }
-    },
-    {
-      "id": "item-300abfcb-8cea-4127-a7ac-dd60fcf03083",
-      "indent": 2,
-      "location": "pages/item-300abfcb-8cea-4127-a7ac-dd60fcf03083/index.html",
-      "slug": "literasi-digital/membaca-lateral/aman-bermedia-digital",
-      "order": 3,
-      "parent": "item-d42083d1-68bf-4c1e-8444-04f4f824d0d7",
-      "title": "Aman Bermedia Digital",
-      "description": "Digital Safety (Aman Bermedia Digital) penting bagi individu agar dapat menjaga keselamatan dirinya. Perkembangan teknologi informasi memaksa masyarakat dunia dan termasuk Indonesia untuk mengadaptas",
-      "metadata": {
-        "created": 1722216845,
-        "updated": 1727994428,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
         "readtime": 1,
         "status": ""
       }
@@ -520,138 +400,6 @@
       }
     },
     {
-      "id": "item-11bc1207-6b74-4ec7-bc2a-0956f3666c4e",
-      "indent": 2,
-      "location": "pages/item-11bc1207-6b74-4ec7-bc2a-0956f3666c4e/index.html",
-      "slug": "literasi-digital/membaca-lateral/refleksi-materi-membaca",
-      "order": 5,
-      "parent": "item-d42083d1-68bf-4c1e-8444-04f4f824d0d7",
-      "title": "Refleksi Materi Membaca",
-      "description": "Lakukan aktivitas berikut secara individu. Munculkan pendapat kritis kalian terhadap suatu konten di sosmed yang pernah kalian lihat dan amati di sekitar kalian. Menurut kalian aspek apa saja yang ha",
-      "metadata": {
-        "created": 1722395659,
-        "updated": 1727994428,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1,
-        "status": "",
-        "pageType": "activity",
-        "icon": "hax:ticket"
-      }
-    },
-    {
-      "id": "item-aea7ace1-aae1-4d3c-be1b-91db9f217d77",
-      "indent": 2,
-      "location": "pages/item-aea7ace1-aae1-4d3c-be1b-91db9f217d77/index.html",
-      "slug": "literasi-digital/membaca-lateral/situs-cek-fakta",
-      "order": 4,
-      "parent": "item-d42083d1-68bf-4c1e-8444-04f4f824d0d7",
-      "title": "Situs Cek Fakta",
-      "description": "berikut beberapa web yang untuk membedakan fakta dan opini\n\nCek Fakta: \n\nBenarkah angka kemiskinan ekstrem dan pengangguran sudah menurun?Benar, tapi…Indonesia memang telah mengurangi kemiskinan ekst",
-      "metadata": {
-        "created": 1722403442,
-        "updated": 1727994428,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1,
-        "status": ""
-      }
-    },
-    {
-      "id": "item-461ed189-d4b1-40c4-b5fb-dbd8872126f7",
-      "indent": 2,
-      "location": "pages/item-461ed189-d4b1-40c4-b5fb-dbd8872126f7/index.html",
-      "slug": "literasi-digital/membaca-lateral/bias",
-      "order": 6,
-      "parent": "item-d42083d1-68bf-4c1e-8444-04f4f824d0d7",
-      "title": "BIAS",
-      "description": "\nLink to content\n\nSecara istilah, bias adalah kecenderungan atau penyimpangan dari kebenaran dalam pengumpulan data, analisis data, interpretasi dan publikasi yang dapat menimbulkan kesimpulan yang s",
-      "metadata": {
-        "created": 1722404273,
-        "updated": 1727994428,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1,
-        "status": ""
-      }
-    },
-    {
-      "id": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
-      "indent": 1,
-      "location": "pages/item-d62c2858-5760-41fc-aa2c-1a072867000b/index.html",
-      "slug": "literasi-digital/sistem-komputer",
-      "order": 2,
-      "parent": "item-fbc16ff7-1765-4bdc-82f0-627c990629c1",
-      "title": "Sistem Komputer",
-      "description": "\n\n",
-      "metadata": {
-        "created": 1722821997,
-        "updated": 1727994429,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1,
-        "status": "",
-        "pageType": "lesson",
-        "icon": "hax:lesson",
-        "tags": "DIY",
-        "image": "https://content.instructables.com/F96/Q2MN/LJWVJ000/F96Q2MNLJWVJ000.jpg?auto=webp&amp;fit=bounds&amp;frame=1&amp;height=1024&amp;width=1024auto=webp&amp;frame=1&amp;height=150"
-      }
-    },
-    {
-      "id": "item-a788e79b-ec08-4d5d-9ee3-8b13e24dcea8",
-      "indent": 2,
-      "location": "pages/item-a788e79b-ec08-4d5d-9ee3-8b13e24dcea8/index.html",
-      "slug": "literasi-digital/sistem-komputer/refleksi-materi-single-board-controller",
-      "order": 13,
-      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
-      "title": "Refleksi Materi Single Board Controller",
-      "description": "Lakukan aktivitas berikut secara individu. Munculkan pendapat kritis kalian terhadap suatu konten di sosmed yang pernah kalian lihat dan amati di sekitar kalian. Menurut kalian aspek apa saja yang ha",
-      "metadata": {
-        "created": 1722996713,
-        "updated": 1727994431,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "locked": false,
-        "status": "",
-        "hideInMenu": false,
-        "readtime": 1
-      }
-    },
-    {
-      "id": "item-ccb6dfa5-acd9-48fe-a755-7cc465128167",
-      "indent": 2,
-      "location": "pages/item-ccb6dfa5-acd9-48fe-a755-7cc465128167/index.html",
-      "slug": "literasi-digital/sistem-komputer/single-board-computer",
-      "order": 1,
-      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
-      "title": "Single Board Computer",
-      "description": "Mengidentifikasi kebutuhan pengguna untuk sistem komputer\n\nrasionalcara, seperti survei, wawancara, dan observasi.didokumentasikan dengan jelas dan ringkas.\n\n\n\n\n\n",
-      "metadata": {
-        "created": 1721795398,
-        "updated": 1727994429,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1,
-        "status": ""
-      }
-    },
-    {
       "id": "item-b25e169c-66ac-4aef-90b1-2a3d373b6156",
       "indent": 2,
       "location": "pages/item-b25e169c-66ac-4aef-90b1-2a3d373b6156/index.html",
@@ -663,341 +411,6 @@
       "metadata": {
         "created": 1721795047,
         "updated": 1727994429,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1,
-        "status": ""
-      }
-    },
-    {
-      "id": "item-c0e414b4-5884-46d0-b7e6-e5e1678169b2",
-      "indent": 2,
-      "location": "pages/item-c0e414b4-5884-46d0-b7e6-e5e1678169b2/index.html",
-      "slug": "literasi-digital/sistem-komputer/bank-soal",
-      "order": 12,
-      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
-      "title": "Bank Soal",
-      "description": "\n",
-      "metadata": {
-        "created": 1722482627,
-        "updated": 1727994431,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "hideInMenu": false,
-        "tags": "soal",
-        "locked": false,
-        "readtime": 1,
-        "status": ""
-      }
-    },
-    {
-      "id": "item-687b40fc-20f1-4f3c-b2a4-2caffe2873e2",
-      "indent": 2,
-      "location": "pages/item-687b40fc-20f1-4f3c-b2a4-2caffe2873e2/index.html",
-      "slug": "literasi-digital/sistem-komputer/cara-komputer-bekerja",
-      "order": 2,
-      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
-      "title": "Cara Komputer Bekerja",
-      "description": "\nGambar 4.16 menggambarkan diagram kotak arsitektur sederhana sebuah komputer di mana pemroses (kotak besar) menerima masukan dari piranti masukan dan menghasilkan&#160;&#160;keluaran melalui port. K",
-      "metadata": {
-        "created": 1721799169,
-        "updated": 1727994429,
-        "images": {},
-        "videos": {},
-        "files": [
-          {
-            "path": "[object Object]koomponen-komputer.jpg",
-            "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/koomponen-komputer.jpg",
-            "url": "files/koomponen-komputer.jpg",
-            "type": "image/jpeg",
-            "name": "koomponen-komputer.jpg",
-            "size": 97811
-          }
-        ],
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1,
-        "status": ""
-      }
-    },
-    {
-      "id": "item-93304485-aa9c-4657-a260-13bb4492dc28",
-      "indent": 2,
-      "location": "pages/item-93304485-aa9c-4657-a260-13bb4492dc28/index.html",
-      "slug": "literasi-digital/sistem-komputer/pemasangan-program-ide",
-      "order": 6,
-      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
-      "title": "Pemasangan Program IDE",
-      "description": "ide online&#160;https://wokwi.com/\n\n",
-      "metadata": {
-        "created": 1722826247,
-        "updated": 1727994430,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1,
-        "status": ""
-      }
-    },
-    {
-      "id": "item-006ba611-c030-4a8d-b542-d18742482848",
-      "indent": 2,
-      "location": "pages/item-006ba611-c030-4a8d-b542-d18742482848/index.html",
-      "slug": "literasi-digital/sistem-komputer/komponen-single-board-controller",
-      "order": 4,
-      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
-      "title": "Komponen Single Board Controller",
-      "description": "Bredboard (papan sirkuit)BateraiLEDResistorKabel JumperInput/output Device (I/O)Modul Sensor\n\n",
-      "metadata": {
-        "created": 1722826663,
-        "updated": 1727994429,
-        "images": {},
-        "videos": {},
-        "files": [
-          {
-            "path": "[object Object]image.png",
-            "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/image.png",
-            "url": "files/image.png",
-            "type": "image/png",
-            "name": "image.png",
-            "size": 178631
-          }
-        ],
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1,
-        "status": ""
-      }
-    },
-    {
-      "id": "item-4a980862-a1fe-4bc5-8cb7-cfb03f23c619",
-      "indent": 2,
-      "location": "pages/item-4a980862-a1fe-4bc5-8cb7-cfb03f23c619/index.html",
-      "slug": "literasi-digital/sistem-komputer/contoh-led-geser",
-      "order": 7,
-      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
-      "title": "Contoh LED Geser",
-      "description": "link program LED\n\n\n",
-      "metadata": {
-        "created": 1722827068,
-        "updated": 1727994430,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1,
-        "files": [
-          {
-            "path": "[object Object]esp32.JPG",
-            "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/esp32.JPG",
-            "url": "files/esp32.JPG",
-            "type": "image/jpeg",
-            "name": "esp32.JPG",
-            "size": 69912
-          }
-        ],
-        "status": "",
-        "tags": "DIY",
-        "image": "files/esp32.JPG"
-      }
-    },
-    {
-      "id": "item-c4cb4605-d594-41db-89c3-12b2d539940d",
-      "indent": 2,
-      "location": "pages/item-c4cb4605-d594-41db-89c3-12b2d539940d/index.html",
-      "slug": "literasi-digital/sistem-komputer/single-board-controller",
-      "order": 3,
-      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
-      "title": "Single Board Controller",
-      "description": "\n\n\n",
-      "metadata": {
-        "created": 1722835319,
-        "updated": 1727994429,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1,
-        "status": ""
-      }
-    },
-    {
-      "id": "item-d8f2c8a6-fb54-48ee-954f-dfd35e7b125c",
-      "indent": 2,
-      "location": "pages/item-d8f2c8a6-fb54-48ee-954f-dfd35e7b125c/index.html",
-      "slug": "literasi-digital/sistem-komputer/contoh-led-jeda",
-      "order": 8,
-      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
-      "title": "Contoh LED Jeda",
-      "description": "\n\n\n\n",
-      "metadata": {
-        "created": 1722917064,
-        "updated": 1727994430,
-        "images": {},
-        "videos": {},
-        "files": [
-          {
-            "path": "[object Object]4a41f893d392b0ed071777edf08f220d-image.png",
-            "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/4a41f893d392b0ed071777edf08f220d-image.png",
-            "url": "files/4a41f893d392b0ed071777edf08f220d-image.png",
-            "type": "image/png",
-            "name": "4a41f893d392b0ed071777edf08f220d-image.png",
-            "size": 49445
-          }
-        ],
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1,
-        "status": "",
-        "image": "files/4a41f893d392b0ed071777edf08f220d-image.png",
-        "tags": "DIY"
-      }
-    },
-    {
-      "id": "item-f0e3b7ae-66b1-4571-b8a5-fa29c9b987bf",
-      "indent": 2,
-      "location": "pages/item-f0e3b7ae-66b1-4571-b8a5-fa29c9b987bf/index.html",
-      "slug": "literasi-digital/sistem-komputer/contoh-speaker",
-      "order": 9,
-      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
-      "title": "Contoh Speaker",
-      "description": "\n\n\nint buzzer = 14;\n\nvoid setup() {\n  pinMode(buzzer, OUTPUT);\n}\n\nvoid loop() {\n  digitalWrite(buzzer, HIGH);\n  delay(1000);\n  digitalWrite(buzzer, LOW);\n  delay(1000);\n}\n\n\nvoid setup() {\n  // put yo",
-      "metadata": {
-        "created": 1722917452,
-        "updated": 1727994430,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1,
-        "status": "",
-        "files": [
-          {
-            "path": "[object Object]b087ab0a0c80f847dc5e71b745c54894-image.png",
-            "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/b087ab0a0c80f847dc5e71b745c54894-image.png",
-            "url": "files/b087ab0a0c80f847dc5e71b745c54894-image.png",
-            "type": "image/png",
-            "name": "b087ab0a0c80f847dc5e71b745c54894-image.png",
-            "size": 37975
-          }
-        ],
-        "tags": "DIY",
-        "image": "files/b087ab0a0c80f847dc5e71b745c54894-image.png"
-      }
-    },
-    {
-      "id": "item-d8571138-d44a-444c-9433-10324756fafb",
-      "indent": 2,
-      "location": "pages/item-d8571138-d44a-444c-9433-10324756fafb/index.html",
-      "slug": "literasi-digital/sistem-komputer/kontrol-lampu-jarak-jauh",
-      "order": 5,
-      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
-      "title": "Kontrol Lampu Jarak Jauh",
-      "description": "Alat bisa mengendalikan perangkat-perangkat di rumah kita melalui aplikasi pada Smartphone Android kita dan koneksi bluetooth.\nPeralatan:\n\nArduino, modul relay, modul Wi-Fi, dan aplikasi smartphone (",
-      "metadata": {
-        "created": 1723001855,
-        "updated": 1727994430,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "hideInMenu": false,
-        "tags": "DIY",
-        "locked": false,
-        "readtime": 1,
-        "image": "https://nofgipiston.wordpress.com/wp-content/uploads/2020/02/img20200205052414.jpg",
-        "status": ""
-      }
-    },
-    {
-      "id": "item-a99d6ebf-7101-489e-afe6-f37f227ffe72",
-      "indent": 2,
-      "location": "pages/item-a99d6ebf-7101-489e-afe6-f37f227ffe72/index.html",
-      "slug": "literasi-digital/sistem-komputer/project-diy",
-      "order": 11,
-      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
-      "title": "PROJECT DIY",
-      "description": "\n\n",
-      "metadata": {
-        "created": 1723000639,
-        "updated": 1727994431,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "pageType": "practice",
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1,
-        "icon": "hax:shovel",
-        "status": ""
-      }
-    },
-    {
-      "id": "item-e1001f9b-d900-4c7c-8f4f-a932fd89f3a9",
-      "indent": 2,
-      "location": "pages/item-e1001f9b-d900-4c7c-8f4f-a932fd89f3a9/index.html",
-      "slug": "literasi-digital/sistem-komputer/projek-display-oled",
-      "order": 10,
-      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
-      "title": "Projek Display OLED",
-      "description": "\n\n",
-      "metadata": {
-        "created": 1723014576,
-        "updated": 1727994430,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1,
-        "status": ""
-      }
-    },
-    {
-      "id": "item-f2440f4c-e08a-491f-a52c-51e13e10db5e",
-      "indent": 0,
-      "location": "pages/item-f2440f4c-e08a-491f-a52c-51e13e10db5e/index.html",
-      "slug": "jaringan-komputer-dan-internet",
-      "order": 2,
-      "parent": null,
-      "title": "Jaringan Komputer Dan Internet",
-      "description": "\n",
-      "metadata": {
-        "created": 1722398000,
-        "updated": 1727994431,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1,
-        "status": "",
-        "icon": "hax:lesson"
-      }
-    },
-    {
-      "id": "item-687d29d1-c7a6-4600-9a22-88dba295a989",
-      "indent": 1,
-      "location": "pages/item-687d29d1-c7a6-4600-9a22-88dba295a989/index.html",
-      "slug": "jaringan-komputer-dan-internet/refleksi",
-      "order": 8,
-      "parent": "item-f2440f4c-e08a-491f-a52c-51e13e10db5e",
-      "title": "Refleksi",
-      "description": "\n",
-      "metadata": {
-        "created": 1721270090,
-        "updated": 1727994432,
         "images": {},
         "videos": {},
         "published": true,
@@ -1031,446 +444,6 @@
       }
     },
     {
-      "id": "item-170cdb75-7620-4bc5-a8fb-4b0f13b15194",
-      "indent": 1,
-      "location": "pages/item-170cdb75-7620-4bc5-a8fb-4b0f13b15194/index.html",
-      "slug": "jaringan-komputer-dan-internet/kondisi-keamanan-siber",
-      "order": 1,
-      "parent": "item-f2440f4c-e08a-491f-a52c-51e13e10db5e",
-      "title": "Kondisi Keamanan Siber",
-      "description": "\n\n",
-      "metadata": {
-        "created": 1724200446,
-        "updated": 1727994431,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1,
-        "status": ""
-      }
-    },
-    {
-      "id": "item-d858585a-aa72-4685-889f-ddce088e9a3c",
-      "indent": 1,
-      "location": "pages/item-d858585a-aa72-4685-889f-ddce088e9a3c/index.html",
-      "slug": "jaringan-komputer-dan-internet/pencegahan-spam,-spoofing,-phising-gmail",
-      "order": 2,
-      "parent": "item-f2440f4c-e08a-491f-a52c-51e13e10db5e",
-      "title": "Pencegahan Spam, Spoofing, Phising Gmail",
-      "description": "\n\n\n\n",
-      "metadata": {
-        "created": 1724200668,
-        "updated": 1727994432,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1,
-        "status": "",
-        "pageType": "activity",
-        "icon": "hax:ticket",
-        "files": [
-          {
-            "path": "[object Object]949816017d643b588e6da955046bf0ac-image.png",
-            "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/949816017d643b588e6da955046bf0ac-image.png",
-            "url": "files/949816017d643b588e6da955046bf0ac-image.png",
-            "type": "image/png",
-            "name": "949816017d643b588e6da955046bf0ac-image.png",
-            "size": 61803
-          }
-        ]
-      }
-    },
-    {
-      "id": "item-eb210bff-ff32-453e-b873-e547205d4124",
-      "indent": 1,
-      "location": "pages/item-eb210bff-ff32-453e-b873-e547205d4124/index.html",
-      "slug": "jaringan-komputer-dan-internet/membuat-akun-codepen",
-      "order": 3,
-      "parent": "item-f2440f4c-e08a-491f-a52c-51e13e10db5e",
-      "title": "Membuat Akun Codepen",
-      "description": "Diluncurkan pada tahun 2012, CodePen menata dirinya sebagai Front-End Developer Playground, yang bukan hanya pustaka potongan kode yang berguna, tetapi lebih sebagai tempat pengujian interaktif dan a",
-      "metadata": {
-        "created": 1724719809,
-        "updated": 1727994432,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1,
-        "status": "",
-        "files": [
-          {
-            "path": "[object Object]1823cc1db89ab7034b35327e336dac04-image.png",
-            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/1823cc1db89ab7034b35327e336dac04-image.png",
-            "url": "files/1823cc1db89ab7034b35327e336dac04-image.png",
-            "type": "image/png",
-            "name": "1823cc1db89ab7034b35327e336dac04-image.png",
-            "size": 41816
-          },
-          {
-            "path": "[object Object]codepen.PNG",
-            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/codepen.PNG",
-            "url": "files/codepen.PNG",
-            "type": "image/png",
-            "name": "codepen.PNG",
-            "size": 77432
-          }
-        ]
-      }
-    },
-    {
-      "id": "item-621340f8-d17f-45ee-82dc-a6bd93b3bf20",
-      "indent": 1,
-      "location": "pages/item-621340f8-d17f-45ee-82dc-a6bd93b3bf20/index.html",
-      "slug": "jaringan-komputer-dan-internet/buat-akun-vercel",
-      "order": 5,
-      "parent": "item-f2440f4c-e08a-491f-a52c-51e13e10db5e",
-      "title": "Buat Akun Vercel",
-      "description": "Kunjungi pendaftaran akun Vercel di https://vercel.com/signupPilih Hobby\n\n3. Tulis Namamu\n\n4. Pilih Continue with Github\n\n\n",
-      "metadata": {
-        "created": 1724720865,
-        "updated": 1727994432,
-        "images": {},
-        "videos": {},
-        "files": [
-          {
-            "path": "[object Object]913e12713da9caf58a6f73fbd8ed0d7f-image.png",
-            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/913e12713da9caf58a6f73fbd8ed0d7f-image.png",
-            "url": "files/913e12713da9caf58a6f73fbd8ed0d7f-image.png",
-            "type": "image/png",
-            "name": "913e12713da9caf58a6f73fbd8ed0d7f-image.png",
-            "size": 35324
-          },
-          {
-            "path": "[object Object]028cc088bf6688ff9cdea1e882eb24dd-image.png",
-            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/028cc088bf6688ff9cdea1e882eb24dd-image.png",
-            "url": "files/028cc088bf6688ff9cdea1e882eb24dd-image.png",
-            "type": "image/png",
-            "name": "028cc088bf6688ff9cdea1e882eb24dd-image.png",
-            "size": 6414
-          },
-          {
-            "path": "[object Object]1c4efebc8a6da1cf23aca638f300ee67-image.png",
-            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/1c4efebc8a6da1cf23aca638f300ee67-image.png",
-            "url": "files/1c4efebc8a6da1cf23aca638f300ee67-image.png",
-            "type": "image/png",
-            "name": "1c4efebc8a6da1cf23aca638f300ee67-image.png",
-            "size": 34889
-          },
-          {
-            "path": "[object Object]e6bccb6a53b8be14c2038f296ad5a9df-image.png",
-            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/e6bccb6a53b8be14c2038f296ad5a9df-image.png",
-            "url": "files/e6bccb6a53b8be14c2038f296ad5a9df-image.png",
-            "type": "image/png",
-            "name": "e6bccb6a53b8be14c2038f296ad5a9df-image.png",
-            "size": 42156
-          }
-        ],
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1,
-        "status": ""
-      }
-    },
-    {
-      "id": "item-c4ce00f6-e1f4-4f00-a39f-c415e1a5057c",
-      "indent": 1,
-      "location": "pages/item-c4ce00f6-e1f4-4f00-a39f-c415e1a5057c/index.html",
-      "slug": "jaringan-komputer-dan-internet/buat-akun-stackblitz",
-      "order": 4,
-      "parent": "item-f2440f4c-e08a-491f-a52c-51e13e10db5e",
-      "title": "Buat Akun Stackblitz",
-      "description": "\n",
-      "metadata": {
-        "created": 1724722422,
-        "updated": 1727994432,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1,
-        "files": [
-          {
-            "path": "[object Object]b2809f0a4a664a5a1367ab81d1ab1a0c-image.png",
-            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/b2809f0a4a664a5a1367ab81d1ab1a0c-image.png",
-            "url": "files/b2809f0a4a664a5a1367ab81d1ab1a0c-image.png",
-            "type": "image/png",
-            "name": "b2809f0a4a664a5a1367ab81d1ab1a0c-image.png",
-            "size": 40213
-          },
-          {
-            "path": "[object Object]7aa5e9e913b3da34ba6df2b4df41c4e6-image.png",
-            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/7aa5e9e913b3da34ba6df2b4df41c4e6-image.png",
-            "url": "files/7aa5e9e913b3da34ba6df2b4df41c4e6-image.png",
-            "type": "image/png",
-            "name": "7aa5e9e913b3da34ba6df2b4df41c4e6-image.png",
-            "size": 106657
-          },
-          {
-            "path": "[object Object]c88bb96c982108227dd77e44f8426ff2-image.png",
-            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/c88bb96c982108227dd77e44f8426ff2-image.png",
-            "url": "files/c88bb96c982108227dd77e44f8426ff2-image.png",
-            "type": "image/png",
-            "name": "c88bb96c982108227dd77e44f8426ff2-image.png",
-            "size": 95987
-          },
-          {
-            "path": "[object Object]4d6811a32f194809d21416d653670fef-image.png",
-            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/4d6811a32f194809d21416d653670fef-image.png",
-            "url": "files/4d6811a32f194809d21416d653670fef-image.png",
-            "type": "image/png",
-            "name": "4d6811a32f194809d21416d653670fef-image.png",
-            "size": 128089
-          },
-          {
-            "path": "[object Object]5be7f8bd0972b6b1ec4f0e8f4d77fccc-image.png",
-            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/5be7f8bd0972b6b1ec4f0e8f4d77fccc-image.png",
-            "url": "files/5be7f8bd0972b6b1ec4f0e8f4d77fccc-image.png",
-            "type": "image/png",
-            "name": "5be7f8bd0972b6b1ec4f0e8f4d77fccc-image.png",
-            "size": 96462
-          }
-        ],
-        "status": ""
-      }
-    },
-    {
-      "id": "item-d64bc819-2f8b-42ad-8ff9-1c85a120d78e",
-      "indent": 1,
-      "location": "pages/item-d64bc819-2f8b-42ad-8ff9-1c85a120d78e/index.html",
-      "slug": "jaringan-komputer-dan-internet/buat-akun-github-anda",
-      "order": 6,
-      "parent": "item-f2440f4c-e08a-491f-a52c-51e13e10db5e",
-      "title": "Buat Akun Github Anda",
-      "description": "\n Kunjungi laman GitHub di https://www.github.com/joinSelanjutnya yaitu mengisi formulir seperti dibawah ini. Lalu klik Sign Up for GitHub\n\n3. \n",
-      "metadata": {
-        "created": 1724733256,
-        "updated": 1727994432,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1,
-        "files": [
-          {
-            "path": "[object Object]48f782f2e823f82c7d3157cd30025d2a-image.png",
-            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/48f782f2e823f82c7d3157cd30025d2a-image.png",
-            "url": "files/48f782f2e823f82c7d3157cd30025d2a-image.png",
-            "type": "image/png",
-            "name": "48f782f2e823f82c7d3157cd30025d2a-image.png",
-            "size": 255480
-          },
-          {
-            "path": "[object Object]f431dbaacce125ad12f4e73cd92c9ef7-image.png",
-            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/f431dbaacce125ad12f4e73cd92c9ef7-image.png",
-            "url": "files/f431dbaacce125ad12f4e73cd92c9ef7-image.png",
-            "type": "image/png",
-            "name": "f431dbaacce125ad12f4e73cd92c9ef7-image.png",
-            "size": 39407
-          },
-          {
-            "path": "[object Object]bca86ab2fbf383102f576dbe5caa43f6-image.png",
-            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/bca86ab2fbf383102f576dbe5caa43f6-image.png",
-            "url": "files/bca86ab2fbf383102f576dbe5caa43f6-image.png",
-            "type": "image/png",
-            "name": "bca86ab2fbf383102f576dbe5caa43f6-image.png",
-            "size": 23615
-          },
-          {
-            "path": "[object Object]2d1b106fe63f760ba8ddfa6dbbff2356-image.png",
-            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/2d1b106fe63f760ba8ddfa6dbbff2356-image.png",
-            "url": "files/2d1b106fe63f760ba8ddfa6dbbff2356-image.png",
-            "type": "image/png",
-            "name": "2d1b106fe63f760ba8ddfa6dbbff2356-image.png",
-            "size": 30209
-          },
-          {
-            "path": "[object Object]verif.PNG",
-            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/verif.PNG",
-            "url": "files/verif.PNG",
-            "type": "image/png",
-            "name": "verif.PNG",
-            "size": 147491
-          },
-          {
-            "path": "[object Object]c646ce7e34240fd552cecd33d04e71b2-image.png",
-            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/c646ce7e34240fd552cecd33d04e71b2-image.png",
-            "url": "files/c646ce7e34240fd552cecd33d04e71b2-image.png",
-            "type": "image/png",
-            "name": "c646ce7e34240fd552cecd33d04e71b2-image.png",
-            "size": 37228
-          },
-          {
-            "path": "[object Object]66e16552879503c4c5aadded86c28a33-image.png",
-            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/66e16552879503c4c5aadded86c28a33-image.png",
-            "url": "files/66e16552879503c4c5aadded86c28a33-image.png",
-            "type": "image/png",
-            "name": "66e16552879503c4c5aadded86c28a33-image.png",
-            "size": 27071
-          },
-          {
-            "path": "[object Object]verif-email2.PNG",
-            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/verif-email2.PNG",
-            "url": "files/verif-email2.PNG",
-            "type": "image/png",
-            "name": "verif-email2.PNG",
-            "size": 57366
-          },
-          {
-            "path": "[object Object]16e29230bd2459e3cecdb88e7ff38e52-image.png",
-            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/16e29230bd2459e3cecdb88e7ff38e52-image.png",
-            "url": "files/16e29230bd2459e3cecdb88e7ff38e52-image.png",
-            "type": "image/png",
-            "name": "16e29230bd2459e3cecdb88e7ff38e52-image.png",
-            "size": 174345
-          },
-          {
-            "path": "[object Object]151d770d29594703eaa567aebac6347c-image.png",
-            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/151d770d29594703eaa567aebac6347c-image.png",
-            "url": "files/151d770d29594703eaa567aebac6347c-image.png",
-            "type": "image/png",
-            "name": "151d770d29594703eaa567aebac6347c-image.png",
-            "size": 21726
-          },
-          {
-            "path": "[object Object]b1fb5e40d9ca1cba812417878952201e-image.png",
-            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/b1fb5e40d9ca1cba812417878952201e-image.png",
-            "url": "files/b1fb5e40d9ca1cba812417878952201e-image.png",
-            "type": "image/png",
-            "name": "b1fb5e40d9ca1cba812417878952201e-image.png",
-            "size": 172949
-          }
-        ],
-        "status": ""
-      }
-    },
-    {
-      "id": "item-c620782e-e848-44b3-97d9-66644745c69c",
-      "indent": 1,
-      "location": "pages/item-c620782e-e848-44b3-97d9-66644745c69c/index.html",
-      "slug": "jaringan-komputer-dan-internet/alur-penerbitan-tulisan",
-      "order": 7,
-      "parent": "item-f2440f4c-e08a-491f-a52c-51e13e10db5e",
-      "title": "Alur Penerbitan Tulisan",
-      "description": "Ini untuk membuat catatan/refleksi dari materi yang sudah dipelajari. Ikuti tutorial dari blog\nGithub + Stickblitz + HAX = penerbitan web gratis\n\nSumber Tulisan\n#situs web hax#pengembang web#komponen",
-      "metadata": {
-        "created": 1725318247,
-        "updated": 1727994432,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 3,
-        "status": ""
-      }
-    },
-    {
-      "id": "item-6fd7adf5-b7b4-4214-8f02-ab835624c9d1",
-      "indent": 0,
-      "location": "pages/item-6fd7adf5-b7b4-4214-8f02-ab835624c9d1/index.html",
-      "slug": "page-dengan-import-md",
-      "order": 3,
-      "parent": null,
-      "title": "Page dengan import MD",
-      "description": "\n",
-      "metadata": {
-        "created": 1722483828,
-        "updated": 1727994432,
-        "images": {},
-        "videos": {},
-        "published": false,
-        "hideInMenu": false,
-        "tags": "soal",
-        "locked": false,
-        "readtime": 1,
-        "status": "",
-        "image": "https://images-assets.nasa.gov/image/0102626/0102626~thumb.jpg"
-      }
-    },
-    {
-      "id": "item-a0a7f01a-2b12-43e1-bb85-3f7bd8cff8a6",
-      "indent": 0,
-      "location": "pages/item-a0a7f01a-2b12-43e1-bb85-3f7bd8cff8a6/index.html",
-      "slug": "analisis-data",
-      "order": 4,
-      "parent": null,
-      "title": "Analisis Data",
-      "description": "Pada akhir pelajaran, Siswa dapat ...Mendefinisikan data terbuka dan menjelaskan manfaatnya. Mengidentifikasi jenis-jenis data terbuka yang tersedia. Menemukan sumber data terbuka yang terpercaya dan",
-      "metadata": {
-        "created": 1722398223,
-        "updated": 1728001662,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "locked": false,
-        "status": "",
-        "hideInMenu": false,
-        "readtime": 5,
-        "pageType": "module",
-        "icon": "hax:module",
-        "files": [
-          {
-            "path": "[object Object]satudata.JPG",
-            "fullUrl": "//home/andyyulianto77/tik12/files/satudata.JPG",
-            "url": "files/satudata.JPG",
-            "type": "image/jpeg",
-            "name": "satudata.JPG",
-            "size": 128046
-          },
-          {
-            "path": "[object Object]1b18f9396b722f0c5a26ef0f48f9e30b-satudata.JPG",
-            "fullUrl": "//home/andyyulianto77/tik12/files/1b18f9396b722f0c5a26ef0f48f9e30b-satudata.JPG",
-            "url": "files/1b18f9396b722f0c5a26ef0f48f9e30b-satudata.JPG",
-            "type": "image/jpeg",
-            "name": "1b18f9396b722f0c5a26ef0f48f9e30b-satudata.JPG",
-            "size": 128046
-          }
-        ]
-      }
-    },
-    {
-      "id": "item-16c54262-de9a-439e-bc7c-994594c2822c",
-      "indent": 1,
-      "location": "pages/item-16c54262-de9a-439e-bc7c-994594c2822c/index.html",
-      "slug": "analisis-data/basis-data",
-      "order": 1,
-      "parent": "item-a0a7f01a-2b12-43e1-bb85-3f7bd8cff8a6",
-      "title": "Basis Data",
-      "description": "Basis data merupakan inti dari aplikasi web bisnis. Aplikasi menyerahkan sebagian besar pekerjaan pencarian, penambahan, dan pembaruan data ke sistem manajemen basis data (DBMS). Hal ini membuat apli",
-      "metadata": {
-        "created": 1727920482,
-        "updated": 1727994433,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 5,
-        "files": [
-          {
-            "path": "[object Object]jenis-mobil.png",
-            "fullUrl": "//home/andyyulianto77/tik12/files/jenis-mobil.png",
-            "url": "files/jenis-mobil.png",
-            "type": "image/png",
-            "name": "jenis-mobil.png",
-            "size": 38285
-          }
-        ],
-        "status": "",
-        "pageType": "content",
-        "icon": "lrn:page"
-      }
-    },
-    {
       "id": "item-0fd32513-6656-4e25-b954-fe7fd15232b6",
       "indent": 2,
       "location": "pages/item-0fd32513-6656-4e25-b954-fe7fd15232b6/index.html",
@@ -1494,47 +467,6 @@
       }
     },
     {
-      "id": "item-2ccf03d8-e82c-4a33-aba5-3ae39d5e1421",
-      "indent": 1,
-      "location": "pages/item-2ccf03d8-e82c-4a33-aba5-3ae39d5e1421/index.html",
-      "slug": "analisis-data/klien-dan-server",
-      "order": 2,
-      "parent": "item-a0a7f01a-2b12-43e1-bb85-3f7bd8cff8a6",
-      "title": "Klien dan Server",
-      "description": "\nWeb bekerja berdasarkan model klien/server. Yaitu saat satu komputer melakukan sesuatu untuk komputer lain.\nIstilah klien dan server bisa membingungkan. Terkadang, orang berbicara tentang mesin fisi",
-      "metadata": {
-        "created": 1727950320,
-        "updated": 1727994433,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "pageType": "content",
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 3,
-        "files": [
-          {
-            "path": "[object Object]server-pexels.JPG",
-            "fullUrl": "//home/andyyulianto77/tik12/files/server-pexels.JPG",
-            "url": "files/server-pexels.JPG",
-            "type": "image/jpeg",
-            "name": "server-pexels.JPG",
-            "size": 162437
-          },
-          {
-            "path": "[object Object]clients-server.png",
-            "fullUrl": "//home/andyyulianto77/tik12/files/clients-server.png",
-            "url": "files/clients-server.png",
-            "type": "image/png",
-            "name": "clients-server.png",
-            "size": 85926
-          }
-        ],
-        "icon": "lrn:page",
-        "status": ""
-      }
-    },
-    {
       "id": "item-0e5084de-8389-44ed-8eaf-fffc0f5608bd",
       "indent": 1,
       "location": "pages/item-0e5084de-8389-44ed-8eaf-fffc0f5608bd/index.html",
@@ -1554,119 +486,6 @@
         "locked": false,
         "readtime": 2,
         "icon": "lrn:page",
-        "status": ""
-      }
-    },
-    {
-      "id": "item-13298894-5889-4b24-b28f-5bbde3a3c6f1",
-      "indent": 1,
-      "location": "pages/item-13298894-5889-4b24-b28f-5bbde3a3c6f1/index.html",
-      "slug": "analisis-data/perancangan-basis-data",
-      "order": 3,
-      "parent": "item-a0a7f01a-2b12-43e1-bb85-3f7bd8cff8a6",
-      "title": "Perancangan Basis Data",
-      "description": "\n\nBasis data merupakan inti dari aplikasi web bisnis. Aplikasi menyerahkan sebagian besar pekerjaan pencarian, penambahan, dan pembaruan data ke sistem manajemen basis data (DBMS). Hal ini membuat ap",
-      "metadata": {
-        "created": 1727966499,
-        "updated": 1727994433,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 3,
-        "pageType": "content",
-        "icon": "lrn:page",
-        "status": ""
-      }
-    },
-    {
-      "id": "item-f26890f2-73b3-4ff4-8686-446b118c696e",
-      "indent": 1,
-      "location": "pages/item-f26890f2-73b3-4ff4-8686-446b118c696e/index.html",
-      "slug": "analisis-data/membuat-database",
-      "order": 4,
-      "parent": "item-a0a7f01a-2b12-43e1-bb85-3f7bd8cff8a6",
-      "title": "Membuat Database",
-      "description": "Sudah tidak sabar untuk mempraktekkan apa yang sudah dipahami tentang database. Okeee.&#160;😃\nMari kita membuat basis data yang bisa kita mainkan.\nAnda akan membuat dua, satu di localhost(PC Anda), ",
-      "metadata": {
-        "created": 1727967528,
-        "updated": 1727994433,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "pageType": "content",
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 3,
-        "status": "",
-        "icon": "lrn:page"
-      }
-    },
-    {
-      "id": "item-8aa6a35b-1bb7-47b7-aff3-31e4569cd298",
-      "indent": 1,
-      "location": "pages/item-8aa6a35b-1bb7-47b7-aff3-31e4569cd298/index.html",
-      "slug": "analisis-data/membuat-tabel-db",
-      "order": 5,
-      "parent": "item-a0a7f01a-2b12-43e1-bb85-3f7bd8cff8a6",
-      "title": "Membuat tabel DB",
-      "description": "Isi dari database adalah kumpulan tabel-tabel\n\nBy the end of this lesson, you should be able to...\nMari kita membuat tabel tentang localhost.\nTabel tersebut akan disebut wombat, dan akan memiliki bid",
-      "metadata": {
-        "created": 1727968217,
-        "updated": 1727994433,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "pageType": "content",
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 2,
-        "icon": "lrn:page",
-        "status": ""
-      }
-    },
-    {
-      "id": "item-5eb62491-7126-485c-af99-f830bcca51e3",
-      "indent": 1,
-      "location": "pages/item-5eb62491-7126-485c-af99-f830bcca51e3/index.html",
-      "slug": "analisis-data/menambah-data-pada-tabel",
-      "order": 6,
-      "parent": "item-a0a7f01a-2b12-43e1-bb85-3f7bd8cff8a6",
-      "title": "Menambah Data Pada Tabel",
-      "description": "\n\nBy the end of this lesson, you should be able to...\nData di tabel dikumpulkan secara sedikit atau banyak sekaligus. Berikut cara untuk menambahkan data pada tabel.\nMari tambahkan beberapa data ke D",
-      "metadata": {
-        "created": 1727969614,
-        "updated": 1727994434,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 2,
-        "pageType": "content",
-        "status": "",
-        "icon": "lrn:page"
-      }
-    },
-    {
-      "id": "item-9ce2543f-3a3e-4216-8628-e42dbdeac3a1",
-      "indent": 1,
-      "location": "pages/item-9ce2543f-3a3e-4216-8628-e42dbdeac3a1/index.html",
-      "slug": "analisis-data/memilih-data",
-      "order": 7,
-      "parent": "item-a0a7f01a-2b12-43e1-bb85-3f7bd8cff8a6",
-      "title": "MEMILIH data",
-      "description": "Kita sudah bisa manambahkan data. Sehingga data menjadi banyak.\n\nBy the end of this lesson, you should be able to...\nPernyataan SELECT SQL memungkinkan Anda melakukan kueri pada basis data. Pernyataa",
-      "metadata": {
-        "created": 1727970393,
-        "updated": 1727994434,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 4,
         "status": ""
       }
     },
@@ -1811,26 +630,26 @@
       }
     },
     {
-      "id": "item-f6a56c5c-9bb8-4c09-9e18-a4a4e8060ef8",
+      "id": "item-a8c72ce1-89a5-4bb6-ade7-5c1b34f35eab",
       "indent": 0,
-      "location": "pages/item-f6a56c5c-9bb8-4c09-9e18-a4a4e8060ef8/index.html",
-      "slug": "page",
-      "order": 5,
-      "parent": null,
-      "title": "BERPIKIR KOMPUTASIONAL DAN ALGORITMA PEMROGRAMAN",
+      "location": "pages/item-a8c72ce1-89a5-4bb6-ade7-5c1b34f35eab/index.html",
+      "slug": "bersiap-siap-pro/page-2",
+      "order": 3,
+      "parent": "item-f61f8091-ceb3-4d8b-b1c4-d573ed0980a7",
+      "title": "UTS",
       "description": "\n",
       "metadata": {
-        "created": 1727996894,
-        "updated": 1728003591,
+        "created": 1728795203,
+        "updated": 1728796040,
         "images": {},
         "videos": {},
         "published": true,
-        "pageType": "content",
+        "pageType": "quiz",
         "hideInMenu": false,
-        "tags": "materi",
+        "tags": "soal",
         "locked": false,
-        "readtime": 3,
-        "icon": "lrn:page"
+        "readtime": 1,
+        "icon": "lrn:quiz"
       }
     },
     {
@@ -1855,6 +674,646 @@
       }
     },
     {
+      "id": "item-423f3e75-dd3f-43a1-832a-2be6af784cad",
+      "indent": 0,
+      "location": "pages/item-423f3e75-dd3f-43a1-832a-2be6af784cad/index.html",
+      "slug": "page/page-1/page",
+      "order": 0,
+      "parent": "item-984bdbe3-eae5-4a78-9ccb-abb39ed59fab",
+      "title": "PHPSTORM",
+      "description": "\n\nBy the end of this lesson, you should be able to...\n\n  \n  Tulis Q-2\n  \n  \n   \n\n\n\n  expand\n\n\n\n  \n  \n  \nDi era digital ini, pemrograman menjadi semakin penting untuk membangun aplikasi, website, dan ",
+      "metadata": {
+        "created": 1728005044,
+        "updated": 1728005363,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
+      }
+    },
+    {
+      "id": "item-96c617a8-0c95-439b-abe5-0eeb2ff866cc",
+      "indent": 0,
+      "location": "pages/item-96c617a8-0c95-439b-abe5-0eeb2ff866cc/index.html",
+      "slug": "page/page-4/page",
+      "order": 0,
+      "parent": "item-5a7fe431-045a-46b5-88f0-7f14d29658f4",
+      "title": "PERCABANGAN BERSARANG",
+      "description": "Setelah memahami percabangan ...\n\n  \n  Tulis Q-2\n  \n  \n   \n\n\n\n  expand\n\n\n\n  \n  \n  \nDi era digital ini, pemrograman menjadi semakin penting untuk membangun aplikasi, website, dan siste\n\nBy the end of ",
+      "metadata": {
+        "created": 1728008417,
+        "updated": 1728011768,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "pageType": "content",
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 2,
+        "icon": "lrn:page"
+      }
+    },
+    {
+      "id": "item-fbc16ff7-1765-4bdc-82f0-627c990629c1",
+      "indent": 0,
+      "location": "pages/item-fbc16ff7-1765-4bdc-82f0-627c990629c1/index.html",
+      "slug": "literasi-digital",
+      "order": 1,
+      "parent": null,
+      "title": "Literasi Digital",
+      "description": "ssd\n",
+      "metadata": {
+        "created": 1721189568,
+        "updated": 1727994426,
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "videos": {},
+        "images": {},
+        "status": "",
+        "files": [
+          {
+            "path": "[object Object]judo.jpg",
+            "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/judo.jpg",
+            "url": "files/judo.jpg",
+            "type": "image/jpeg",
+            "name": "judo.jpg",
+            "size": 45855
+          }
+        ],
+        "pageType": "module",
+        "tags": "internet,iot, digital,literasi",
+        "icon": "hax:module"
+      }
+    },
+    {
+      "id": "item-d42083d1-68bf-4c1e-8444-04f4f824d0d7",
+      "indent": 1,
+      "location": "pages/item-d42083d1-68bf-4c1e-8444-04f4f824d0d7/index.html",
+      "slug": "literasi-digital/membaca-lateral",
+      "order": 1,
+      "parent": "item-fbc16ff7-1765-4bdc-82f0-627c990629c1",
+      "title": "Membaca Lateral",
+      "description": "\n\nmengevaluasi suatu sumber informasi melalui website lain yang terpercaya mengenai sumber tersebut\n\n",
+      "metadata": {
+        "created": 1722218413,
+        "updated": 1727994427,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": "",
+        "pageType": "lesson",
+        "icon": "hax:lesson"
+      }
+    },
+    {
+      "id": "item-d3d65f8b-60d2-4311-bd3a-c0f0ef637b40",
+      "indent": 2,
+      "location": "pages/item-d3d65f8b-60d2-4311-bd3a-c0f0ef637b40/index.html",
+      "slug": "literasi-digital/membaca-lateral/infografis-digital",
+      "order": 1,
+      "parent": "item-d42083d1-68bf-4c1e-8444-04f4f824d0d7",
+      "title": "Infografis Digital",
+      "description": "\n\n",
+      "metadata": {
+        "created": 1721714373,
+        "updated": 1727994428,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-81b79ee1-0266-40b1-bae2-cff9efa8ce2c",
+      "indent": 2,
+      "location": "pages/item-81b79ee1-0266-40b1-bae2-cff9efa8ce2c/index.html",
+      "slug": "literasi-digital/membaca-lateral/pilar-literasi-digital",
+      "order": 2,
+      "parent": "item-d42083d1-68bf-4c1e-8444-04f4f824d0d7",
+      "title": "Pilar literasi digital",
+      "description": "4 pilar literasi digital yang kemudian digunakan untuk mendukung transformasi digital yang berlangsung di antaranya etika digital, budaya digital, keterampilan digital, dan keamanan digital.\netika di",
+      "metadata": {
+        "created": 1722216022,
+        "updated": 1727994428,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-300abfcb-8cea-4127-a7ac-dd60fcf03083",
+      "indent": 2,
+      "location": "pages/item-300abfcb-8cea-4127-a7ac-dd60fcf03083/index.html",
+      "slug": "literasi-digital/membaca-lateral/aman-bermedia-digital",
+      "order": 3,
+      "parent": "item-d42083d1-68bf-4c1e-8444-04f4f824d0d7",
+      "title": "Aman Bermedia Digital",
+      "description": "Digital Safety (Aman Bermedia Digital) penting bagi individu agar dapat menjaga keselamatan dirinya. Perkembangan teknologi informasi memaksa masyarakat dunia dan termasuk Indonesia untuk mengadaptas",
+      "metadata": {
+        "created": 1722216845,
+        "updated": 1727994428,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-aea7ace1-aae1-4d3c-be1b-91db9f217d77",
+      "indent": 2,
+      "location": "pages/item-aea7ace1-aae1-4d3c-be1b-91db9f217d77/index.html",
+      "slug": "literasi-digital/membaca-lateral/situs-cek-fakta",
+      "order": 4,
+      "parent": "item-d42083d1-68bf-4c1e-8444-04f4f824d0d7",
+      "title": "Situs Cek Fakta",
+      "description": "berikut beberapa web yang untuk membedakan fakta dan opini\n\nCek Fakta: \n\nBenarkah angka kemiskinan ekstrem dan pengangguran sudah menurun?Benar, tapi…Indonesia memang telah mengurangi kemiskinan ekst",
+      "metadata": {
+        "created": 1722403442,
+        "updated": 1727994428,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-11bc1207-6b74-4ec7-bc2a-0956f3666c4e",
+      "indent": 2,
+      "location": "pages/item-11bc1207-6b74-4ec7-bc2a-0956f3666c4e/index.html",
+      "slug": "literasi-digital/membaca-lateral/refleksi-materi-membaca",
+      "order": 5,
+      "parent": "item-d42083d1-68bf-4c1e-8444-04f4f824d0d7",
+      "title": "Refleksi Materi Membaca",
+      "description": "Lakukan aktivitas berikut secara individu. Munculkan pendapat kritis kalian terhadap suatu konten di sosmed yang pernah kalian lihat dan amati di sekitar kalian. Menurut kalian aspek apa saja yang ha",
+      "metadata": {
+        "created": 1722395659,
+        "updated": 1727994428,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": "",
+        "pageType": "activity",
+        "icon": "hax:ticket"
+      }
+    },
+    {
+      "id": "item-461ed189-d4b1-40c4-b5fb-dbd8872126f7",
+      "indent": 2,
+      "location": "pages/item-461ed189-d4b1-40c4-b5fb-dbd8872126f7/index.html",
+      "slug": "literasi-digital/membaca-lateral/bias",
+      "order": 6,
+      "parent": "item-d42083d1-68bf-4c1e-8444-04f4f824d0d7",
+      "title": "BIAS",
+      "description": "\nLink to content\n\nSecara istilah, bias adalah kecenderungan atau penyimpangan dari kebenaran dalam pengumpulan data, analisis data, interpretasi dan publikasi yang dapat menimbulkan kesimpulan yang s",
+      "metadata": {
+        "created": 1722404273,
+        "updated": 1727994428,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+      "indent": 1,
+      "location": "pages/item-d62c2858-5760-41fc-aa2c-1a072867000b/index.html",
+      "slug": "literasi-digital/sistem-komputer",
+      "order": 2,
+      "parent": "item-fbc16ff7-1765-4bdc-82f0-627c990629c1",
+      "title": "Sistem Komputer",
+      "description": "\n\n",
+      "metadata": {
+        "created": 1722821997,
+        "updated": 1727994429,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": "",
+        "pageType": "lesson",
+        "icon": "hax:lesson",
+        "tags": "DIY",
+        "image": "https://content.instructables.com/F96/Q2MN/LJWVJ000/F96Q2MNLJWVJ000.jpg?auto=webp&amp;fit=bounds&amp;frame=1&amp;height=1024&amp;width=1024auto=webp&amp;frame=1&amp;height=150"
+      }
+    },
+    {
+      "id": "item-ccb6dfa5-acd9-48fe-a755-7cc465128167",
+      "indent": 2,
+      "location": "pages/item-ccb6dfa5-acd9-48fe-a755-7cc465128167/index.html",
+      "slug": "literasi-digital/sistem-komputer/single-board-computer",
+      "order": 1,
+      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+      "title": "Single Board Computer",
+      "description": "Mengidentifikasi kebutuhan pengguna untuk sistem komputer\n\nrasionalcara, seperti survei, wawancara, dan observasi.didokumentasikan dengan jelas dan ringkas.\n\n\n\n\n\n",
+      "metadata": {
+        "created": 1721795398,
+        "updated": 1727994429,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-687b40fc-20f1-4f3c-b2a4-2caffe2873e2",
+      "indent": 2,
+      "location": "pages/item-687b40fc-20f1-4f3c-b2a4-2caffe2873e2/index.html",
+      "slug": "literasi-digital/sistem-komputer/cara-komputer-bekerja",
+      "order": 2,
+      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+      "title": "Cara Komputer Bekerja",
+      "description": "\nGambar 4.16 menggambarkan diagram kotak arsitektur sederhana sebuah komputer di mana pemroses (kotak besar) menerima masukan dari piranti masukan dan menghasilkan&#160;&#160;keluaran melalui port. K",
+      "metadata": {
+        "created": 1721799169,
+        "updated": 1727994429,
+        "images": {},
+        "videos": {},
+        "files": [
+          {
+            "path": "[object Object]koomponen-komputer.jpg",
+            "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/koomponen-komputer.jpg",
+            "url": "files/koomponen-komputer.jpg",
+            "type": "image/jpeg",
+            "name": "koomponen-komputer.jpg",
+            "size": 97811
+          }
+        ],
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-c4cb4605-d594-41db-89c3-12b2d539940d",
+      "indent": 2,
+      "location": "pages/item-c4cb4605-d594-41db-89c3-12b2d539940d/index.html",
+      "slug": "literasi-digital/sistem-komputer/single-board-controller",
+      "order": 3,
+      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+      "title": "Single Board Controller",
+      "description": "\n\n\n",
+      "metadata": {
+        "created": 1722835319,
+        "updated": 1727994429,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-006ba611-c030-4a8d-b542-d18742482848",
+      "indent": 2,
+      "location": "pages/item-006ba611-c030-4a8d-b542-d18742482848/index.html",
+      "slug": "literasi-digital/sistem-komputer/komponen-single-board-controller",
+      "order": 4,
+      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+      "title": "Komponen Single Board Controller",
+      "description": "Bredboard (papan sirkuit)BateraiLEDResistorKabel JumperInput/output Device (I/O)Modul Sensor\n\n",
+      "metadata": {
+        "created": 1722826663,
+        "updated": 1727994429,
+        "images": {},
+        "videos": {},
+        "files": [
+          {
+            "path": "[object Object]image.png",
+            "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/image.png",
+            "url": "files/image.png",
+            "type": "image/png",
+            "name": "image.png",
+            "size": 178631
+          }
+        ],
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-d8571138-d44a-444c-9433-10324756fafb",
+      "indent": 2,
+      "location": "pages/item-d8571138-d44a-444c-9433-10324756fafb/index.html",
+      "slug": "literasi-digital/sistem-komputer/kontrol-lampu-jarak-jauh",
+      "order": 5,
+      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+      "title": "Kontrol Lampu Jarak Jauh",
+      "description": "Alat bisa mengendalikan perangkat-perangkat di rumah kita melalui aplikasi pada Smartphone Android kita dan koneksi bluetooth.\nPeralatan:\n\nArduino, modul relay, modul Wi-Fi, dan aplikasi smartphone (",
+      "metadata": {
+        "created": 1723001855,
+        "updated": 1727994430,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "tags": "DIY",
+        "locked": false,
+        "readtime": 1,
+        "image": "https://nofgipiston.wordpress.com/wp-content/uploads/2020/02/img20200205052414.jpg",
+        "status": ""
+      }
+    },
+    {
+      "id": "item-93304485-aa9c-4657-a260-13bb4492dc28",
+      "indent": 2,
+      "location": "pages/item-93304485-aa9c-4657-a260-13bb4492dc28/index.html",
+      "slug": "literasi-digital/sistem-komputer/pemasangan-program-ide",
+      "order": 6,
+      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+      "title": "Pemasangan Program IDE",
+      "description": "ide online&#160;https://wokwi.com/\n\n",
+      "metadata": {
+        "created": 1722826247,
+        "updated": 1727994430,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-4a980862-a1fe-4bc5-8cb7-cfb03f23c619",
+      "indent": 2,
+      "location": "pages/item-4a980862-a1fe-4bc5-8cb7-cfb03f23c619/index.html",
+      "slug": "literasi-digital/sistem-komputer/contoh-led-geser",
+      "order": 7,
+      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+      "title": "Contoh LED Geser",
+      "description": "link program LED\n\n\n",
+      "metadata": {
+        "created": 1722827068,
+        "updated": 1727994430,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "files": [
+          {
+            "path": "[object Object]esp32.JPG",
+            "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/esp32.JPG",
+            "url": "files/esp32.JPG",
+            "type": "image/jpeg",
+            "name": "esp32.JPG",
+            "size": 69912
+          }
+        ],
+        "status": "",
+        "tags": "DIY",
+        "image": "files/esp32.JPG"
+      }
+    },
+    {
+      "id": "item-d8f2c8a6-fb54-48ee-954f-dfd35e7b125c",
+      "indent": 2,
+      "location": "pages/item-d8f2c8a6-fb54-48ee-954f-dfd35e7b125c/index.html",
+      "slug": "literasi-digital/sistem-komputer/contoh-led-jeda",
+      "order": 8,
+      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+      "title": "Contoh LED Jeda",
+      "description": "\n\n\n\n",
+      "metadata": {
+        "created": 1722917064,
+        "updated": 1727994430,
+        "images": {},
+        "videos": {},
+        "files": [
+          {
+            "path": "[object Object]4a41f893d392b0ed071777edf08f220d-image.png",
+            "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/4a41f893d392b0ed071777edf08f220d-image.png",
+            "url": "files/4a41f893d392b0ed071777edf08f220d-image.png",
+            "type": "image/png",
+            "name": "4a41f893d392b0ed071777edf08f220d-image.png",
+            "size": 49445
+          }
+        ],
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": "",
+        "image": "files/4a41f893d392b0ed071777edf08f220d-image.png",
+        "tags": "DIY"
+      }
+    },
+    {
+      "id": "item-f0e3b7ae-66b1-4571-b8a5-fa29c9b987bf",
+      "indent": 2,
+      "location": "pages/item-f0e3b7ae-66b1-4571-b8a5-fa29c9b987bf/index.html",
+      "slug": "literasi-digital/sistem-komputer/contoh-speaker",
+      "order": 9,
+      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+      "title": "Contoh Speaker",
+      "description": "\n\n\nint buzzer = 14;\n\nvoid setup() {\n  pinMode(buzzer, OUTPUT);\n}\n\nvoid loop() {\n  digitalWrite(buzzer, HIGH);\n  delay(1000);\n  digitalWrite(buzzer, LOW);\n  delay(1000);\n}\n\n\nvoid setup() {\n  // put yo",
+      "metadata": {
+        "created": 1722917452,
+        "updated": 1727994430,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": "",
+        "files": [
+          {
+            "path": "[object Object]b087ab0a0c80f847dc5e71b745c54894-image.png",
+            "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/b087ab0a0c80f847dc5e71b745c54894-image.png",
+            "url": "files/b087ab0a0c80f847dc5e71b745c54894-image.png",
+            "type": "image/png",
+            "name": "b087ab0a0c80f847dc5e71b745c54894-image.png",
+            "size": 37975
+          }
+        ],
+        "tags": "DIY",
+        "image": "files/b087ab0a0c80f847dc5e71b745c54894-image.png"
+      }
+    },
+    {
+      "id": "item-e1001f9b-d900-4c7c-8f4f-a932fd89f3a9",
+      "indent": 2,
+      "location": "pages/item-e1001f9b-d900-4c7c-8f4f-a932fd89f3a9/index.html",
+      "slug": "literasi-digital/sistem-komputer/projek-display-oled",
+      "order": 10,
+      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+      "title": "Projek Display OLED",
+      "description": "\n\n",
+      "metadata": {
+        "created": 1723014576,
+        "updated": 1727994430,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-a99d6ebf-7101-489e-afe6-f37f227ffe72",
+      "indent": 2,
+      "location": "pages/item-a99d6ebf-7101-489e-afe6-f37f227ffe72/index.html",
+      "slug": "literasi-digital/sistem-komputer/project-diy",
+      "order": 11,
+      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+      "title": "PROJECT DIY",
+      "description": "\n\n",
+      "metadata": {
+        "created": 1723000639,
+        "updated": 1727994431,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "pageType": "practice",
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "icon": "hax:shovel",
+        "status": ""
+      }
+    },
+    {
+      "id": "item-c0e414b4-5884-46d0-b7e6-e5e1678169b2",
+      "indent": 2,
+      "location": "pages/item-c0e414b4-5884-46d0-b7e6-e5e1678169b2/index.html",
+      "slug": "literasi-digital/sistem-komputer/bank-soal",
+      "order": 12,
+      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+      "title": "Bank Soal",
+      "description": "\n",
+      "metadata": {
+        "created": 1722482627,
+        "updated": 1727994431,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "tags": "soal",
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-a788e79b-ec08-4d5d-9ee3-8b13e24dcea8",
+      "indent": 2,
+      "location": "pages/item-a788e79b-ec08-4d5d-9ee3-8b13e24dcea8/index.html",
+      "slug": "literasi-digital/sistem-komputer/refleksi-materi-single-board-controller",
+      "order": 13,
+      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+      "title": "Refleksi Materi Single Board Controller",
+      "description": "Lakukan aktivitas berikut secara individu. Munculkan pendapat kritis kalian terhadap suatu konten di sosmed yang pernah kalian lihat dan amati di sekitar kalian. Menurut kalian aspek apa saja yang ha",
+      "metadata": {
+        "created": 1722996713,
+        "updated": 1727994431,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1
+      }
+    },
+    {
+      "id": "item-170cdb75-7620-4bc5-a8fb-4b0f13b15194",
+      "indent": 1,
+      "location": "pages/item-170cdb75-7620-4bc5-a8fb-4b0f13b15194/index.html",
+      "slug": "jaringan-komputer-dan-internet/kondisi-keamanan-siber",
+      "order": 1,
+      "parent": "item-f2440f4c-e08a-491f-a52c-51e13e10db5e",
+      "title": "Kondisi Keamanan Siber",
+      "description": "\n\n",
+      "metadata": {
+        "created": 1724200446,
+        "updated": 1727994431,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-16c54262-de9a-439e-bc7c-994594c2822c",
+      "indent": 1,
+      "location": "pages/item-16c54262-de9a-439e-bc7c-994594c2822c/index.html",
+      "slug": "analisis-data/basis-data",
+      "order": 1,
+      "parent": "item-a0a7f01a-2b12-43e1-bb85-3f7bd8cff8a6",
+      "title": "Basis Data",
+      "description": "Basis data merupakan inti dari aplikasi web bisnis. Aplikasi menyerahkan sebagian besar pekerjaan pencarian, penambahan, dan pembaruan data ke sistem manajemen basis data (DBMS). Hal ini membuat apli",
+      "metadata": {
+        "created": 1727920482,
+        "updated": 1727994433,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 5,
+        "files": [
+          {
+            "path": "[object Object]jenis-mobil.png",
+            "fullUrl": "//home/andyyulianto77/tik12/files/jenis-mobil.png",
+            "url": "files/jenis-mobil.png",
+            "type": "image/png",
+            "name": "jenis-mobil.png",
+            "size": 38285
+          }
+        ],
+        "status": "",
+        "pageType": "content",
+        "icon": "lrn:page"
+      }
+    },
+    {
       "id": "item-984bdbe3-eae5-4a78-9ccb-abb39ed59fab",
       "indent": 0,
       "location": "pages/item-984bdbe3-eae5-4a78-9ccb-abb39ed59fab/index.html",
@@ -1875,23 +1334,409 @@
       }
     },
     {
-      "id": "item-423f3e75-dd3f-43a1-832a-2be6af784cad",
+      "id": "item-f2440f4c-e08a-491f-a52c-51e13e10db5e",
       "indent": 0,
-      "location": "pages/item-423f3e75-dd3f-43a1-832a-2be6af784cad/index.html",
-      "slug": "page/page-1/page",
-      "order": 0,
-      "parent": "item-984bdbe3-eae5-4a78-9ccb-abb39ed59fab",
-      "title": "PHPSTORM",
-      "description": "\n\nBy the end of this lesson, you should be able to...\n\n  \n  Tulis Q-2\n  \n  \n   \n\n\n\n  expand\n\n\n\n  \n  \n  \nDi era digital ini, pemrograman menjadi semakin penting untuk membangun aplikasi, website, dan ",
+      "location": "pages/item-f2440f4c-e08a-491f-a52c-51e13e10db5e/index.html",
+      "slug": "jaringan-komputer-dan-internet",
+      "order": 2,
+      "parent": null,
+      "title": "Jaringan Komputer Dan Internet",
+      "description": "\n",
       "metadata": {
-        "created": 1728005044,
-        "updated": 1728005363,
+        "created": 1722398000,
+        "updated": 1727994431,
         "images": {},
         "videos": {},
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 1
+        "readtime": 1,
+        "status": "",
+        "icon": "hax:lesson"
+      }
+    },
+    {
+      "id": "item-d858585a-aa72-4685-889f-ddce088e9a3c",
+      "indent": 1,
+      "location": "pages/item-d858585a-aa72-4685-889f-ddce088e9a3c/index.html",
+      "slug": "jaringan-komputer-dan-internet/pencegahan-spam,-spoofing,-phising-gmail",
+      "order": 2,
+      "parent": "item-f2440f4c-e08a-491f-a52c-51e13e10db5e",
+      "title": "Pencegahan Spam, Spoofing, Phising Gmail",
+      "description": "\n\n\n\n",
+      "metadata": {
+        "created": 1724200668,
+        "updated": 1727994432,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": "",
+        "pageType": "activity",
+        "icon": "hax:ticket",
+        "files": [
+          {
+            "path": "[object Object]949816017d643b588e6da955046bf0ac-image.png",
+            "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/949816017d643b588e6da955046bf0ac-image.png",
+            "url": "files/949816017d643b588e6da955046bf0ac-image.png",
+            "type": "image/png",
+            "name": "949816017d643b588e6da955046bf0ac-image.png",
+            "size": 61803
+          }
+        ]
+      }
+    },
+    {
+      "id": "item-eb210bff-ff32-453e-b873-e547205d4124",
+      "indent": 1,
+      "location": "pages/item-eb210bff-ff32-453e-b873-e547205d4124/index.html",
+      "slug": "jaringan-komputer-dan-internet/membuat-akun-codepen",
+      "order": 3,
+      "parent": "item-f2440f4c-e08a-491f-a52c-51e13e10db5e",
+      "title": "Membuat Akun Codepen",
+      "description": "Diluncurkan pada tahun 2012, CodePen menata dirinya sebagai Front-End Developer Playground, yang bukan hanya pustaka potongan kode yang berguna, tetapi lebih sebagai tempat pengujian interaktif dan a",
+      "metadata": {
+        "created": 1724719809,
+        "updated": 1727994432,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": "",
+        "files": [
+          {
+            "path": "[object Object]1823cc1db89ab7034b35327e336dac04-image.png",
+            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/1823cc1db89ab7034b35327e336dac04-image.png",
+            "url": "files/1823cc1db89ab7034b35327e336dac04-image.png",
+            "type": "image/png",
+            "name": "1823cc1db89ab7034b35327e336dac04-image.png",
+            "size": 41816
+          },
+          {
+            "path": "[object Object]codepen.PNG",
+            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/codepen.PNG",
+            "url": "files/codepen.PNG",
+            "type": "image/png",
+            "name": "codepen.PNG",
+            "size": 77432
+          }
+        ]
+      }
+    },
+    {
+      "id": "item-c4ce00f6-e1f4-4f00-a39f-c415e1a5057c",
+      "indent": 1,
+      "location": "pages/item-c4ce00f6-e1f4-4f00-a39f-c415e1a5057c/index.html",
+      "slug": "jaringan-komputer-dan-internet/buat-akun-stackblitz",
+      "order": 4,
+      "parent": "item-f2440f4c-e08a-491f-a52c-51e13e10db5e",
+      "title": "Buat Akun Stackblitz",
+      "description": "\n",
+      "metadata": {
+        "created": 1724722422,
+        "updated": 1727994432,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "files": [
+          {
+            "path": "[object Object]b2809f0a4a664a5a1367ab81d1ab1a0c-image.png",
+            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/b2809f0a4a664a5a1367ab81d1ab1a0c-image.png",
+            "url": "files/b2809f0a4a664a5a1367ab81d1ab1a0c-image.png",
+            "type": "image/png",
+            "name": "b2809f0a4a664a5a1367ab81d1ab1a0c-image.png",
+            "size": 40213
+          },
+          {
+            "path": "[object Object]7aa5e9e913b3da34ba6df2b4df41c4e6-image.png",
+            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/7aa5e9e913b3da34ba6df2b4df41c4e6-image.png",
+            "url": "files/7aa5e9e913b3da34ba6df2b4df41c4e6-image.png",
+            "type": "image/png",
+            "name": "7aa5e9e913b3da34ba6df2b4df41c4e6-image.png",
+            "size": 106657
+          },
+          {
+            "path": "[object Object]c88bb96c982108227dd77e44f8426ff2-image.png",
+            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/c88bb96c982108227dd77e44f8426ff2-image.png",
+            "url": "files/c88bb96c982108227dd77e44f8426ff2-image.png",
+            "type": "image/png",
+            "name": "c88bb96c982108227dd77e44f8426ff2-image.png",
+            "size": 95987
+          },
+          {
+            "path": "[object Object]4d6811a32f194809d21416d653670fef-image.png",
+            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/4d6811a32f194809d21416d653670fef-image.png",
+            "url": "files/4d6811a32f194809d21416d653670fef-image.png",
+            "type": "image/png",
+            "name": "4d6811a32f194809d21416d653670fef-image.png",
+            "size": 128089
+          },
+          {
+            "path": "[object Object]5be7f8bd0972b6b1ec4f0e8f4d77fccc-image.png",
+            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/5be7f8bd0972b6b1ec4f0e8f4d77fccc-image.png",
+            "url": "files/5be7f8bd0972b6b1ec4f0e8f4d77fccc-image.png",
+            "type": "image/png",
+            "name": "5be7f8bd0972b6b1ec4f0e8f4d77fccc-image.png",
+            "size": 96462
+          }
+        ],
+        "status": ""
+      }
+    },
+    {
+      "id": "item-621340f8-d17f-45ee-82dc-a6bd93b3bf20",
+      "indent": 1,
+      "location": "pages/item-621340f8-d17f-45ee-82dc-a6bd93b3bf20/index.html",
+      "slug": "jaringan-komputer-dan-internet/buat-akun-vercel",
+      "order": 5,
+      "parent": "item-f2440f4c-e08a-491f-a52c-51e13e10db5e",
+      "title": "Buat Akun Vercel",
+      "description": "Kunjungi pendaftaran akun Vercel di https://vercel.com/signupPilih Hobby\n\n3. Tulis Namamu\n\n4. Pilih Continue with Github\n\n\n",
+      "metadata": {
+        "created": 1724720865,
+        "updated": 1727994432,
+        "images": {},
+        "videos": {},
+        "files": [
+          {
+            "path": "[object Object]913e12713da9caf58a6f73fbd8ed0d7f-image.png",
+            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/913e12713da9caf58a6f73fbd8ed0d7f-image.png",
+            "url": "files/913e12713da9caf58a6f73fbd8ed0d7f-image.png",
+            "type": "image/png",
+            "name": "913e12713da9caf58a6f73fbd8ed0d7f-image.png",
+            "size": 35324
+          },
+          {
+            "path": "[object Object]028cc088bf6688ff9cdea1e882eb24dd-image.png",
+            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/028cc088bf6688ff9cdea1e882eb24dd-image.png",
+            "url": "files/028cc088bf6688ff9cdea1e882eb24dd-image.png",
+            "type": "image/png",
+            "name": "028cc088bf6688ff9cdea1e882eb24dd-image.png",
+            "size": 6414
+          },
+          {
+            "path": "[object Object]1c4efebc8a6da1cf23aca638f300ee67-image.png",
+            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/1c4efebc8a6da1cf23aca638f300ee67-image.png",
+            "url": "files/1c4efebc8a6da1cf23aca638f300ee67-image.png",
+            "type": "image/png",
+            "name": "1c4efebc8a6da1cf23aca638f300ee67-image.png",
+            "size": 34889
+          },
+          {
+            "path": "[object Object]e6bccb6a53b8be14c2038f296ad5a9df-image.png",
+            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/e6bccb6a53b8be14c2038f296ad5a9df-image.png",
+            "url": "files/e6bccb6a53b8be14c2038f296ad5a9df-image.png",
+            "type": "image/png",
+            "name": "e6bccb6a53b8be14c2038f296ad5a9df-image.png",
+            "size": 42156
+          }
+        ],
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-d64bc819-2f8b-42ad-8ff9-1c85a120d78e",
+      "indent": 1,
+      "location": "pages/item-d64bc819-2f8b-42ad-8ff9-1c85a120d78e/index.html",
+      "slug": "jaringan-komputer-dan-internet/buat-akun-github-anda",
+      "order": 6,
+      "parent": "item-f2440f4c-e08a-491f-a52c-51e13e10db5e",
+      "title": "Buat Akun Github Anda",
+      "description": "\n Kunjungi laman GitHub di https://www.github.com/joinSelanjutnya yaitu mengisi formulir seperti dibawah ini. Lalu klik Sign Up for GitHub\n\n3. \n",
+      "metadata": {
+        "created": 1724733256,
+        "updated": 1727994432,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "files": [
+          {
+            "path": "[object Object]48f782f2e823f82c7d3157cd30025d2a-image.png",
+            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/48f782f2e823f82c7d3157cd30025d2a-image.png",
+            "url": "files/48f782f2e823f82c7d3157cd30025d2a-image.png",
+            "type": "image/png",
+            "name": "48f782f2e823f82c7d3157cd30025d2a-image.png",
+            "size": 255480
+          },
+          {
+            "path": "[object Object]f431dbaacce125ad12f4e73cd92c9ef7-image.png",
+            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/f431dbaacce125ad12f4e73cd92c9ef7-image.png",
+            "url": "files/f431dbaacce125ad12f4e73cd92c9ef7-image.png",
+            "type": "image/png",
+            "name": "f431dbaacce125ad12f4e73cd92c9ef7-image.png",
+            "size": 39407
+          },
+          {
+            "path": "[object Object]bca86ab2fbf383102f576dbe5caa43f6-image.png",
+            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/bca86ab2fbf383102f576dbe5caa43f6-image.png",
+            "url": "files/bca86ab2fbf383102f576dbe5caa43f6-image.png",
+            "type": "image/png",
+            "name": "bca86ab2fbf383102f576dbe5caa43f6-image.png",
+            "size": 23615
+          },
+          {
+            "path": "[object Object]2d1b106fe63f760ba8ddfa6dbbff2356-image.png",
+            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/2d1b106fe63f760ba8ddfa6dbbff2356-image.png",
+            "url": "files/2d1b106fe63f760ba8ddfa6dbbff2356-image.png",
+            "type": "image/png",
+            "name": "2d1b106fe63f760ba8ddfa6dbbff2356-image.png",
+            "size": 30209
+          },
+          {
+            "path": "[object Object]verif.PNG",
+            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/verif.PNG",
+            "url": "files/verif.PNG",
+            "type": "image/png",
+            "name": "verif.PNG",
+            "size": 147491
+          },
+          {
+            "path": "[object Object]c646ce7e34240fd552cecd33d04e71b2-image.png",
+            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/c646ce7e34240fd552cecd33d04e71b2-image.png",
+            "url": "files/c646ce7e34240fd552cecd33d04e71b2-image.png",
+            "type": "image/png",
+            "name": "c646ce7e34240fd552cecd33d04e71b2-image.png",
+            "size": 37228
+          },
+          {
+            "path": "[object Object]66e16552879503c4c5aadded86c28a33-image.png",
+            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/66e16552879503c4c5aadded86c28a33-image.png",
+            "url": "files/66e16552879503c4c5aadded86c28a33-image.png",
+            "type": "image/png",
+            "name": "66e16552879503c4c5aadded86c28a33-image.png",
+            "size": 27071
+          },
+          {
+            "path": "[object Object]verif-email2.PNG",
+            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/verif-email2.PNG",
+            "url": "files/verif-email2.PNG",
+            "type": "image/png",
+            "name": "verif-email2.PNG",
+            "size": 57366
+          },
+          {
+            "path": "[object Object]16e29230bd2459e3cecdb88e7ff38e52-image.png",
+            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/16e29230bd2459e3cecdb88e7ff38e52-image.png",
+            "url": "files/16e29230bd2459e3cecdb88e7ff38e52-image.png",
+            "type": "image/png",
+            "name": "16e29230bd2459e3cecdb88e7ff38e52-image.png",
+            "size": 174345
+          },
+          {
+            "path": "[object Object]151d770d29594703eaa567aebac6347c-image.png",
+            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/151d770d29594703eaa567aebac6347c-image.png",
+            "url": "files/151d770d29594703eaa567aebac6347c-image.png",
+            "type": "image/png",
+            "name": "151d770d29594703eaa567aebac6347c-image.png",
+            "size": 21726
+          },
+          {
+            "path": "[object Object]b1fb5e40d9ca1cba812417878952201e-image.png",
+            "fullUrl": "//home/idbt2224/git/tikandyuxmyid/_sites/informatika-xii/files/b1fb5e40d9ca1cba812417878952201e-image.png",
+            "url": "files/b1fb5e40d9ca1cba812417878952201e-image.png",
+            "type": "image/png",
+            "name": "b1fb5e40d9ca1cba812417878952201e-image.png",
+            "size": 172949
+          }
+        ],
+        "status": ""
+      }
+    },
+    {
+      "id": "item-c620782e-e848-44b3-97d9-66644745c69c",
+      "indent": 1,
+      "location": "pages/item-c620782e-e848-44b3-97d9-66644745c69c/index.html",
+      "slug": "jaringan-komputer-dan-internet/alur-penerbitan-tulisan",
+      "order": 7,
+      "parent": "item-f2440f4c-e08a-491f-a52c-51e13e10db5e",
+      "title": "Alur Penerbitan Tulisan",
+      "description": "Ini untuk membuat catatan/refleksi dari materi yang sudah dipelajari. Ikuti tutorial dari blog\nGithub + Stickblitz + HAX = penerbitan web gratis\n\nSumber Tulisan\n#situs web hax#pengembang web#komponen",
+      "metadata": {
+        "created": 1725318247,
+        "updated": 1727994432,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 3,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-687d29d1-c7a6-4600-9a22-88dba295a989",
+      "indent": 1,
+      "location": "pages/item-687d29d1-c7a6-4600-9a22-88dba295a989/index.html",
+      "slug": "jaringan-komputer-dan-internet/refleksi",
+      "order": 8,
+      "parent": "item-f2440f4c-e08a-491f-a52c-51e13e10db5e",
+      "title": "Refleksi",
+      "description": "\n",
+      "metadata": {
+        "created": 1721270090,
+        "updated": 1727994432,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-2ccf03d8-e82c-4a33-aba5-3ae39d5e1421",
+      "indent": 1,
+      "location": "pages/item-2ccf03d8-e82c-4a33-aba5-3ae39d5e1421/index.html",
+      "slug": "analisis-data/klien-dan-server",
+      "order": 2,
+      "parent": "item-a0a7f01a-2b12-43e1-bb85-3f7bd8cff8a6",
+      "title": "Klien dan Server",
+      "description": "\nWeb bekerja berdasarkan model klien/server. Yaitu saat satu komputer melakukan sesuatu untuk komputer lain.\nIstilah klien dan server bisa membingungkan. Terkadang, orang berbicara tentang mesin fisi",
+      "metadata": {
+        "created": 1727950320,
+        "updated": 1727994433,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "pageType": "content",
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 3,
+        "files": [
+          {
+            "path": "[object Object]server-pexels.JPG",
+            "fullUrl": "//home/andyyulianto77/tik12/files/server-pexels.JPG",
+            "url": "files/server-pexels.JPG",
+            "type": "image/jpeg",
+            "name": "server-pexels.JPG",
+            "size": 162437
+          },
+          {
+            "path": "[object Object]clients-server.png",
+            "fullUrl": "//home/andyyulianto77/tik12/files/clients-server.png",
+            "url": "files/clients-server.png",
+            "type": "image/png",
+            "name": "clients-server.png",
+            "size": 85926
+          }
+        ],
+        "icon": "lrn:page",
+        "status": ""
       }
     },
     {
@@ -1914,6 +1759,52 @@
         "locked": false,
         "readtime": 4,
         "icon": "lrn:page"
+      }
+    },
+    {
+      "id": "item-6fd7adf5-b7b4-4214-8f02-ab835624c9d1",
+      "indent": 0,
+      "location": "pages/item-6fd7adf5-b7b4-4214-8f02-ab835624c9d1/index.html",
+      "slug": "page-dengan-import-md",
+      "order": 3,
+      "parent": null,
+      "title": "Page dengan import MD",
+      "description": "\n",
+      "metadata": {
+        "created": 1722483828,
+        "updated": 1727994432,
+        "images": {},
+        "videos": {},
+        "published": false,
+        "hideInMenu": false,
+        "tags": "soal",
+        "locked": false,
+        "readtime": 1,
+        "status": "",
+        "image": "https://images-assets.nasa.gov/image/0102626/0102626~thumb.jpg"
+      }
+    },
+    {
+      "id": "item-13298894-5889-4b24-b28f-5bbde3a3c6f1",
+      "indent": 1,
+      "location": "pages/item-13298894-5889-4b24-b28f-5bbde3a3c6f1/index.html",
+      "slug": "analisis-data/perancangan-basis-data",
+      "order": 3,
+      "parent": "item-a0a7f01a-2b12-43e1-bb85-3f7bd8cff8a6",
+      "title": "Perancangan Basis Data",
+      "description": "\n\nBasis data merupakan inti dari aplikasi web bisnis. Aplikasi menyerahkan sebagian besar pekerjaan pencarian, penambahan, dan pembaruan data ke sistem manajemen basis data (DBMS). Hal ini membuat ap",
+      "metadata": {
+        "created": 1727966499,
+        "updated": 1727994433,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 3,
+        "pageType": "content",
+        "icon": "lrn:page",
+        "status": ""
       }
     },
     {
@@ -1940,6 +1831,137 @@
       }
     },
     {
+      "id": "item-a0a7f01a-2b12-43e1-bb85-3f7bd8cff8a6",
+      "indent": 0,
+      "location": "pages/item-a0a7f01a-2b12-43e1-bb85-3f7bd8cff8a6/index.html",
+      "slug": "analisis-data",
+      "order": 4,
+      "parent": null,
+      "title": "Analisis Data",
+      "description": "Pada akhir pelajaran, Siswa dapat ...Mendefinisikan data terbuka dan menjelaskan manfaatnya. Mengidentifikasi jenis-jenis data terbuka yang tersedia. Menemukan sumber data terbuka yang terpercaya dan",
+      "metadata": {
+        "created": 1722398223,
+        "updated": 1728795149,
+        "images": {},
+        "videos": {},
+        "published": false,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 5,
+        "pageType": "module",
+        "icon": "hax:module",
+        "files": [
+          {
+            "path": "[object Object]satudata.JPG",
+            "fullUrl": "//home/andyyulianto77/tik12/files/satudata.JPG",
+            "url": "files/satudata.JPG",
+            "type": "image/jpeg",
+            "name": "satudata.JPG",
+            "size": 128046
+          },
+          {
+            "path": "[object Object]1b18f9396b722f0c5a26ef0f48f9e30b-satudata.JPG",
+            "fullUrl": "//home/andyyulianto77/tik12/files/1b18f9396b722f0c5a26ef0f48f9e30b-satudata.JPG",
+            "url": "files/1b18f9396b722f0c5a26ef0f48f9e30b-satudata.JPG",
+            "type": "image/jpeg",
+            "name": "1b18f9396b722f0c5a26ef0f48f9e30b-satudata.JPG",
+            "size": 128046
+          }
+        ]
+      }
+    },
+    {
+      "id": "item-f26890f2-73b3-4ff4-8686-446b118c696e",
+      "indent": 1,
+      "location": "pages/item-f26890f2-73b3-4ff4-8686-446b118c696e/index.html",
+      "slug": "analisis-data/membuat-database",
+      "order": 4,
+      "parent": "item-a0a7f01a-2b12-43e1-bb85-3f7bd8cff8a6",
+      "title": "Membuat Database",
+      "description": "Sudah tidak sabar untuk mempraktekkan apa yang sudah dipahami tentang database. Okeee.&#160;😃\nMari kita membuat basis data yang bisa kita mainkan.\nAnda akan membuat dua, satu di localhost(PC Anda), ",
+      "metadata": {
+        "created": 1727967528,
+        "updated": 1727994433,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "pageType": "content",
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 3,
+        "status": "",
+        "icon": "lrn:page"
+      }
+    },
+    {
+      "id": "item-8aa6a35b-1bb7-47b7-aff3-31e4569cd298",
+      "indent": 1,
+      "location": "pages/item-8aa6a35b-1bb7-47b7-aff3-31e4569cd298/index.html",
+      "slug": "analisis-data/membuat-tabel-db",
+      "order": 5,
+      "parent": "item-a0a7f01a-2b12-43e1-bb85-3f7bd8cff8a6",
+      "title": "Membuat tabel DB",
+      "description": "Isi dari database adalah kumpulan tabel-tabel\n\nBy the end of this lesson, you should be able to...\nMari kita membuat tabel tentang localhost.\nTabel tersebut akan disebut wombat, dan akan memiliki bid",
+      "metadata": {
+        "created": 1727968217,
+        "updated": 1727994433,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "pageType": "content",
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 2,
+        "icon": "lrn:page",
+        "status": ""
+      }
+    },
+    {
+      "id": "item-5eb62491-7126-485c-af99-f830bcca51e3",
+      "indent": 1,
+      "location": "pages/item-5eb62491-7126-485c-af99-f830bcca51e3/index.html",
+      "slug": "analisis-data/menambah-data-pada-tabel",
+      "order": 6,
+      "parent": "item-a0a7f01a-2b12-43e1-bb85-3f7bd8cff8a6",
+      "title": "Menambah Data Pada Tabel",
+      "description": "\n\nBy the end of this lesson, you should be able to...\nData di tabel dikumpulkan secara sedikit atau banyak sekaligus. Berikut cara untuk menambahkan data pada tabel.\nMari tambahkan beberapa data ke D",
+      "metadata": {
+        "created": 1727969614,
+        "updated": 1727994434,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 2,
+        "pageType": "content",
+        "status": "",
+        "icon": "lrn:page"
+      }
+    },
+    {
+      "id": "item-9ce2543f-3a3e-4216-8628-e42dbdeac3a1",
+      "indent": 1,
+      "location": "pages/item-9ce2543f-3a3e-4216-8628-e42dbdeac3a1/index.html",
+      "slug": "analisis-data/memilih-data",
+      "order": 7,
+      "parent": "item-a0a7f01a-2b12-43e1-bb85-3f7bd8cff8a6",
+      "title": "MEMILIH data",
+      "description": "Kita sudah bisa manambahkan data. Sehingga data menjadi banyak.\n\nBy the end of this lesson, you should be able to...\nPernyataan SELECT SQL memungkinkan Anda melakukan kueri pada basis data. Pernyataa",
+      "metadata": {
+        "created": 1727970393,
+        "updated": 1727994434,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 4,
+        "status": ""
+      }
+    },
+    {
       "id": "item-5a7fe431-045a-46b5-88f0-7f14d29658f4",
       "indent": 0,
       "location": "pages/item-5a7fe431-045a-46b5-88f0-7f14d29658f4/index.html",
@@ -1960,24 +1982,25 @@
       }
     },
     {
-      "id": "item-96c617a8-0c95-439b-abe5-0eeb2ff866cc",
+      "id": "item-f6a56c5c-9bb8-4c09-9e18-a4a4e8060ef8",
       "indent": 0,
-      "location": "pages/item-96c617a8-0c95-439b-abe5-0eeb2ff866cc/index.html",
-      "slug": "page/page-4/page",
-      "order": 0,
-      "parent": "item-5a7fe431-045a-46b5-88f0-7f14d29658f4",
-      "title": "PERCABANGAN BERSARANG",
-      "description": "Setelah memahami percabangan ...\n\n  \n  Tulis Q-2\n  \n  \n   \n\n\n\n  expand\n\n\n\n  \n  \n  \nDi era digital ini, pemrograman menjadi semakin penting untuk membangun aplikasi, website, dan siste\n\nBy the end of ",
+      "location": "pages/item-f6a56c5c-9bb8-4c09-9e18-a4a4e8060ef8/index.html",
+      "slug": "page",
+      "order": 5,
+      "parent": null,
+      "title": "BERPIKIR KOMPUTASIONAL DAN ALGORITMA PEMROGRAMAN",
+      "description": "\n",
       "metadata": {
-        "created": 1728008417,
-        "updated": 1728011768,
+        "created": 1727996894,
+        "updated": 1728795182,
         "images": {},
         "videos": {},
-        "published": true,
+        "published": false,
         "pageType": "content",
         "hideInMenu": false,
+        "tags": "materi",
         "locked": false,
-        "readtime": 2,
+        "readtime": 3,
         "icon": "lrn:page"
       }
     },
@@ -2202,10 +2225,10 @@
       "description": "\n\n\n\n  \n  Tulis Q-2\n  \n  \n   \n\n\n\n  expand\n\n\n\n  \n  \n  \nDi\n\nBy the end of this lesson, you should be able to...\n\n\n\n  \n  Tulis Q-2\n  \n  \n   \n\n\n\n  expand\n\n\n\n  \n  \n  \n\nHASIL PENGOLAHAN DATA : TEKS, TABEL, ",
       "metadata": {
         "created": 1728277129,
-        "updated": 1728277667,
+        "updated": 1728795196,
         "images": {},
         "videos": {},
-        "published": true,
+        "published": false,
         "hideInMenu": false,
         "locked": false,
         "readtime": 2,

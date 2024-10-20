@@ -557,7 +557,7 @@
       "description": "Saya Andy Yulianto, instruktur kursus Anda.\n\nSilakan panggil saya dengan nama depan saya, jika Anda merasa nyaman dengan itu. Cara pengucapannya seperti ini.\n\n\nSaya lahir di Kediri, Indonesia, pada t",
       "metadata": {
         "created": 1727994876,
-        "updated": 1727999925,
+        "updated": 1729428992,
         "images": {},
         "videos": {},
         "files": [
@@ -605,7 +605,8 @@
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 2
+        "readtime": 2,
+        "pageType": "discuss"
       }
     },
     {
@@ -1261,7 +1262,7 @@
     },
     {
       "id": "item-170cdb75-7620-4bc5-a8fb-4b0f13b15194",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-170cdb75-7620-4bc5-a8fb-4b0f13b15194/index.html",
       "slug": "jaringan-komputer-dan-internet/kondisi-keamanan-siber",
       "order": 1,
@@ -1270,14 +1271,15 @@
       "description": "\n\n",
       "metadata": {
         "created": 1724200446,
-        "updated": 1727994431,
+        "updated": 1729429040,
         "images": {},
         "videos": {},
         "published": true,
         "hideInMenu": false,
         "locked": false,
         "readtime": 1,
-        "status": ""
+        "status": "",
+        "pageType": "activity"
       }
     },
     {
@@ -1390,7 +1392,7 @@
     },
     {
       "id": "item-eb210bff-ff32-453e-b873-e547205d4124",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-eb210bff-ff32-453e-b873-e547205d4124/index.html",
       "slug": "jaringan-komputer-dan-internet/membuat-akun-codepen",
       "order": 3,
@@ -1399,7 +1401,7 @@
       "description": "Diluncurkan pada tahun 2012, CodePen menata dirinya sebagai Front-End Developer Playground, yang bukan hanya pustaka potongan kode yang berguna, tetapi lebih sebagai tempat pengujian interaktif dan a",
       "metadata": {
         "created": 1724719809,
-        "updated": 1727994432,
+        "updated": 1729429056,
         "images": {},
         "videos": {},
         "published": true,
@@ -1424,12 +1426,13 @@
             "name": "codepen.PNG",
             "size": 77432
           }
-        ]
+        ],
+        "pageType": "practice"
       }
     },
     {
       "id": "item-c4ce00f6-e1f4-4f00-a39f-c415e1a5057c",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-c4ce00f6-e1f4-4f00-a39f-c415e1a5057c/index.html",
       "slug": "jaringan-komputer-dan-internet/buat-akun-stackblitz",
       "order": 4,
@@ -1438,7 +1441,7 @@
       "description": "\n",
       "metadata": {
         "created": 1724722422,
-        "updated": 1727994432,
+        "updated": 1729429064,
         "images": {},
         "videos": {},
         "published": true,
@@ -1487,12 +1490,13 @@
             "size": 96462
           }
         ],
-        "status": ""
+        "status": "",
+        "pageType": "practice"
       }
     },
     {
       "id": "item-621340f8-d17f-45ee-82dc-a6bd93b3bf20",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-621340f8-d17f-45ee-82dc-a6bd93b3bf20/index.html",
       "slug": "jaringan-komputer-dan-internet/buat-akun-vercel",
       "order": 5,
@@ -1501,7 +1505,7 @@
       "description": "Kunjungi pendaftaran akun Vercel di https://vercel.com/signupPilih Hobby\n\n3. Tulis Namamu\n\n4. Pilih Continue with Github\n\n\n",
       "metadata": {
         "created": 1724720865,
-        "updated": 1727994432,
+        "updated": 1729429076,
         "images": {},
         "videos": {},
         "files": [
@@ -1542,12 +1546,13 @@
         "hideInMenu": false,
         "locked": false,
         "readtime": 1,
-        "status": ""
+        "status": "",
+        "pageType": "practice"
       }
     },
     {
       "id": "item-d64bc819-2f8b-42ad-8ff9-1c85a120d78e",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-d64bc819-2f8b-42ad-8ff9-1c85a120d78e/index.html",
       "slug": "jaringan-komputer-dan-internet/buat-akun-github-anda",
       "order": 6,
@@ -1556,7 +1561,7 @@
       "description": "\n Kunjungi laman GitHub di https://www.github.com/joinSelanjutnya yaitu mengisi formulir seperti dibawah ini. Lalu klik Sign Up for GitHub\n\n3. \n",
       "metadata": {
         "created": 1724733256,
-        "updated": 1727994432,
+        "updated": 1729429083,
         "images": {},
         "videos": {},
         "published": true,
@@ -1653,12 +1658,13 @@
             "size": 172949
           }
         ],
-        "status": ""
+        "status": "",
+        "pageType": "practice"
       }
     },
     {
       "id": "item-c620782e-e848-44b3-97d9-66644745c69c",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-c620782e-e848-44b3-97d9-66644745c69c/index.html",
       "slug": "jaringan-komputer-dan-internet/alur-penerbitan-tulisan",
       "order": 7,
@@ -1667,19 +1673,21 @@
       "description": "Ini untuk membuat catatan/refleksi dari materi yang sudah dipelajari. Ikuti tutorial dari blog\nGithub + Stickblitz + HAX = penerbitan web gratis\n\nSumber Tulisan\n#situs web hax#pengembang web#komponen",
       "metadata": {
         "created": 1725318247,
-        "updated": 1727994432,
+        "updated": 1729429214,
         "images": {},
         "videos": {},
         "published": true,
         "hideInMenu": false,
         "locked": false,
         "readtime": 3,
-        "status": ""
+        "status": "",
+        "pageType": "project",
+        "icon": "hax:bulletin-board"
       }
     },
     {
       "id": "item-687d29d1-c7a6-4600-9a22-88dba295a989",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-687d29d1-c7a6-4600-9a22-88dba295a989/index.html",
       "slug": "jaringan-komputer-dan-internet/refleksi",
       "order": 8,
@@ -1688,14 +1696,15 @@
       "description": "\n",
       "metadata": {
         "created": 1721270090,
-        "updated": 1727994432,
+        "updated": 1729429516,
         "images": {},
         "videos": {},
         "published": true,
         "hideInMenu": false,
         "locked": false,
         "readtime": 1,
-        "status": ""
+        "status": "",
+        "pageType": "reflect"
       }
     },
     {

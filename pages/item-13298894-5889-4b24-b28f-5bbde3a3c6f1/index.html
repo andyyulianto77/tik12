@@ -1,7 +1,8 @@
 
 <p>Anda sudah mempelajaran komponen dan jenis pengolahan data. Mari kita memperdalam pengetahuan dengan membuat basis data.</p>
-<learning-component subtitle="perancangan basis data" type=""><p>By the end of this lesson, you should be able to..</p><br><ol><li>Mengimplementasikan struktur data kompleks dengan tepat sesuai kebutuhan program</li><li>Memilih struktur data sesuai untuk menyelesaikan persoalan yang dihadapi​</li></ol></learning-component>
+<learning-component subtitle="perancangan basis data" type=""><p>Pada akhir pelajaran, Siswa dapat ... ​</p><br><ol><li>Mengimplementasikan struktur data kompleks dengan tepat sesuai kebutuhan program</li><li>Memilih struktur data sesuai untuk menyelesaikan persoalan yang dihadapi​</li></ol></learning-component>
 <grid-plate item-margin="16" item-padding="16" layout="1-1"><p slot="col-1">Basis data merupakan inti dari aplikasi web bisnis. Aplikasi menyerahkan sebagian besar pekerjaan pencarian, penambahan, dan pembaruan data ke sistem manajemen basis data (DBMS). Hal ini membuat aplikasi lebih mudah ditulis.</p><media-image source="https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg" citation="Pexel.com" slot="col-2" accent-color="grey" size="wide" offset="narrow" caption="Kucing Yang Lucu" modal-title="Kucing Yang Lucu" _has-caption></media-image>
+
 
 
 
@@ -36,28 +37,27 @@
 <h3 data-original-level="H3" id="header-2b19613e-74c3-bc77-eede-2cd50a13e3ad">Bahasa umum</h3>
 <p>Program dan DBMS Anda harus menggunakan bahasa yang sama. Yaitu SQL. SQL sejauh ini merupakan bahasa yang paling umum digunakan untuk melakukan kueri pada basis data.</p>
 <p>Program Anda membuat kueri SQL. Misalnya:</p>
-<code-sample copy-clipboard-button type="php"><template preserve-content="preserve-content">const great = "example";
-            const great = "example";
-            const great = "example";</template></code-sample>
-<p>SELECT * FROM kucing WHERE pemilik = 'Andy'</p>
-<ul><li>PILIH * DARI doggos DI MANA rumah tangga = 'Andy'</li></ul>
+<code-sample copy-clipboard-button type="php" data-hax-lock="data-hax-lock"><template preserve-content="preserve-content">SELECT * FROM kucing WHERE pemilik = 'Andy'</template></code-sample>
 <p>(Tidak sepenuhnya benar, tetapi oke untuk saat ini.)</p>
-<p>SELECT berarti "cari data di tabel doggos." Tanda * berarti "berikan saya semua detail (semua kolom)." WHERE berarti "baris yang cocok dengan suatu kondisi." Jadi, keseluruhannya berarti "Berikan saya semua data tentang doggos di rumah tangga Mathieson."</p>
+<p>SELECT berarti "cari data di tabel kucing." Tanda * berarti "berikan saya semua detail (semua kolom)." WHERE berarti "baris yang cocok dengan suatu kondisi." Jadi, keseluruhannya berarti "Berikan saya semua data tentang kucing di rumah tangga Andy."</p>
 <p>Program Anda mengirimkan perintah <code style="box-sizing: border-box; font-family: SFMono-Regular, Menlo, Monaco, Consolas, &quot;Liberation Mono&quot;, &quot;Courier New&quot;, monospace; font-size: 14px; color: rgb(164, 19, 87); word-break: break-word; font-weight: bold;">SELECT</code>ke DBMS, dan mendapatkan hasilnya. Jadi sejauh menyangkut operasi DB, program Anda adalah klien, dan DBMS adalah server.</p>
 <p><img alt="Kirim kueri, terima data" src="https://webapps.skilling.us/sites/default/files/lessons/how-web-apps-work/databases/send-query-receive-data.png" title="Kirim kueri, terima data" ="false"=""="false"></p>
-<p>Ingat, program dan DBMS Anda berjalan di server Reclaim Anda. Ya, istilah "server" digunakan untuk banyak hal.</p>
+<p>Ingat, program dan DBMS Anda berjalan di <abbr title="Server adalah sebuah sistem komputer yang menjalankan jenis layanan tertentu dalam sebuah jaringan komputer. Server didukung oleh prosesor yang bersifat scalable atau dapat terskalakan dan RAM yang besar,dan juga dilengkapi dengan sistem operasi khusus, yang disebut sebagai sistem operasi jaringan.">server</abbr>Infinityfree Anda. Ya, istilah "server" digunakan untuk banyak hal.</p>
 <h5 data-original-level="H5" id="header-33b1d3a0-18b9-9876-429b-15f06bd6b8e4" data-design-treatment="horz-50p"><br></h5>
 <h3 data-original-level="H3" id="header-f98b9034-3983-c47d-9427-676a059296b5">Program Anda membuat SELECT</h3>
 <p>Program Anda membuat SELECT dari data pengguna. Berikut ini adalah tampilan PHP:</p>
-<code-sample copy-clipboard-button type="html"><template preserve-content="preserve-content">const great = "example";
-            const great = "example";
-            const great = "example";</template></code-sample>
-<ol><li>$householdId = (Dapatkan id rumah tangga yang dikirim oleh klien);</li><li>$dbConnection = (Buat koneksi ke DBMS);</li><li>$query = "PILIH * DARI doggos DI MANA rumah tangga='$householdId'";</li><li>$result = $dbConnection-&gt;execute($query);</li><li>(Buat HTML yang menunjukkan hasilnya.)</li><li>(Kirim HTML ke klien.)</li></ol>
+<p></p>
+<code-sample copy-clipboard-button type="html" highlight-start="1" highlight-end="4"><template preserve-content="preserve-content">$householdId = (Get the household id sent by the client);
+$dbConnection = (Make a connection to the DBMS);
+$query = "SELECT * FROM doggos WHERE household='$householdId'";
+$results = $dbConnection-&gt;execute($query);
+(menampilkan HTML.)
+(mengirimkan HTML ke browser/clien.)</template></code-sample>
+<code-sample copy-clipboard-button type="html"><template preserve-content="preserve-content"></template></code-sample>
 <p>Yaitu:</p>
 <ul><li>Ambil masukan pengguna (baris 1).</li><li>Hubungkan ke DBMS (baris 2).</li><li>Buat kueri dalam variabel string (baris 3).</li><li>Kirim kueri ke DBMS, dan dapatkan hasilnya (baris 4).</li><li>Buat HTML yang menampilkan hasil (baris 5).</li><li>Kirim HTML ke browser (baris 6).</li></ul>
 <p>Periksa baris 3. <code style="box-sizing: border-box; font-family: SFMono-Regular, Menlo, Monaco, Consolas, &quot;Liberation Mono&quot;, &quot;Courier New&quot;, monospace; font-size: 14px; color: rgb(164, 19, 87); word-break: break-word; font-weight: bold;">$query</code>apakah itu hanya variabel string biasa. Masukkan kueri ke dalamnya, dan biarkan DBMS menjalankannya.</p>
 <h5 data-original-level="H5" id="header-33b1d3a0-18b9-9876-429b-15f06bd6b8e4" data-design-treatment="horz-50p"><br></h5>
-<p></p>
 <h3 data-original-level="H3" id="header-56eb44f0-d63b-d248-3396-28ba89bfbe6b">Ringkasan</h3>
 <ul><li>DB menyimpan data dalam tabel.</li><li>DBMS adalah perangkat lunak yang mengelola DB.</li><li>Program Anda berinteraksi dengan DBMS, bukan DB.</li><li>Program Anda membuat pernyataan SQL dan mengirimkannya ke DBMS.</li></ul>
 <p></p>

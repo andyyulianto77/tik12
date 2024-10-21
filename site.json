@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1721189568,
-      "updated": 1729475172,
+      "updated": 1729550125,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -113,7 +113,7 @@
       "description": "Mesin Pencari\n\n    BACAAN\n      \n    Rumit\nPada akhir pelajaran, Siswa dapat mengidentifikasi ...\nMendefinisikan mesin pencari dan menjelaskan fungsinya.Menggunakan mesin pencari untuk mencari inform",
       "metadata": {
         "created": 1721194181,
-        "updated": 1729475154,
+        "updated": 1729550115,
         "images": {},
         "videos": {},
         "published": true,
@@ -136,7 +136,7 @@
       "description": "\n\n\n",
       "metadata": {
         "created": 1721194802,
-        "updated": 1729475154,
+        "updated": 1729550115,
         "images": {},
         "videos": {},
         "published": true,
@@ -157,7 +157,7 @@
       "description": "\n\n",
       "metadata": {
         "created": 1721195185,
-        "updated": 1729475154,
+        "updated": 1729550116,
         "images": {},
         "videos": {},
         "published": true,
@@ -178,7 +178,7 @@
       "description": "Masukkan Kata Kunci yang Spesifik\n\nGunakan Filter Pencarian: \nundefined\n",
       "metadata": {
         "created": 1721267846,
-        "updated": 1729475155,
+        "updated": 1729550116,
         "images": {},
         "videos": {},
         "files": [
@@ -217,7 +217,7 @@
       "description": "Cara Pencarian\n\nTanggal: Cari hasil yang diterbitkan dalam jangka waktu tertentu.\nSumber: Cari hasil dari situs web tertentu atau jenis situs web tertentu.\nBahasa: Cari hasil dalam bahasa tertentu.\nU",
       "metadata": {
         "created": 1721707297,
-        "updated": 1729475155,
+        "updated": 1729550116,
         "images": {},
         "videos": {},
         "published": true,
@@ -238,7 +238,7 @@
       "description": "\n\n\nIya ternyata ini hashtag ajakan .. berlangsung karena hari ini bertepatan dengan dimulainya Olimpiade Paris 2024 jadi gua mau bahas itu tuh atau tepatnya gua mau bahas masalahnya Soalnya ternyata ",
       "metadata": {
         "created": 1722381567,
-        "updated": 1729475155,
+        "updated": 1729550116,
         "images": {},
         "videos": {},
         "files": [
@@ -269,7 +269,7 @@
       "description": "Lakukan aktivitas berikut secara individu. Munculkan pendapat kritis kalian terhadap suatu konten di sosmed yang pernah kalian lihat dan amati di sekitar kalian. Menurut kalian aspek apa saja yang ha",
       "metadata": {
         "created": 1722396329,
-        "updated": 1729475155,
+        "updated": 1729550116,
         "images": {},
         "videos": {},
         "published": true,
@@ -293,7 +293,7 @@
         "created": 1722382507,
         "images": {},
         "videos": {},
-        "updated": 1729475156,
+        "updated": 1729550117,
         "files": [
           {
             "path": "[object Object]jurnal.JPG",
@@ -337,7 +337,7 @@
       "description": "\n",
       "metadata": {
         "created": 1722218739,
-        "updated": 1729475156,
+        "updated": 1729550117,
         "images": {},
         "videos": {},
         "published": true,
@@ -368,7 +368,7 @@
       "description": "Kredibilitas penulis atau organisasi\n\n",
       "metadata": {
         "created": 1721708348,
-        "updated": 1729475157,
+        "updated": 1729550117,
         "images": {},
         "videos": {},
         "published": true,
@@ -389,7 +389,7 @@
       "description": "Akurasi informasi.\n",
       "metadata": {
         "created": 1721708399,
-        "updated": 1729475157,
+        "updated": 1729550118,
         "images": {},
         "videos": {},
         "published": true,
@@ -410,7 +410,7 @@
       "description": "\n\nBy the end of this lesson, you should be able to...Mengidentifikasi kebutuhan pengguna untuk sistem komputer.Menganalisis kebutuhan pengguna dan menerjemahkannya menjadi spesifikasi sistem.Merancan",
       "metadata": {
         "created": 1721795047,
-        "updated": 1729475159,
+        "updated": 1729550119,
         "images": {},
         "videos": {},
         "published": true,
@@ -431,7 +431,7 @@
       "description": "Membangun identitas digital Anda\n    \n\nTidak seorang pun tahu siapa Anda jika Anda tidak berkomunikasi secara efektif. Saya ingat ketika merasa kesal karena saya berbicara di suatu tempat. ",
       "metadata": {
         "created": 1721268475,
-        "updated": 1729475162,
+        "updated": 1729550123,
         "images": {},
         "videos": {},
         "published": false,
@@ -447,14 +447,14 @@
       "id": "item-0e5084de-8389-44ed-8eaf-fffc0f5608bd",
       "indent": 1,
       "location": "pages/item-0e5084de-8389-44ed-8eaf-fffc0f5608bd/index.html",
-      "slug": "analisis-data/teknik-dan-metode-analisis-data",
-      "order": 0,
-      "parent": "item-a0a7f01a-2b12-43e1-bb85-3f7bd8cff8a6",
+      "slug": "perancangan-basis-data/teknik-dan-metode-analisis-data",
+      "order": 1,
+      "parent": "item-13298894-5889-4b24-b28f-5bbde3a3c6f1",
       "title": "Teknik dan Metode Analisis Data",
       "description": "Teknik pengolahan data mengacu pada cara bagaimana data diproses dan dikelola. Banyak sekali teknik pengolahan data antara lain:\n1. Batch Processing\nDefinisi: Pengolahan data dilakukan secara berkala",
       "metadata": {
         "created": 1727963452,
-        "updated": 1729475165,
+        "updated": 1729550110,
         "images": {},
         "videos": {},
         "published": true,
@@ -464,6 +464,29 @@
         "readtime": 2,
         "icon": "lrn:page",
         "status": ""
+      }
+    },
+    {
+      "id": "item-0fd32513-6656-4e25-b954-fe7fd15232b6",
+      "indent": 2,
+      "location": "pages/item-0fd32513-6656-4e25-b954-fe7fd15232b6/index.html",
+      "slug": "perancangan-basis-data/teknik-dan-metode-analisis-data/basis-data",
+      "order": 0,
+      "parent": "item-0e5084de-8389-44ed-8eaf-fffc0f5608bd",
+      "title": "Basis Data",
+      "description": "Basis Data (Database)\nBasis data adalah kumpulan informasi atau data yang terorganisir, tersimpan secara sistematis, dan dapat diakses secara elektronik. Bayangkan seperti sebuah perpustakaan raksasa",
+      "metadata": {
+        "created": 1727965796,
+        "updated": 1729550110,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "pageType": "connection",
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 2,
+        "status": "",
+        "icon": "courseicons:chem-connection"
       }
     },
     {
@@ -477,7 +500,7 @@
       "description": "Selamat datang, sebuah silabus adalah kontrak antara kita..\nlink Silabus Kurmer (Google Docs)\n\n    I bring you\n      \n    the death\nPada akhir Fase F, peserta didik mampu menerapkan proses berpi",
       "metadata": {
         "created": 1721269384,
-        "updated": 1729475152,
+        "updated": 1729550108,
         "images": {},
         "videos": {},
         "published": true,
@@ -511,7 +534,7 @@
       "description": "Buku yang mirip buku teks ini dibagi menjadi beberapa bagian. Bagian ini disebut \"Bersiap.\" Ada beberapa pelajaran di dalamnya. Anda dapat melihat daftarnya di bagian bawah halaman. Setiap pelajaran ",
       "metadata": {
         "created": 1727971221,
-        "updated": 1729475152,
+        "updated": 1729550108,
         "images": {},
         "videos": {},
         "published": true,
@@ -534,7 +557,7 @@
       "description": "Saya Andy Yulianto, instruktur kursus Anda.\n\nSilakan panggil saya dengan nama depan saya, jika Anda merasa nyaman dengan itu. Cara pengucapannya seperti ini.\n\n\nSaya lahir di Kediri, Indonesia, pada t",
       "metadata": {
         "created": 1727994876,
-        "updated": 1729475152,
+        "updated": 1729550109,
         "images": {},
         "videos": {},
         "files": [
@@ -599,7 +622,7 @@
       "description": "\nAnda memerlukan perangkat lunak di PC untuk kursus ini. Jangan khawatir, kursus ini gratis. Selain hosting, semua yang digunakan dalam kursus ini gratis. Termasuk buku teks ini.Gratis itu bagus. Buk",
       "metadata": {
         "created": 1727996967,
-        "updated": 1729475153,
+        "updated": 1729550109,
         "images": {},
         "videos": {},
         "published": true,
@@ -622,7 +645,7 @@
       "description": "\n",
       "metadata": {
         "created": 1728795203,
-        "updated": 1729475153,
+        "updated": 1729550109,
         "images": {},
         "videos": {},
         "published": true,
@@ -646,7 +669,7 @@
       "description": "\n  \n  Tulis Q-1\n  \n  \n   \n\n\n\n\n  expand\n\n\n\n\n  \n  \n  \n\nBy the end of this lesson, you should be able to...Siswa dapat menjelaskan perbedaan antara HTML, CSS, dan PHP.Siswa dapat menjelaskan fungsi masi",
       "metadata": {
         "created": 1728003172,
-        "updated": 1729475167,
+        "updated": 1729550111,
         "images": {},
         "videos": {},
         "published": true,
@@ -669,7 +692,7 @@
       "description": "\n\nBy the end of this lesson, you should be able to...\n\n  \n  Tulis Q-2\n  \n  \n   \n\n\n\n  expand\n\n\n\n  \n  \n  \nDi era digital ini, pemrograman menjadi semakin penting untuk membangun aplikasi, website, dan ",
       "metadata": {
         "created": 1728005044,
-        "updated": 1729475168,
+        "updated": 1729550111,
         "images": {},
         "videos": {},
         "published": true,
@@ -690,7 +713,7 @@
       "description": "Setelah memahami percabangan ...\n\n  \n  Tulis Q-2\n  \n  \n   \n\n\n\n  expand\n\n\n\n  \n  \n  \nDi era digital ini, pemrograman menjadi semakin penting untuk membangun aplikasi, website, dan siste\n\nBy the end of ",
       "metadata": {
         "created": 1728008417,
-        "updated": 1729475169,
+        "updated": 1729550112,
         "images": {},
         "videos": {},
         "published": true,
@@ -713,7 +736,7 @@
       "description": "\nWeb bekerja berdasarkan model klien/server. Yaitu saat satu komputer melakukan sesuatu untuk komputer lain.\nIstilah klien dan server bisa membingungkan. Terkadang, orang berbicara tentang mesin fisi",
       "metadata": {
         "created": 1727950320,
-        "updated": 1729475166,
+        "updated": 1729550110,
         "images": {},
         "videos": {},
         "published": true,
@@ -744,40 +767,17 @@
       }
     },
     {
-      "id": "item-0fd32513-6656-4e25-b954-fe7fd15232b6",
-      "indent": 1,
-      "location": "pages/item-0fd32513-6656-4e25-b954-fe7fd15232b6/index.html",
-      "slug": "perancangan-basis-data/basis-data",
-      "order": 1,
-      "parent": "item-13298894-5889-4b24-b28f-5bbde3a3c6f1",
-      "title": "Basis Data",
-      "description": "Basis Data (Database)\nBasis data adalah kumpulan informasi atau data yang terorganisir, tersimpan secara sistematis, dan dapat diakses secara elektronik. Bayangkan seperti sebuah perpustakaan raksasa",
-      "metadata": {
-        "created": 1727965796,
-        "updated": 1729475166,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "pageType": "connection",
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 2,
-        "status": "",
-        "icon": "courseicons:chem-connection"
-      }
-    },
-    {
       "id": "item-fbc16ff7-1765-4bdc-82f0-627c990629c1",
       "indent": 0,
       "location": "pages/item-fbc16ff7-1765-4bdc-82f0-627c990629c1/index.html",
       "slug": "literasi-digital",
-      "order": 1,
+      "order": 3,
       "parent": null,
       "title": "Literasi Digital",
       "description": "ssd\n",
       "metadata": {
         "created": 1721189568,
-        "updated": 1729475153,
+        "updated": 1729550115,
         "published": true,
         "hideInMenu": false,
         "locked": false,
@@ -811,7 +811,7 @@
       "description": "\n\nmengevaluasi suatu sumber informasi melalui website lain yang terpercaya mengenai sumber tersebut\n\n",
       "metadata": {
         "created": 1722218413,
-        "updated": 1729475156,
+        "updated": 1729550117,
         "images": {},
         "videos": {},
         "published": true,
@@ -834,7 +834,7 @@
       "description": "\n\n",
       "metadata": {
         "created": 1721714373,
-        "updated": 1729475157,
+        "updated": 1729550118,
         "images": {},
         "videos": {},
         "published": true,
@@ -855,7 +855,7 @@
       "description": "4 pilar literasi digital yang kemudian digunakan untuk mendukung transformasi digital yang berlangsung di antaranya etika digital, budaya digital, keterampilan digital, dan keamanan digital.\netika di",
       "metadata": {
         "created": 1722216022,
-        "updated": 1729475157,
+        "updated": 1729550118,
         "images": {},
         "videos": {},
         "published": true,
@@ -876,7 +876,7 @@
       "description": "Digital Safety (Aman Bermedia Digital) penting bagi individu agar dapat menjaga keselamatan dirinya. Perkembangan teknologi informasi memaksa masyarakat dunia dan termasuk Indonesia untuk mengadaptas",
       "metadata": {
         "created": 1722216845,
-        "updated": 1729475158,
+        "updated": 1729550118,
         "images": {},
         "videos": {},
         "published": true,
@@ -897,7 +897,7 @@
       "description": "berikut beberapa web yang untuk membedakan fakta dan opini\n\nCek Fakta: \n\nBenarkah angka kemiskinan ekstrem dan pengangguran sudah menurun?Benar, tapi…Indonesia memang telah mengurangi kemiskinan ekst",
       "metadata": {
         "created": 1722403442,
-        "updated": 1729475158,
+        "updated": 1729550119,
         "images": {},
         "videos": {},
         "published": true,
@@ -918,7 +918,7 @@
       "description": "Lakukan aktivitas berikut secara individu. Munculkan pendapat kritis kalian terhadap suatu konten di sosmed yang pernah kalian lihat dan amati di sekitar kalian. Menurut kalian aspek apa saja yang ha",
       "metadata": {
         "created": 1722395659,
-        "updated": 1729475158,
+        "updated": 1729550119,
         "images": {},
         "videos": {},
         "published": true,
@@ -941,7 +941,7 @@
       "description": "\nLink to content\n\nSecara istilah, bias adalah kecenderungan atau penyimpangan dari kebenaran dalam pengumpulan data, analisis data, interpretasi dan publikasi yang dapat menimbulkan kesimpulan yang s",
       "metadata": {
         "created": 1722404273,
-        "updated": 1729475158,
+        "updated": 1729550119,
         "images": {},
         "videos": {},
         "published": true,
@@ -962,7 +962,7 @@
       "description": "\n\n",
       "metadata": {
         "created": 1722821997,
-        "updated": 1729475159,
+        "updated": 1729550119,
         "images": {},
         "videos": {},
         "published": true,
@@ -987,7 +987,7 @@
       "description": "Mengidentifikasi kebutuhan pengguna untuk sistem komputer\n\nrasionalcara, seperti survei, wawancara, dan observasi.didokumentasikan dengan jelas dan ringkas.\n\n\n\n\n\n",
       "metadata": {
         "created": 1721795398,
-        "updated": 1729475159,
+        "updated": 1729550120,
         "images": {},
         "videos": {},
         "published": true,
@@ -1008,7 +1008,7 @@
       "description": "\nGambar 4.16 menggambarkan diagram kotak arsitektur sederhana sebuah komputer di mana pemroses (kotak besar) menerima masukan dari piranti masukan dan menghasilkan&#160;&#160;keluaran melalui port. K",
       "metadata": {
         "created": 1721799169,
-        "updated": 1729475159,
+        "updated": 1729550120,
         "images": {},
         "videos": {},
         "files": [
@@ -1039,7 +1039,7 @@
       "description": "\n\n\n",
       "metadata": {
         "created": 1722835319,
-        "updated": 1729475159,
+        "updated": 1729550120,
         "images": {},
         "videos": {},
         "published": true,
@@ -1060,7 +1060,7 @@
       "description": "Bredboard (papan sirkuit)BateraiLEDResistorKabel JumperInput/output Device (I/O)Modul Sensor\n\n",
       "metadata": {
         "created": 1722826663,
-        "updated": 1729475160,
+        "updated": 1729550120,
         "images": {},
         "videos": {},
         "files": [
@@ -1091,7 +1091,7 @@
       "description": "Alat bisa mengendalikan perangkat-perangkat di rumah kita melalui aplikasi pada Smartphone Android kita dan koneksi bluetooth.\nPeralatan:\n\nArduino, modul relay, modul Wi-Fi, dan aplikasi smartphone (",
       "metadata": {
         "created": 1723001855,
-        "updated": 1729475160,
+        "updated": 1729550120,
         "images": {},
         "videos": {},
         "published": true,
@@ -1114,7 +1114,7 @@
       "description": "ide online&#160;https://wokwi.com/\n\n",
       "metadata": {
         "created": 1722826247,
-        "updated": 1729475160,
+        "updated": 1729550121,
         "images": {},
         "videos": {},
         "published": true,
@@ -1135,7 +1135,7 @@
       "description": "link program LED\n\n\n",
       "metadata": {
         "created": 1722827068,
-        "updated": 1729475160,
+        "updated": 1729550121,
         "images": {},
         "videos": {},
         "published": true,
@@ -1168,7 +1168,7 @@
       "description": "\n\n\n\n",
       "metadata": {
         "created": 1722917064,
-        "updated": 1729475160,
+        "updated": 1729550121,
         "images": {},
         "videos": {},
         "files": [
@@ -1201,7 +1201,7 @@
       "description": "\n\n\nint buzzer = 14;\n\nvoid setup() {\n  pinMode(buzzer, OUTPUT);\n}\n\nvoid loop() {\n  digitalWrite(buzzer, HIGH);\n  delay(1000);\n  digitalWrite(buzzer, LOW);\n  delay(1000);\n}\n\n\nvoid setup() {\n  // put yo",
       "metadata": {
         "created": 1722917452,
-        "updated": 1729475161,
+        "updated": 1729550121,
         "images": {},
         "videos": {},
         "published": true,
@@ -1234,7 +1234,7 @@
       "description": "\n\n",
       "metadata": {
         "created": 1723014576,
-        "updated": 1729475161,
+        "updated": 1729550122,
         "images": {},
         "videos": {},
         "published": true,
@@ -1255,7 +1255,7 @@
       "description": "\n\n",
       "metadata": {
         "created": 1723000639,
-        "updated": 1729475161,
+        "updated": 1729550122,
         "images": {},
         "videos": {},
         "published": true,
@@ -1278,7 +1278,7 @@
       "description": "\n",
       "metadata": {
         "created": 1722482627,
-        "updated": 1729475161,
+        "updated": 1729550122,
         "images": {},
         "videos": {},
         "published": true,
@@ -1300,7 +1300,7 @@
       "description": "Lakukan aktivitas berikut secara individu. Munculkan pendapat kritis kalian terhadap suatu konten di sosmed yang pernah kalian lihat dan amati di sekitar kalian. Menurut kalian aspek apa saja yang ha",
       "metadata": {
         "created": 1722996713,
-        "updated": 1729475162,
+        "updated": 1729550122,
         "images": {},
         "videos": {},
         "published": true,
@@ -1321,7 +1321,7 @@
       "description": "\n\n",
       "metadata": {
         "created": 1724200446,
-        "updated": 1729475162,
+        "updated": 1729550123,
         "images": {},
         "videos": {},
         "published": true,
@@ -1338,13 +1338,13 @@
       "indent": 1,
       "location": "pages/item-16c54262-de9a-439e-bc7c-994594c2822c/index.html",
       "slug": "analisis-data/analisis-data",
-      "order": 1,
+      "order": 0,
       "parent": "item-a0a7f01a-2b12-43e1-bb85-3f7bd8cff8a6",
       "title": "Analisis Data",
       "description": "Basis data merupakan inti dari aplikasi web bisnis. Aplikasi menyerahkan sebagian besar pekerjaan pencarian, penambahan, dan pembaruan data ke sistem manajemen basis data (DBMS). Hal ini membuat apli",
       "metadata": {
         "created": 1727920482,
-        "updated": 1729475165,
+        "updated": 1729550125,
         "images": {},
         "videos": {},
         "published": true,
@@ -1377,7 +1377,7 @@
       "description": "Tabel Perkalian\n  HTML: Buat struktur tabel dengan tag &#60;table&#62;, &#60;tr&#62;, dan &#60;td&#62;. JavaScript: Gunakan perulangan bersarang untuk mengisi setiap sel tabel dengan hasil perkalian. CSS: ",
       "metadata": {
         "created": 1728004737,
-        "updated": 1729475168,
+        "updated": 1729550111,
         "images": {},
         "videos": {},
         "published": true,
@@ -1392,13 +1392,13 @@
       "indent": 0,
       "location": "pages/item-f2440f4c-e08a-491f-a52c-51e13e10db5e/index.html",
       "slug": "jaringan-komputer-dan-internet",
-      "order": 2,
+      "order": 4,
       "parent": null,
       "title": "Jaringan Komputer Dan Internet",
       "description": "\n",
       "metadata": {
         "created": 1722398000,
-        "updated": 1729475162,
+        "updated": 1729550122,
         "images": {},
         "videos": {},
         "published": true,
@@ -1420,7 +1420,7 @@
       "description": "\n\n\n\n",
       "metadata": {
         "created": 1724200668,
-        "updated": 1729475163,
+        "updated": 1729550123,
         "images": {},
         "videos": {},
         "published": true,
@@ -1453,7 +1453,7 @@
       "description": "Diluncurkan pada tahun 2012, CodePen menata dirinya sebagai Front-End Developer Playground, yang bukan hanya pustaka potongan kode yang berguna, tetapi lebih sebagai tempat pengujian interaktif dan a",
       "metadata": {
         "created": 1724719809,
-        "updated": 1729475163,
+        "updated": 1729550123,
         "images": {},
         "videos": {},
         "published": true,
@@ -1494,7 +1494,7 @@
       "description": "\n",
       "metadata": {
         "created": 1724722422,
-        "updated": 1729475163,
+        "updated": 1729550123,
         "images": {},
         "videos": {},
         "published": true,
@@ -1559,7 +1559,7 @@
       "description": "Kunjungi pendaftaran akun Vercel di https://vercel.com/signupPilih Hobby\n\n3. Tulis Namamu\n\n4. Pilih Continue with Github\n\n\n",
       "metadata": {
         "created": 1724720865,
-        "updated": 1729475164,
+        "updated": 1729550124,
         "images": {},
         "videos": {},
         "files": [
@@ -1616,7 +1616,7 @@
       "description": "\n Kunjungi laman GitHub di https://www.github.com/joinSelanjutnya yaitu mengisi formulir seperti dibawah ini. Lalu klik Sign Up for GitHub\n\n3. \n",
       "metadata": {
         "created": 1724733256,
-        "updated": 1729475164,
+        "updated": 1729550124,
         "images": {},
         "videos": {},
         "published": true,
@@ -1729,7 +1729,7 @@
       "description": "Ini untuk membuat catatan/refleksi dari materi yang sudah dipelajari. Ikuti tutorial dari blog\nGithub + Stickblitz + HAX = penerbitan web gratis\n\nSumber Tulisan\n#situs web hax#pengembang web#komponen",
       "metadata": {
         "created": 1725318247,
-        "updated": 1729475164,
+        "updated": 1729550124,
         "images": {},
         "videos": {},
         "published": true,
@@ -1752,7 +1752,7 @@
       "description": "\n",
       "metadata": {
         "created": 1721270090,
-        "updated": 1729475164,
+        "updated": 1729550124,
         "images": {},
         "videos": {},
         "published": true,
@@ -1775,7 +1775,7 @@
       "description": "php bukan di prank 😁\n\n  \n  Tulis Q-2\n  \n  \n   \n\n\n\n  expand\n\n\n\n  \n  \n  \nDi era digital ini, pemrograman menjadi semakin penting untuk membangun aplikasi, website, dan sistem\nBy the end of this l",
       "metadata": {
         "created": 1728005428,
-        "updated": 1729475168,
+        "updated": 1729550112,
         "images": {},
         "videos": {},
         "published": true,
@@ -1798,7 +1798,7 @@
       "description": "Sudah tidak sabar untuk mempraktekkan apa yang sudah dipahami tentang database. Okeee. 😃\nMari kita membuat basis data yang bisa kita mainkan.\nAnda akan membuat dua, satu di localhost(PC Anda), ",
       "metadata": {
         "created": 1727967528,
-        "updated": 1729477210,
+        "updated": 1729552171,
         "images": {},
         "videos": {},
         "published": true,
@@ -1807,21 +1807,55 @@
         "locked": false,
         "readtime": 3,
         "status": "",
-        "icon": "lrn:page"
+        "icon": "lrn:page",
+        "files": [
+          {
+            "path": "[object Object]image5.png",
+            "fullUrl": "//home/andyyulianto77/tik12/files/image5.png",
+            "url": "files/image5.png",
+            "type": "image/png",
+            "name": "image5.png",
+            "size": 16142
+          },
+          {
+            "path": "[object Object]image3.png",
+            "fullUrl": "//home/andyyulianto77/tik12/files/image3.png",
+            "url": "files/image3.png",
+            "type": "image/png",
+            "name": "image3.png",
+            "size": 28287
+          },
+          {
+            "path": "[object Object]image9.png",
+            "fullUrl": "//home/andyyulianto77/tik12/files/image9.png",
+            "url": "files/image9.png",
+            "type": "image/png",
+            "name": "image9.png",
+            "size": 80508
+          },
+          {
+            "path": "[object Object]image10.png",
+            "fullUrl": "//home/andyyulianto77/tik12/files/image10.png",
+            "url": "files/image10.png",
+            "type": "image/png",
+            "name": "image10.png",
+            "size": 47517
+          }
+        ]
       }
     },
     {
       "id": "item-9ce2543f-3a3e-4216-8628-e42dbdeac3a1",
       "indent": 1,
       "location": "pages/item-9ce2543f-3a3e-4216-8628-e42dbdeac3a1/index.html",
-      "slug": "analisis-data/memilih-data",
-      "order": 2,
-      "parent": "item-a0a7f01a-2b12-43e1-bb85-3f7bd8cff8a6",
+      "slug": "berpikir-komputasional-dan-algoritma-pemrograman/memilih-data",
+      "order": 12,
+      "parent": "item-f6a56c5c-9bb8-4c09-9e18-a4a4e8060ef8",
       "title": "MEMILIH data",
       "description": "Kita sudah bisa manambahkan data. Sehingga data menjadi banyak.\n\nBy the end of this lesson, you should be able to...\nPernyataan SELECT SQL memungkinkan Anda melakukan kueri pada basis data. Pernyataa",
       "metadata": {
         "created": 1727970393,
-        "updated": 1729475166,
+        "updated": 1729550114,
         "images": {},
         "videos": {},
         "published": true,
@@ -1836,13 +1870,13 @@
       "indent": 0,
       "location": "pages/item-6fd7adf5-b7b4-4214-8f02-ab835624c9d1/index.html",
       "slug": "page-dengan-import-md",
-      "order": 3,
+      "order": 5,
       "parent": null,
       "title": "Page dengan import MD",
       "description": "\n",
       "metadata": {
         "created": 1722483828,
-        "updated": 1729475165,
+        "updated": 1729550124,
         "images": {},
         "videos": {},
         "published": false,
@@ -1865,7 +1899,7 @@
       "description": "Teks sangat menarik untuk dilihat lihat\n&#60;type-writer delay=",
       "metadata": {
         "created": 1728005778,
-        "updated": 1729475169,
+        "updated": 1729550112,
         "images": {},
         "videos": {},
         "published": true,
@@ -1880,7 +1914,7 @@
     },
     {
       "id": "item-8aa6a35b-1bb7-47b7-aff3-31e4569cd298",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-8aa6a35b-1bb7-47b7-aff3-31e4569cd298/index.html",
       "slug": "perancangan-basis-data/membuat-tabel-db",
       "order": 3,
@@ -1889,7 +1923,7 @@
       "description": "Isi dari database adalah kumpulan tabel-tabel\n\nBy the end of this lesson, you should be able to...\nMari kita membuat tabel tentang localhost.\nTabel tersebut akan disebut wombat, dan akan memiliki bid",
       "metadata": {
         "created": 1727968217,
-        "updated": 1729483965,
+        "updated": 1729550110,
         "images": {},
         "videos": {},
         "published": true,
@@ -1906,13 +1940,13 @@
       "indent": 0,
       "location": "pages/item-a0a7f01a-2b12-43e1-bb85-3f7bd8cff8a6/index.html",
       "slug": "analisis-data",
-      "order": 4,
+      "order": 6,
       "parent": null,
       "title": "Analisis Data",
       "description": "Pada akhir pelajaran, Siswa dapat ...Mendefinisikan data terbuka dan menjelaskan manfaatnya. Mengidentifikasi jenis-jenis data terbuka yang tersedia. Menemukan sumber data terbuka yang terpercaya dan",
       "metadata": {
         "created": 1722398223,
-        "updated": 1729475165,
+        "updated": 1729550125,
         "images": {},
         "videos": {},
         "published": false,
@@ -1944,7 +1978,7 @@
     },
     {
       "id": "item-5eb62491-7126-485c-af99-f830bcca51e3",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-5eb62491-7126-485c-af99-f830bcca51e3/index.html",
       "slug": "perancangan-basis-data/menambah-data-pada-tabel",
       "order": 4,
@@ -1953,7 +1987,7 @@
       "description": "\n\nBy the end of this lesson, you should be able to...\nData di tabel dikumpulkan secara sedikit atau banyak sekaligus. Berikut cara untuk menambahkan data pada tabel.\nMari tambahkan beberapa data ke D",
       "metadata": {
         "created": 1727969614,
-        "updated": 1729483198,
+        "updated": 1729550111,
         "images": {},
         "videos": {},
         "published": true,
@@ -1986,7 +2020,7 @@
       "description": "\n\n  \n  Tulis Q-2\n  \n  \n   \n\n\n\n  expand\n\n\n\n  \n  \n  \nDi era digital ini, pemrograman menjadi semakin penting untuk membangun aplikasi, website, dan siste\n\nBy the end of this lesson, you should be able ",
       "metadata": {
         "created": 1728007789,
-        "updated": 1729475169,
+        "updated": 1729550112,
         "images": {},
         "videos": {},
         "published": true,
@@ -2001,13 +2035,13 @@
       "indent": 0,
       "location": "pages/item-13298894-5889-4b24-b28f-5bbde3a3c6f1/index.html",
       "slug": "perancangan-basis-data",
-      "order": 5,
+      "order": 1,
       "parent": null,
       "title": "Perancangan Basis Data",
       "description": "\n\nBasis data merupakan inti dari aplikasi web bisnis. Aplikasi menyerahkan sebagian besar pekerjaan pencarian, penambahan, dan pembaruan data ke sistem manajemen basis data (DBMS). Hal ini membuat ap",
       "metadata": {
         "created": 1727966499,
-        "updated": 1729475166,
+        "updated": 1729550109,
         "images": {},
         "videos": {},
         "published": true,
@@ -2030,7 +2064,7 @@
       "description": "\n\n  \n  Tulis Q-2\n  \n  \n   \n\n\n\n  expand\n\n\n\n  \n  \n  \nDi era digital ini, pemrograman menjadi semakin penting untuk membangun aplikasi, website, dan siste\n\nBy the end of this lesson, you should be able ",
       "metadata": {
         "created": 1728008846,
-        "updated": 1729475170,
+        "updated": 1729550113,
         "images": {},
         "videos": {},
         "published": true,
@@ -2047,13 +2081,13 @@
       "indent": 0,
       "location": "pages/item-f6a56c5c-9bb8-4c09-9e18-a4a4e8060ef8/index.html",
       "slug": "berpikir-komputasional-dan-algoritma-pemrograman",
-      "order": 6,
+      "order": 2,
       "parent": null,
       "title": "BERPIKIR KOMPUTASIONAL DAN ALGORITMA PEMROGRAMAN",
       "description": "\n",
       "metadata": {
         "created": 1727996894,
-        "updated": 1729475167,
+        "updated": 1729550111,
         "images": {},
         "videos": {},
         "published": false,
@@ -2077,7 +2111,7 @@
       "description": "\n\n  \n  Tulis Q-2\n  \n  \n   \n\n\n\n  expand\n\n\n\n  \n  \n  \nDi era digital ini, pemrograman menjadi semakin penting untuk membangun aplikasi, website, dan siste\n\nBy the end of this lesson, you should be able ",
       "metadata": {
         "created": 1728009029,
-        "updated": 1729475170,
+        "updated": 1729550113,
         "images": {},
         "videos": {},
         "published": true,
@@ -2100,7 +2134,7 @@
       "description": "Umumnya digunakan untuk mengirimkan data yang bersifat publik atau tidak sensitif, seperti parameter pencarian pada mesin pencari. Data yang dikirimkan dapat di-bookmark atau di-share melalui link.  ",
       "metadata": {
         "created": 1728009165,
-        "updated": 1729475170,
+        "updated": 1729550113,
         "images": {},
         "videos": {},
         "published": true,
@@ -2123,7 +2157,7 @@
       "description": "Ufff sudah banyak latihan\n\n  \n  Tulis Q-2\n  \n  \n   \n\n\n\n  expand\n\n\n\n  \n  \n  \nBy the end of this lesson, you should be able to...\nDi era digital ini, pemrograman menjadi semakin penting untuk membangun",
       "metadata": {
         "created": 1728009364,
-        "updated": 1729475170,
+        "updated": 1729550113,
         "images": {},
         "videos": {},
         "published": true,
@@ -2146,7 +2180,7 @@
       "description": "kalau tanpa database sudah paham\n\n  \n  Tulis Q-2\n  \n  \n  \n\n\n  expand\n\n\n\n  \n  \n  \nDi\n\nBy the end of this lesson, you should be able to...\n\n  \n  Tulis Q-2\n  \n  \n  \n\n\n  expand\n\n\n\n  \n  \n  \nDi\n\n\n\nKoneksi ",
       "metadata": {
         "created": 1728009493,
-        "updated": 1729475170,
+        "updated": 1729550113,
         "images": {},
         "videos": {},
         "published": true,
@@ -2167,7 +2201,7 @@
       "description": "data sudah tersimpan di DB\n\n  \n  Tulis Q-2\n  \n  \n   \n\n\n\n  expand\n\n\n\n  \n  \n  \nDi\n\nBy the end of this lesson, you should be able to...\n\n  \n  Tulis Q-2\n  \n  \n   \n\n\n\n  expand\n\n\n\n  \n  \n  \nDi\n\n\nMemahami Pr",
       "metadata": {
         "created": 1728009657,
-        "updated": 1729475171,
+        "updated": 1729550114,
         "images": {},
         "videos": {},
         "published": true,
@@ -2190,7 +2224,7 @@
       "description": "cara mengumpulkan data dengan cepat adalah form\n\n  \n  Tulis Q-2\n  \n  \n   \n\n\n\n  expand\n\n\n\n  \n  \n  \nBy the end of this lesson, you should be able to...\nDi\n\n  \n  Tulis Q-2\n  \n  \n   \n\n\n\n  expand\n\n\n\n  \n  ",
       "metadata": {
         "created": 1728009818,
-        "updated": 1729475171,
+        "updated": 1729550114,
         "images": {},
         "videos": {},
         "published": true,
@@ -2205,13 +2239,13 @@
       "indent": 1,
       "location": "pages/item-586983b6-bd54-4459-b812-bdcb70e686e3/index.html",
       "slug": "berpikir-komputasional-dan-algoritma-pemrograman/mengedit-data-dengan-form",
-      "order": 12,
+      "order": 13,
       "parent": "item-f6a56c5c-9bb8-4c09-9e18-a4a4e8060ef8",
       "title": "Mengedit Data dengan Form",
       "description": "sudahkah melihat hasilnya ? amazing khan\n\n  \n  Tulis Q-2\n  \n  \n   \n\n\n\n  expand\n\n\n\n  \n  \n  \nDi\nBy the end of this lesson, you should be able to...\n\n  \n  Tulis Q-2\n  \n  \n   \n\n\n\n  expand\n\n\n\n  \n  \n  \nDi\n",
       "metadata": {
         "created": 1728010014,
-        "updated": 1729475171,
+        "updated": 1729550114,
         "images": {},
         "videos": {},
         "published": true,
@@ -2226,13 +2260,13 @@
       "indent": 1,
       "location": "pages/item-680d0d46-7ad4-457b-8d7e-594eae331bab/index.html",
       "slug": "berpikir-komputasional-dan-algoritma-pemrograman/menghapus-data-siswa",
-      "order": 13,
+      "order": 14,
       "parent": "item-f6a56c5c-9bb8-4c09-9e18-a4a4e8060ef8",
       "title": "Menghapus Data Siswa",
       "description": "dari data di atas kita bisa hapus juga\n\n  \n  Tulis Q-2\n  \n  \n   \n\n\n\n  expand\n\n\n\n  \n  \n  \nDi\nBy the end of this lesson, you should be able to...\nv\n\n  \n  Tulis Q-2\n  \n  \n   \n\n\n\n  expand\n\n\n\n  \n  \n  \nDi\n",
       "metadata": {
         "created": 1728010176,
-        "updated": 1729475171,
+        "updated": 1729550115,
         "images": {},
         "videos": {},
         "published": true,
@@ -2247,13 +2281,13 @@
       "indent": 1,
       "location": "pages/item-8b826f34-9ac4-4235-9838-4ed25e8dbfd7/index.html",
       "slug": "berpikir-komputasional-dan-algoritma-pemrograman/laporan-data-presensi",
-      "order": 14,
+      "order": 15,
       "parent": "item-f6a56c5c-9bb8-4c09-9e18-a4a4e8060ef8",
       "title": "Laporan Data Presensi",
       "description": "data presensi siswa\n\n  \n  Tulis Q-2\n  \n  \n   \n\n\n\n  expand\n\n\n\n  \n  \n  \nDi\n\nBy the end of this lesson, you should be able to...\n\n  \n  Tulis Q-2\n  \n  \n   \n\n\n\n  expand\n\n\n\n  \n  \n  \nDi\nMemahami Laporan Dat",
       "metadata": {
         "created": 1728010301,
-        "updated": 1729475171,
+        "updated": 1729550115,
         "images": {},
         "videos": {},
         "published": true,
@@ -2276,7 +2310,7 @@
       "description": "\n\n\n\n  \n  Tulis Q-2\n  \n  \n   \n\n\n\n  expand\n\n\n\n  \n  \n  \nDi\n\nBy the end of this lesson, you should be able to...\n\n\n\n  \n  Tulis Q-2\n  \n  \n   \n\n\n\n  expand\n\n\n\n  \n  \n  \n\nHASIL PENGOLAHAN DATA : TEKS, TABEL, ",
       "metadata": {
         "created": 1728277129,
-        "updated": 1729475172,
+        "updated": 1729550125,
         "images": {},
         "videos": {},
         "published": false,

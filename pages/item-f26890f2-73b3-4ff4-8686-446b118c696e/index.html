@@ -2,18 +2,21 @@
 <p>Sudah tidak sabar untuk mempraktekkan apa yang sudah dipahami tentang database. Okeee.&#160;😃</p>
 <p>Mari kita membuat basis data yang bisa kita mainkan.</p>
 <p>Anda akan membuat dua, satu di <code style="box-sizing: border-box; font-family: SFMono-Regular, Menlo, Monaco, Consolas, &quot;Liberation Mono&quot;, &quot;Courier New&quot;, monospace; font-size: 14px; color: rgb(164, 19, 87); word-break: break-word; font-weight: bold;">localhost</code>(PC Anda), dan satu di <vocab-term term="Infinity" information="Sebagaimana namanya, InfinityFree menawarkan hosting gratis “selamanya”. Perusahaan ini menjual hosting-nya secara gratis sepenuhnya dan ini benar adanya. Perusahaan ini disponsori oleh iFastNet – perusahaan hosting web lainnya yang menyediakan hosting secara gratis. Peladen-peladennya terletak di Inggris dan mendukung lebih dari 300.000 pelanggan. Situs web-nya hanya tersedia dalam bahasa Inggris.
-" popover-mode links="[{&quot;title&quot;:&quot;[]&quot;}]">Infinity</vocab-term>
+" popover-mode links="[{&quot;title&quot;:&quot;[{\&quot;title\&quot;:\&quot;[{\\\&quot;title\\\&quot;:\\\&quot;[]\\\&quot;}]\&quot;}]&quot;}]">Infinity</vocab-term>
+
+
 
 . Ini adalah cara yang bagus untuk bekerja. Jalankan kode Anda di PC Anda, lalu buat duplikat DB di server Anda.</p>
 <h3 data-original-level="H3" id="header-dbe635bf-596b-d3fb-17e0-03c0e42f8044">Host lokal</h3>
 <p>Di XAMPP CP (panel kontrol), jalankan Apache dan MySQL. Kemudian klik tombol DB admin.</p>
 <p></p>
 <media-image source="https://muhidin.web.id/wp-content/uploads/2020/05/XAMPP.png" citation="XAMPP" accent-color="grey" size="wide" offset="none" card></media-image>
-<p><img alt="Memulai phpMyAdmin" src="https://webapps.skilling.us/sites/default/files/lessons/databases/make-db/cp-db-admin.png" title="Memulai phpMyAdmin" ="false"=""="false"></p>
 <p>phpMyAdmin akan dimulai. Ini adalah aplikasi web yang ditulis dalam PHP, jadi dimulai di browser.</p>
 <p>Kini, MySQL memiliki sistem keamanannya sendiri, terpisah dari OS. Saat Anda mengakses DB MySQL, Anda melakukannya sebagai pengguna MySQL. Lebih mudah untuk membuat pengguna dan DB secara bersamaan.</p>
-<p><img src="https://webapps.skilling.us/sites/default/files/skilling/characters/ethan-smile11.png" alt="Etan" ="false"=""="false">Etan</p>
-<p>Jadi pengguna MySQL tidak ada hubungannya dengan info pengguna Reclaim saya?</p>
+<meme-maker alt="pengguna infinityfree" image-url="https://cdn2.thecatapi.com/images/c3r.png" top-text="what" bottom-text=" Jadi pengguna MySQL tidak ada hubungannya dengan info pengguna INFINITYFREE saya?">
+    <div>what</div>
+      <img src="https://cdn2.thecatapi.com/images/c3r.png" alt="pengguna infinityfree" preload="lazy" aria-describedby=""/>
+    <div> Jadi pengguna MySQL tidak ada hubungannya dengan info pengguna INFINITYFREE saya?</div></meme-maker>
 <p>Benar. Pengguna MySQL adalah urusan mereka sendiri. Anda menggunakannya untuk terhubung ke DB Anda dalam program PHP, tetapi hanya itu saja.</p>
 <p>Klik pada tab akun pengguna...</p>
 <p><img alt="Tab akun pengguna" src="https://webapps.skilling.us/sites/default/files/lessons/databases/make-db/user-accounts-tab.png" title="Tab akun pengguna" ="false"=""="false"></p>
@@ -24,8 +27,8 @@
 <p>Saya membuat pengguna dengan nama <code style="box-sizing: border-box; font-family: SFMono-Regular, Menlo, Monaco, Consolas, &quot;Liberation Mono&quot;, &quot;Courier New&quot;, monospace; font-size: 14px; color: rgb(164, 19, 87); word-break: break-word; font-weight: bold;">wombat</code>, dan database bernama <code style="box-sizing: border-box; font-family: SFMono-Regular, Menlo, Monaco, Consolas, &quot;Liberation Mono&quot;, &quot;Courier New&quot;, monospace; font-size: 14px; color: rgb(164, 19, 87); word-break: break-word; font-weight: bold;">wombat</code>juga.</p>
 <p>Klik tombol Go (kanan bawah halaman). Anda akan melihat pesan konfirmasi, dan DB baru pada daftar:</p>
 <img alt="Dibuat pengguna" src="https://webapps.skilling.us/sites/default/files/lessons/databases/make-db/new-db.png" title="Dibuat pengguna"/><h5 data-original-level="H5" id="header-eac93410-9376-e88f-b24d-dae020d2325b" data-design-treatment="horz-50p"><br></h5>
-<h3 data-original-level="H3" id="header-29d65820-b42f-3d94-a86e-7308c9573957">Klaim kembali akun</h3>
-<p>Mari buat DB wombat di server Reclaim Anda.</p>
+<h3 data-original-level="H3" id="header-29d65820-b42f-3d94-a86e-7308c9573957">Info akun &#8203;free server<br></h3>
+<p>Mari buat DB siswa di server Infinityfree Anda.</p>
 <p>Cara termudah untuk melakukannya adalah dengan cPanel. Mudah itu bagus. Ini sama seperti yang Anda lakukan dengan phpMyAdmin di locahost, hanya dengan antarmuka yang sedikit berbeda.</p>
 <p>Buka cPanel. Cari bagian DB. Buka wizard.</p>
 <p><img alt="Memulai wizard" src="https://webapps.skilling.us/sites/default/files/lessons/databases/make-db/cpanel-icons.png" title="Memulai wizard" ="false"=""="false"></p>
@@ -33,12 +36,14 @@
 <p><img alt="Nama DB" src="https://webapps.skilling.us/sites/default/files/lessons/databases/make-db/db-name.png" title="Nama DB" ="false"=""="false"></p>
 <h5 data-original-level="H5" id="header-eac93410-9376-e88f-b24d-dae020d2325b" data-design-treatment="horz-50p"><br></h5>
 <p>Nama DB sedikit berbeda di server Anda. Ada hal-hal tambahan di awal.</p>
-<p><img src="https://webapps.skilling.us/sites/default/files/skilling/characters/ethan-smile15.png" alt="Etan" ="false"=""="false">Etan</p>
-<p>Mengapa demikian?</p>
-<p>Anda satu-satunya orang yang membuat DB di PC Anda. Jika Anda membuat DB bernama wombat, hanya ada satu.</p>
-<p>Akun Reclaim Anda berbeda. Untuk menekan biaya, Anda berbagi satu server Linux dengan orang lain. Apa yang terjadi jika beberapa dari Anda membuat DB wombat? Argh! Namanya bentrok.</p>
+<meme-maker alt="pengguna infinityfree" image-url="https://cdn2.thecatapi.com/images/c3r.png" top-text="what" bottom-text="Mengapa demikian?">
+    <div>what</div>
+      <img src="https://cdn2.thecatapi.com/images/c3r.png" alt="pengguna infinityfree" preload="lazy" aria-describedby=""/>
+    <div>Mengapa demikian?</div></meme-maker>
+<p>Anda satu-satunya orang yang membuat DB di PC Anda. Jika Anda membuat DB bernama <b>dbsiswa</b>, hanya ada satu.</p>
+<p>Akun server Anda berbeda. Untuk menekan biaya, Anda berbagi satu server Linux dengan orang lain. Apa yang terjadi jika beberapa dari Anda membuat DB siswa? Argh! Namanya bentrok.</p>
 <p>Hmm. Apa yang harus dilakukan?</p>
-<p>Setiap pengguna Reclaim memiliki akun di server Linux mereka. Anda dapat melihat nama pengguna Linux Anda di halaman cPanel utama:</p>
+<p>Setiap pengguna Infinityfree memiliki akun di server Linux mereka. Anda dapat melihat nama pengguna Linux Anda di halaman cPanel utama:</p>
 <p><img alt="Nama pengguna Linux" src="https://webapps.skilling.us/sites/default/files/lessons/databases/make-db/linux-user.png" title="Nama pengguna Linux" ="false"=""="false"></p>
 <p>Nama pengguna Anda unik. Server Anda menggunakan fakta itu untuk membuat nama DB yang unik.</p>
 <p>Jika nama pengguna Anda adalah rosie, direktori home Anda akan menjadi <code style="box-sizing: border-box; font-family: SFMono-Regular, Menlo, Monaco, Consolas, &quot;Liberation Mono&quot;, &quot;Courier New&quot;, monospace; font-size: 14px; color: rgb(164, 19, 87); word-break: break-word; font-weight: bold;">/home/rosie</code>. Anda dapat melihatnya di File Manager cPanel.</p>
@@ -48,7 +53,10 @@
 <p>Jadi nama sebenarnya DB <em>di server itu</em> adalah rosie_wombat.</p>
 <p><button type="button" title="Tampilkan lebih banyak konten">Lagi...</button><button type="button" aria-haspopup="true" aria-expanded="false">Alihkan Menu Tarik Turun</button></p>
 <h5 data-original-level="H5" id="header-eac93410-9376-e88f-b24d-dae020d2325b" data-design-treatment="horz-50p"><br></h5>
-<p><img src="https://webapps.skilling.us/sites/default/files/skilling/characters/adela-smile2.jpg" alt="Adela" ="false"=""="false">Adela</p>
+<meme-maker alt="pengguna infinityfree" image-url="https://cdn2.thecatapi.com/images/c3r.png" top-text="what" bottom-text="  Bisakah saya menggunakan nama yang sama untuk DB localhost?">
+    <div>what</div>
+      <img src="https://cdn2.thecatapi.com/images/c3r.png" alt="pengguna infinityfree" preload="lazy" aria-describedby=""/>
+    <div>  Bisakah saya menggunakan nama yang sama untuk DB localhost?</div></meme-maker>
 <p>Bisakah saya menggunakan nama yang sama untuk DB di <code style="box-sizing: border-box; font-family: SFMono-Regular, Menlo, Monaco, Consolas, &quot;Liberation Mono&quot;, &quot;Courier New&quot;, monospace; font-size: 14px; color: rgb(164, 19, 87); word-break: break-word; font-weight: bold;">localhost</code>?</p>
 <p>Ya, Anda bisa! Kalau begitu, hasilnya akan sama saja. Bagus! Tapi Anda tidak perlu melakukannya. Saya biasanya tidak peduli.</p>
 <h5 data-original-level="H5" id="header-eac93410-9376-e88f-b24d-dae020d2325b" data-design-treatment="horz-50p"><br></h5>

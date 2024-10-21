@@ -1,7 +1,7 @@
 
 <p>Kita sudah tabel merupakan bagian dari database. Isi data ada beberapa komponen.</p>
-<p></p>
-<learning-component subtitle="Unit 1" type=""><p>By the end of this lesson, you should be able to...</p></learning-component>
+<ol><li role="textbox">​Field</li><li role="textbox">record </li></ol>
+<learning-component subtitle="Unit 1" type=""><p>Pada akhir pelajaran, Siswa seharusnya dapat ...</p><ol><li role="textbox">Membuat ​tabel ​pada ​database</li><li>Mengisi data pada Tabel<br></li></ol><p></p></learning-component>
 <p>Data di tabel dikumpulkan secara sedikit atau banyak sekaligus. Berikut cara untuk menambahkan data pada tabel.</p>
 <p>Mari tambahkan beberapa data ke DB Anda.</p>
 <p>Jalankan phpMyAdmin di <code style="box-sizing: border-box; font-family: SFMono-Regular, Menlo, Monaco, Consolas, &quot;Liberation Mono&quot;, &quot;Courier New&quot;, monospace; font-size: 14px; color: rgb(164, 19, 87); word-break: break-word; font-weight: bold;">localhost</code>. Pilih tabel wombats di DB wombats.</p>
@@ -9,14 +9,18 @@
 <p>Gunakan tab Sisipkan, dan isi kolom untuk catatan baru, tetapi <em>biarkan id MT (kosong)</em> . Ingat, kita menyetel kolom id untuk penambahan otomatis. MySQL akan menyetel nilainya untuk kita.</p>
 <p><img alt="Satu rekaman" src="https://webapps.skilling.us/sites/default/files/lessons/databases/add-data/new-record.png" title="Satu rekaman" ="false"=""="false"></p>
 <p>Simpan rekaman. Anda akan melihat sesuatu seperti:</p>
-<p><img alt="Baris dimasukkan" src="https://webapps.skilling.us/sites/default/files/lessons/databases/add-data/row-inserted.png" title="Baris dimasukkan" ="false"=""="false"></p>
+<p><img alt="Baris dimasukkan" src="files/sql.JPG" title="Baris dimasukkan" ="false"=""="false"></p>
 <p>Lihat pernyataan INSERT:</p>
-<ul><li>MASUKKAN KE `wombat` (`wombat_id`, `nama`, `berat`, `komentar`)</li><li>NILAI (NULL, 'Bingung', '27', 'Seekor wombat yang bingung.');</li></ul>
+<code-sample copy-clipboard-button type="html"><template preserve-content="preserve-content">INSERT INTO `siswa` (`nis`, `nama`, `gender`, `agama`, `tmp_lahir`, `tgl_lahir`) VALUES ('202310', 'Putri Ayuningtyas', 'Perempuan', 'Islam', 'Kediri', '2007-12-31');</template></code-sample>
 <p>Ini adalah SQL, sebuah pernyataan yang akan membuat rekaman baru. Ini hanya sebuah string, yang dapat Anda buat sendiri dalam kode. Anda akan melakukannya nanti.</p>
 <p>Klik tautan Buat kode PHP. Anda akan melihat:</p>
-<ul><li>$sql = "INSERT INTO `wombats` (`wombat_id`, `name`, `weight`, `comments`) VALUES (NULL, \'Muddle\', \'27\', \'Wombat yang berkepala kacau.\')";</li></ul>
+<code-sample copy-clipboard-button type="php" data-hax-lock="data-hax-lock">  
+<template preserve-content="preserve-content">$sql = INSERT INTO `siswa` (`nis`, `nama`, `gender`, `agama`, `tmp_lahir`, `tgl_lahir`) VALUES (\'202310\', \'Putri Ayuningtyas\', 'Perempuan', 'Islam', 'Kediri', \'2007-12-31\');</template></code-sample>
 <p>Kode Anda akan terlihat seperti itu.</p>
-<p><img src="https://webapps.skilling.us/sites/default/files/skilling/characters/ethan-smile14.png" alt="Etan" ="false"=""="false">Etan</p>
+<meme-maker alt="Cat stalking a small toy" image-url="https://cdn2.thecatapi.com/images/ap6.jpg" top-text="Apa gunanya" bottom-text="tanda kutip, garis miring dan sebagainya?">
+    <div>Apa gunanya</div>
+      <img src="https://cdn2.thecatapi.com/images/ap6.jpg" alt="Cat stalking a small toy" preload="lazy" aria-describedby=""/>
+    <div>tanda kutip, garis miring dan sebagainya?</div></meme-maker>
 <p>Apa gunanya tanda kutip, garis miring dan sebagainya?</p>
 <p>Seluruh string ada di dalam tanda kutip ganda: <code style="box-sizing: border-box; font-family: SFMono-Regular, Menlo, Monaco, Consolas, &quot;Liberation Mono&quot;, &quot;Courier New&quot;, monospace; font-size: 14px; color: rgb(164, 19, 87); word-break: break-word; font-weight: bold;">"INSERT INTO ... ";</code>. Itu agar PHP tahu di mana string dimulai dan berakhir.</p>
 <p>Tanda `s disebut tanda kutip terbalik, atau tanda kutip terbalik. Tanda kutip terbalik memungkinkan Anda memberi spasi pada nama tabel dan kolom. Misalnya, anggaplah kita menamai tabel <code style="box-sizing: border-box; font-family: SFMono-Regular, Menlo, Monaco, Consolas, &quot;Liberation Mono&quot;, &quot;Courier New&quot;, monospace; font-size: 14px; color: rgb(164, 19, 87); word-break: break-word; font-weight: bold;">cute wombats</code>. Kita akan memasukkannya <code style="box-sizing: border-box; font-family: SFMono-Regular, Menlo, Monaco, Consolas, &quot;Liberation Mono&quot;, &quot;Courier New&quot;, monospace; font-size: 14px; color: rgb(164, 19, 87); word-break: break-word; font-weight: bold;">`cute wombats`</code>ke dalam SQL, sehingga DBMS akan tahu bahwa kita memiliki spasi pada nama tabel.</p>

@@ -7,8 +7,8 @@
   "metadata": {
     "author": {
       "image": "",
-      "name": null,
-      "email": null,
+      "name": "Andy Yulianto",
+      "email": "andyyulianto77@guru.sma.belajar.id",
       "socialLink": null
     },
     "site": {
@@ -23,12 +23,12 @@
         "gaID": null
       },
       "created": 1721189568,
-      "updated": 1729691115,
+      "updated": 1729733608,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
       },
-      "version": "9.0.6",
+      "version": "9.0.10",
       "domain": null,
       "tags": null,
       "static": {}
@@ -39,7 +39,7 @@
       "name": "Learn theme",
       "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/GreyStyle.svg",
       "variables": {
-        "image": "",
+        "image": "https://images-assets.nasa.gov/image/NHQ202102180043/NHQ202102180043~thumb.jpg",
         "imageAlt": null,
         "imageLink": null,
         "hexCode": "#3f51b5",
@@ -531,10 +531,10 @@
       "order": 0,
       "parent": null,
       "title": "Bersiap-siap Pro",
-      "description": "Buku yang mirip buku teks ini dibagi menjadi beberapa bagian. Bagian ini disebut \"Bersiap.\" Ada beberapa pelajaran di dalamnya. Anda dapat melihat daftarnya di bagian bawah halaman. Setiap pelajaran ",
+      "description": "Buku yang mirip buku teks ini dibagi menjadi beberapa bagian. Bagian ini disebut ",
       "metadata": {
         "created": 1727971221,
-        "updated": 1729691098,
+        "updated": 1729733585,
         "images": {},
         "videos": {},
         "published": true,
